@@ -1,0 +1,508 @@
+{
+ "snapshotAt": "2026-10-10T12:00:00-04:00",
+ "teams": [
+  {
+   "league": "AL",
+   "seed": 1,
+   "team": "Tampa Bay Rays",
+   "abbr": "TB",
+   "qualified": "AL East champions (best AL record) - bye",
+   "record": "98-64"
+  },
+  {
+   "league": "AL",
+   "seed": 2,
+   "team": "Cleveland Guardians",
+   "abbr": "CLE",
+   "qualified": "AL Central champions - bye",
+   "record": "85-77"
+  },
+  {
+   "league": "AL",
+   "seed": 3,
+   "team": "Houston Astros",
+   "abbr": "HOU",
+   "qualified": "AL West champions (81-81; first division winner in MLB history without a winning record per Wikipedia)",
+   "record": "81-81"
+  },
+  {
+   "league": "AL",
+   "seed": 4,
+   "team": "New York Yankees",
+   "abbr": "NYY",
+   "qualified": "Wild card #1 (seeds 4-6 are wild cards by record; Wikipedia lists no explicit label)",
+   "record": "93-68"
+  },
+  {
+   "league": "AL",
+   "seed": 5,
+   "team": "Boston Red Sox",
+   "abbr": "BOS",
+   "qualified": "Wild card #2",
+   "record": "87-75"
+  },
+  {
+   "league": "AL",
+   "seed": 6,
+   "team": "Chicago White Sox",
+   "abbr": "CWS",
+   "qualified": "Wild card #3",
+   "record": "84-78"
+  },
+  {
+   "league": "NL",
+   "seed": 1,
+   "team": "Milwaukee Brewers",
+   "abbr": "MIL",
+   "qualified": "NL Central champions (best record in NL and MLB) - bye",
+   "record": "103-59"
+  },
+  {
+   "league": "NL",
+   "seed": 2,
+   "team": "Los Angeles Dodgers",
+   "abbr": "LAD",
+   "qualified": "NL West champions - bye",
+   "record": "100-62"
+  },
+  {
+   "league": "NL",
+   "seed": 3,
+   "team": "Atlanta Braves",
+   "abbr": "ATL",
+   "qualified": "NL East champions",
+   "record": "94-68"
+  },
+  {
+   "league": "NL",
+   "seed": 4,
+   "team": "San Diego Padres",
+   "abbr": "SD",
+   "qualified": "Wild card #1",
+   "record": "91-71"
+  },
+  {
+   "league": "NL",
+   "seed": 5,
+   "team": "Chicago Cubs",
+   "abbr": "CHC",
+   "qualified": "Wild card #2",
+   "record": "89-73"
+  },
+  {
+   "league": "NL",
+   "seed": 6,
+   "team": "Philadelphia Phillies",
+   "abbr": "PHI",
+   "qualified": "Wild card #3",
+   "record": "88-74"
+  }
+ ],
+ "bracket": [
+  {
+   "round": "ALWCS",
+   "series": "(3) Houston Astros vs (6) Chicago White Sox",
+   "format": "best-of-3",
+   "status": "complete",
+   "result": "White Sox won 2-0 (G1 CWS 6-3 HOU; G2 CWS 7-3 HOU)",
+   "startDate": "2026-09-29",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "ALWCS",
+   "series": "(4) New York Yankees vs (5) Boston Red Sox",
+   "format": "best-of-3",
+   "status": "complete",
+   "result": "Yankees won 2-0 (G1 NYY 9-0; G2 NYY 9-2)",
+   "startDate": "2026-09-29",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "NLWCS",
+   "series": "(3) Atlanta Braves vs (6) Philadelphia Phillies",
+   "format": "best-of-3",
+   "status": "complete",
+   "result": "Braves won 2-1 (G1 ATL 5-3; G2 PHI 4-3 in 10; G3 ATL 6-2)",
+   "startDate": "2026-09-29",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "NLWCS",
+   "series": "(4) San Diego Padres vs (5) Chicago Cubs",
+   "format": "best-of-3",
+   "status": "complete",
+   "result": "Padres won 2-0 (G1 SD 8-0; G2 SD 4-1)",
+   "startDate": "2026-09-29",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "ALDS",
+   "series": "(1) Tampa Bay Rays vs (4) New York Yankees",
+   "format": "best-of-5",
+   "status": "complete",
+   "result": "Rays won 3-0 (G1 TB 1-0; G2 TB 5-2; G3 TB 4-3 at NYY)",
+   "startDate": "2026-10-03",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "ALDS",
+   "series": "(2) Cleveland Guardians vs (6) Chicago White Sox",
+   "format": "best-of-5",
+   "status": "in progress - tied 2-2, decisive Game 5 Sat Oct 10 8:00 pm ET at Progressive Field",
+   "result": "Tied 2-2 (G1 CWS 3-0; G2 CWS 4-3; G3 CLE 9-3; G4 CLE 9-5)",
+   "startDate": "2026-10-03",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason",
+    "https://www.espn.com/mlb/standings"
+   ]
+  },
+  {
+   "round": "NLDS",
+   "series": "(1) Milwaukee Brewers vs (4) San Diego Padres",
+   "format": "best-of-5",
+   "status": "complete",
+   "result": "Brewers won 3-1 (G1 MIL 3-2; G2 MIL 4-3; G3 SD 4-3; G4 MIL 3-1)",
+   "startDate": "2026-10-03",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "NLDS",
+   "series": "(2) Los Angeles Dodgers vs (3) Atlanta Braves",
+   "format": "best-of-5",
+   "status": "complete",
+   "result": "Dodgers won 3-1 (G1 LAD 5-3; G2 ATL 3-2; G3 LAD 3-1; G4 LAD 4-1)",
+   "startDate": "2026-10-03",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "ALCS",
+   "series": "(1) Tampa Bay Rays vs winner of CLE/CWS ALDS",
+   "format": "best-of-7",
+   "status": "scheduled (opponent TBD pending ALDS G5)",
+   "result": "Not started. Schedule: G1 Oct 12, G2 Oct 13 at TB; G3 Oct 15, G4 Oct 16 at opponent; G5 Oct 17*, G6 Oct 19*, G7 Oct 20* (*if necessary)",
+   "startDate": "2026-10-12",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "NLCS",
+   "series": "(1) Milwaukee Brewers vs (2) Los Angeles Dodgers",
+   "format": "best-of-7",
+   "status": "scheduled",
+   "result": "Not started. G1 Oct 11, G2 Oct 12 at MIL; G3 Oct 14, G4 Oct 15, G5 Oct 16* at LAD; G6 Oct 18*, G7 Oct 19* at MIL. Dodgers won all 3 prior postseason meetings (2018, 2020, 2025)",
+   "startDate": "2026-10-11",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "World Series",
+   "series": "AL champion vs NL champion",
+   "format": "best-of-7",
+   "status": "scheduled",
+   "result": "Begins Oct 23; Game 7 (if needed) Oct 31",
+   "startDate": "2026-10-23",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  }
+ ],
+ "leaders": [
+  {
+   "category": "AL HR",
+   "player": "Pete Alonso",
+   "team": "BAL",
+   "value": "43",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL HR",
+   "player": "Pete Crow-Armstrong (CHC) and Kyle Schwarber (PHI), tied",
+   "team": "CHC / PHI",
+   "value": "45",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL AVG",
+   "player": "Yordan Alvarez",
+   "team": "HOU",
+   "value": ".316",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL AVG",
+   "player": "Gabriel Moreno",
+   "team": "ARI",
+   "value": ".311",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL RBI",
+   "player": "Pete Alonso",
+   "team": "BAL",
+   "value": "113",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL RBI",
+   "player": "Alec Burleson",
+   "team": "STL",
+   "value": "116",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL SB",
+   "player": "Chandler Simpson",
+   "team": "TB",
+   "value": "46",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL SB",
+   "player": "Nasim Nuñez",
+   "team": "WAS",
+   "value": "49",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL W",
+   "player": "Sonny Gray",
+   "team": "BOS",
+   "value": "18",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL W",
+   "player": "Cristopher Sánchez",
+   "team": "PHI",
+   "value": "18",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL ERA",
+   "player": "Cam Schlittler",
+   "team": "NYY",
+   "value": "1.95",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL ERA",
+   "player": "Jacob Misiorowski",
+   "team": "MIL",
+   "value": "1.80",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL K",
+   "player": "Gavin Williams",
+   "team": "CLE",
+   "value": "248",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL K",
+   "player": "Jacob Misiorowski",
+   "team": "MIL",
+   "value": "252",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL SV",
+   "player": "Bryan Baker (TB) and Cade Smith (CLE), tied",
+   "team": "TB / CLE",
+   "value": "41",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL SV",
+   "player": "Mason Miller (SD) and Riley O'Brien (STL), tied",
+   "team": "SD / STL",
+   "value": "38",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL H",
+   "player": "Yandy Díaz",
+   "team": "TB",
+   "value": "180",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL H",
+   "player": "Otto Lopez",
+   "team": "MIA",
+   "value": "191",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL R",
+   "player": "Randy Arozarena",
+   "team": "SEA",
+   "value": "112",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL R",
+   "player": "Pete Crow-Armstrong",
+   "team": "CHC",
+   "value": "119",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  }
+ ],
+ "facts": [
+  {
+   "text": "Brewers' 103-59 was the best record in MLB; Dodgers (100-62) were the only other 100-win team.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Worst records: Colorado Rockies 58-104 (worst MLB), San Francisco Giants 65-97; Angels (62-100) worst in AL.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Houston Astros (81-81) became the first team in MLB history to win a division without a winning record.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Dodgers clinched a 14th straight postseason berth (2013-2026), tying the Braves' record streak (1991-2005 excl. 1994).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Only the 4th time both Chicago teams made the postseason (1906, 2008, 2020, 2026).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Padres reached the postseason for a third straight year for the first time in franchise history.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "One no-hitter in 2026: Houston combined (Tatsuya Imai 6 IP, Steven Okert, Alimber Santa in MLB debut) vs Texas on May 25 - the 18th no-hitter in Astros history.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Colson Montgomery (CWS) set the AL single-season strikeout record on Sep 24 with 223 (passing Adam Dunn, 2012; tying Mark Reynolds, 2009). A following entry says a player set the MLB record with a 224th K on Sep 25 and finished with 227; the page text read does not name that player in the lines read (likely Montgomery, unconfirmed).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "A player named Wood (team not named in the lines read) entered the All-Star Break with a 21-run lead in runs scored, breaking Ted Williams' 1946 margin of 19; he had 89 runs, Bryan Reynolds (PIT) 68 second.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Chase DeLauter (CLE, Mar 26) and José Fernández (ARI, Mar 31) each homered twice in their MLB debut.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Munetaka Murakami (CWS): 10 HR in first 24 games, most ever by a Japanese-born player; 23rd HR on Jul 24 set rookie HR record for Japanese-born players, passing Shohei Ohtani (2018).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Tyler Glasnow (LAD) reached 1,000 career strikeouts in 793 IP on May 5, fastest by a starting pitcher.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Jacob deGrom (TEX) recorded his 2,000th career strikeout on Aug 20.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Season opened Mar 25 (Yankees at Giants); regular season ended Sep 27. Orioles-Yankees on Sep 27 was rained out and never made up.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Wild Card Series sweeps: all but Braves-Phillies were sweeps. Yankees' ALDS sweep loss was the first time the Yankees were swept in a postseason series outside ALCS/WS.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Rays swept the Yankees in the ALDS; Drew Rasmussen threw 8 shutout innings in Game 1 (Rays 1-0).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "2026 World Series is scheduled to begin Oct 23, ending no later than Oct 31 (Game 7).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Stewart, Murakami (CWS) and Okamoto each reached 30+ HR in 2026, the first trio of rookies in MLB history to do so (Okamoto's 30th on Sep 8).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  }
+ ],
+ "defendingChampion": {
+  "year": 2025,
+  "champion": "Los Angeles Dodgers",
+  "runnerUp": "Toronto Blue Jays",
+  "seriesResult": "Dodgers won 4-3 (Oct 24 - Nov 1, 2025; Rogers Centre and Dodger Stadium)",
+  "mvp": "Yoshinobu Yamamoto (LAD)",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025_World_Series"
+  ]
+ },
+ "formatRules": [
+  "12 teams: 6 per league (3 division winners seeded 1-3 by record, 3 wild cards seeded 4-6 by record).",
+  "Seeds 1 and 2 (two best division winners) get a bye past the Wild Card Series.",
+  "Wild Card Series: best-of-3, all games hosted by the higher seed: (3) vs (6) and (4) vs (5).",
+  "Division Series: best-of-5; seeds 1 and 2 face the lowest-remaining wild card survivors (2-2-1 format, higher seed hosts G1, G2, G5).",
+  "League Championship Series and World Series: best-of-7 (LCS 2-3-2).",
+  "Home field in LCS goes to the better record unless both teams are wild cards; World Series home field goes to the better regular-season record (since 2017, not tied to All-Star Game).",
+  "No Game 163 tiebreaker games; ties broken by formula (since 2022)."
+ ],
+ "unverified": [
+  "ALDS Cleveland-Chicago White Sox Game 5 (Oct 10, 8:00 pm ET) result unknown at snapshot; ALCS opponent TBD.",
+  "Wikipedia 2026 season page league-leaders table may not be final (page says season 'present'); only league leaders per league are listed, no combined MLB leader computed. Cross-check with MLB.com/ESPN stats pages not done.",
+  "Wild card labels for seeds 4-6 inferred from seeding rule; Wikipedia postseason page does not label them explicitly.",
+  "Wikipedia season page's own bracket is stale (shows Rays 2-?, Brewers 2-?); used postseason page for results (Rays 3-0, Brewers 3-1). ESPN standings/headlines confirm only ALDS G5 pending.",
+  "Wikipedia attribution of Montgomery's 227 strikeouts: second entry's player header not read; verify before using.",
+  "Exact start time for ALCS/NLCS dates are as listed on Wikipedia; MLB.com schedule not read.",
+  "MLB.com and ESPN stats leader pages not read; no individual award data (MVP/Cy Young) collected.",
+  "Teams/full names for Wood and Stewart in milestone facts not confirmed from source text read."
+ ]
+}

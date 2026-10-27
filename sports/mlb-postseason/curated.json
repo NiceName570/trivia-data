@@ -1,0 +1,1240 @@
+{
+ "name": "MLB Postseason · 2026",
+ "verifiedOn": "2026-10-10",
+ "teams": [
+  {
+   "league": "AL",
+   "seed": 1,
+   "team": "Tampa Bay Rays",
+   "abbr": "TB",
+   "qualified": "AL East champions (best AL record) - bye",
+   "record": "98-64"
+  },
+  {
+   "league": "AL",
+   "seed": 2,
+   "team": "Cleveland Guardians",
+   "abbr": "CLE",
+   "qualified": "AL Central champions - bye",
+   "record": "85-77"
+  },
+  {
+   "league": "AL",
+   "seed": 3,
+   "team": "Houston Astros",
+   "abbr": "HOU",
+   "qualified": "AL West champions (81-81; first division winner in MLB history without a winning record per Wikipedia)",
+   "record": "81-81"
+  },
+  {
+   "league": "AL",
+   "seed": 4,
+   "team": "New York Yankees",
+   "abbr": "NYY",
+   "qualified": "Wild card #1 (seeds 4-6 are wild cards by record; Wikipedia lists no explicit label)",
+   "record": "93-68"
+  },
+  {
+   "league": "AL",
+   "seed": 5,
+   "team": "Boston Red Sox",
+   "abbr": "BOS",
+   "qualified": "Wild card #2",
+   "record": "87-75"
+  },
+  {
+   "league": "AL",
+   "seed": 6,
+   "team": "Chicago White Sox",
+   "abbr": "CWS",
+   "qualified": "Wild card #3",
+   "record": "84-78"
+  },
+  {
+   "league": "NL",
+   "seed": 1,
+   "team": "Milwaukee Brewers",
+   "abbr": "MIL",
+   "qualified": "NL Central champions (best record in NL and MLB) - bye",
+   "record": "103-59"
+  },
+  {
+   "league": "NL",
+   "seed": 2,
+   "team": "Los Angeles Dodgers",
+   "abbr": "LAD",
+   "qualified": "NL West champions - bye",
+   "record": "100-62"
+  },
+  {
+   "league": "NL",
+   "seed": 3,
+   "team": "Atlanta Braves",
+   "abbr": "ATL",
+   "qualified": "NL East champions",
+   "record": "94-68"
+  },
+  {
+   "league": "NL",
+   "seed": 4,
+   "team": "San Diego Padres",
+   "abbr": "SD",
+   "qualified": "Wild card #1",
+   "record": "91-71"
+  },
+  {
+   "league": "NL",
+   "seed": 5,
+   "team": "Chicago Cubs",
+   "abbr": "CHC",
+   "qualified": "Wild card #2",
+   "record": "89-73"
+  },
+  {
+   "league": "NL",
+   "seed": 6,
+   "team": "Philadelphia Phillies",
+   "abbr": "PHI",
+   "qualified": "Wild card #3",
+   "record": "88-74"
+  }
+ ],
+ "bracket": [
+  {
+   "round": "ALWCS",
+   "series": "(3) Houston Astros vs (6) Chicago White Sox",
+   "format": "best-of-3",
+   "status": "complete",
+   "result": "White Sox won 2-0 (G1 CWS 6-3 HOU; G2 CWS 7-3 HOU)",
+   "startDate": "2026-09-29",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "ALWCS",
+   "series": "(4) New York Yankees vs (5) Boston Red Sox",
+   "format": "best-of-3",
+   "status": "complete",
+   "result": "Yankees won 2-0 (G1 NYY 9-0; G2 NYY 9-2)",
+   "startDate": "2026-09-29",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "NLWCS",
+   "series": "(3) Atlanta Braves vs (6) Philadelphia Phillies",
+   "format": "best-of-3",
+   "status": "complete",
+   "result": "Braves won 2-1 (G1 ATL 5-3; G2 PHI 4-3 in 10; G3 ATL 6-2)",
+   "startDate": "2026-09-29",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "NLWCS",
+   "series": "(4) San Diego Padres vs (5) Chicago Cubs",
+   "format": "best-of-3",
+   "status": "complete",
+   "result": "Padres won 2-0 (G1 SD 8-0; G2 SD 4-1)",
+   "startDate": "2026-09-29",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "ALDS",
+   "series": "(1) Tampa Bay Rays vs (4) New York Yankees",
+   "format": "best-of-5",
+   "status": "complete",
+   "result": "Rays won 3-0 (G1 TB 1-0; G2 TB 5-2; G3 TB 4-3 at NYY)",
+   "startDate": "2026-10-03",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "ALDS",
+   "series": "(2) Cleveland Guardians vs (6) Chicago White Sox",
+   "format": "best-of-5",
+   "status": "in progress - tied 2-2, decisive Game 5 Sat Oct 10 8:00 pm ET at Progressive Field",
+   "result": "Tied 2-2 (G1 CWS 3-0; G2 CWS 4-3; G3 CLE 9-3; G4 CLE 9-5)",
+   "startDate": "2026-10-03",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason",
+    "https://www.espn.com/mlb/standings"
+   ]
+  },
+  {
+   "round": "NLDS",
+   "series": "(1) Milwaukee Brewers vs (4) San Diego Padres",
+   "format": "best-of-5",
+   "status": "complete",
+   "result": "Brewers won 3-1 (G1 MIL 3-2; G2 MIL 4-3; G3 SD 4-3; G4 MIL 3-1)",
+   "startDate": "2026-10-03",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "NLDS",
+   "series": "(2) Los Angeles Dodgers vs (3) Atlanta Braves",
+   "format": "best-of-5",
+   "status": "complete",
+   "result": "Dodgers won 3-1 (G1 LAD 5-3; G2 ATL 3-2; G3 LAD 3-1; G4 LAD 4-1)",
+   "startDate": "2026-10-03",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "ALCS",
+   "series": "(1) Tampa Bay Rays vs winner of CLE/CWS ALDS",
+   "format": "best-of-7",
+   "status": "scheduled (opponent TBD pending ALDS G5)",
+   "result": "Not started. Schedule: G1 Oct 12, G2 Oct 13 at TB; G3 Oct 15, G4 Oct 16 at opponent; G5 Oct 17*, G6 Oct 19*, G7 Oct 20* (*if necessary)",
+   "startDate": "2026-10-12",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "NLCS",
+   "series": "(1) Milwaukee Brewers vs (2) Los Angeles Dodgers",
+   "format": "best-of-7",
+   "status": "scheduled",
+   "result": "Not started. G1 Oct 11, G2 Oct 12 at MIL; G3 Oct 14, G4 Oct 15, G5 Oct 16* at LAD; G6 Oct 18*, G7 Oct 19* at MIL. Dodgers won all 3 prior postseason meetings (2018, 2020, 2025)",
+   "startDate": "2026-10-11",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "round": "World Series",
+   "series": "AL champion vs NL champion",
+   "format": "best-of-7",
+   "status": "scheduled",
+   "result": "Begins Oct 23; Game 7 (if needed) Oct 31",
+   "startDate": "2026-10-23",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  }
+ ],
+ "leaders": [
+  {
+   "category": "AL HR",
+   "player": "Pete Alonso",
+   "team": "BAL",
+   "value": "43",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL HR",
+   "player": "Pete Crow-Armstrong (CHC) and Kyle Schwarber (PHI), tied",
+   "team": "CHC / PHI",
+   "value": "45",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL AVG",
+   "player": "Yordan Alvarez",
+   "team": "HOU",
+   "value": ".316",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL AVG",
+   "player": "Gabriel Moreno",
+   "team": "ARI",
+   "value": ".311",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL RBI",
+   "player": "Pete Alonso",
+   "team": "BAL",
+   "value": "113",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL RBI",
+   "player": "Alec Burleson",
+   "team": "STL",
+   "value": "116",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL SB",
+   "player": "Chandler Simpson",
+   "team": "TB",
+   "value": "46",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL SB",
+   "player": "Nasim Nuñez",
+   "team": "WAS",
+   "value": "49",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL W",
+   "player": "Sonny Gray",
+   "team": "BOS",
+   "value": "18",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL W",
+   "player": "Cristopher Sánchez",
+   "team": "PHI",
+   "value": "18",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL ERA",
+   "player": "Cam Schlittler",
+   "team": "NYY",
+   "value": "1.95",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL ERA",
+   "player": "Jacob Misiorowski",
+   "team": "MIL",
+   "value": "1.80",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL K",
+   "player": "Gavin Williams",
+   "team": "CLE",
+   "value": "248",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL K",
+   "player": "Jacob Misiorowski",
+   "team": "MIL",
+   "value": "252",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL SV",
+   "player": "Bryan Baker (TB) and Cade Smith (CLE), tied",
+   "team": "TB / CLE",
+   "value": "41",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL SV",
+   "player": "Mason Miller (SD) and Riley O'Brien (STL), tied",
+   "team": "SD / STL",
+   "value": "38",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL H",
+   "player": "Yandy Díaz",
+   "team": "TB",
+   "value": "180",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL H",
+   "player": "Otto Lopez",
+   "team": "MIA",
+   "value": "191",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "AL R",
+   "player": "Randy Arozarena",
+   "team": "SEA",
+   "value": "113",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  },
+  {
+   "category": "NL R",
+   "player": "Pete Crow-Armstrong",
+   "team": "CHC",
+   "value": "119",
+   "source": "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+  }
+ ],
+ "contextFacts": [
+  {
+   "text": "Brewers' 103-59 was the best record in MLB; Dodgers (100-62) were the only other 100-win team.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Worst records: Rockies 58-104 (worst in MLB), Angels 62-100 (worst in AL; second worst overall), Athletics 64-98, Giants 65-97.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Houston Astros (81-81) became the first team in MLB history to win a division without a winning record.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Dodgers clinched a 14th straight postseason berth (2013-2026), tying the Braves' record streak (1991-2005 excl. 1994).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Only the 4th time both Chicago teams made the postseason (1906, 2008, 2020, 2026).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Padres reached the postseason for a third straight year for the first time in franchise history.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "One no-hitter in 2026: Houston combined (Tatsuya Imai 6 IP, Steven Okert, Alimber Santa in MLB debut) vs Texas on May 25 - the 18th no-hitter in Astros history.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Colson Montgomery (CWS) set the AL single-season strikeout record on Sep 24 with 223 (passing Adam Dunn, 2012; tying Mark Reynolds, 2009). A following entry says a player set the MLB record with a 224th K on Sep 25 and finished with 227; the page text read does not name that player in the lines read (likely Montgomery, unconfirmed).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "A player named Wood (team not named in the lines read) entered the All-Star Break with a 21-run lead in runs scored, breaking Ted Williams' 1946 margin of 19; he had 89 runs, Bryan Reynolds (PIT) 68 second.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Chase DeLauter (CLE, Mar 26) and José Fernández (ARI, Mar 31) each homered twice in their MLB debut.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Munetaka Murakami (CWS): 10 HR in first 24 games, most ever by a Japanese-born player; 23rd HR on Jul 24 set rookie HR record for Japanese-born players, passing Shohei Ohtani (2018).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Tyler Glasnow (LAD) reached 1,000 career strikeouts in 793 IP on May 5, fastest by a starting pitcher.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Jacob deGrom (TEX) recorded his 2,000th career strikeout on Aug 20.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Season opened Mar 25 (Yankees at Giants); regular season ended Sep 27. Orioles-Yankees on Sep 27 was rained out and never made up.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  },
+  {
+   "text": "Wild Card Series sweeps: all but Braves-Phillies were sweeps. Yankees' ALDS sweep loss was the first time the Yankees were swept in a postseason series outside ALCS/WS.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Rays swept the Yankees in the ALDS; Drew Rasmussen threw 8 shutout innings in Game 1 (Rays 1-0).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "2026 World Series is scheduled to begin Oct 23, ending no later than Oct 31 (Game 7).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Stewart, Murakami (CWS) and Okamoto each reached 30+ HR in 2026, the first trio of rookies in MLB history to do so (Okamoto's 30th on Sep 8).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_season"
+   ]
+  }
+ ],
+ "defendingChampion": {
+  "year": 2025,
+  "champion": "Los Angeles Dodgers",
+  "runnerUp": "Toronto Blue Jays",
+  "seriesResult": "Dodgers won 4-3 (Oct 24 - Nov 1, 2025; Rogers Centre and Dodger Stadium)",
+  "mvp": "Yoshinobu Yamamoto (LAD)",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025_World_Series"
+  ]
+ },
+ "formatRules": [
+  "12 teams: 6 per league (3 division winners seeded 1-3 by record, 3 wild cards seeded 4-6 by record).",
+  "Seeds 1 and 2 (two best division winners) get a bye past the Wild Card Series.",
+  "Wild Card Series: best-of-3, all games hosted by the higher seed: (3) vs (6) and (4) vs (5).",
+  "Division Series: best-of-5; seeds 1 and 2 face the lowest-remaining wild card survivors (2-2-1 format, higher seed hosts G1, G2, G5).",
+  "League Championship Series and World Series: best-of-7 (LCS 2-3-2).",
+  "Home field in LCS goes to the better record unless both teams are wild cards; World Series home field goes to the better regular-season record (since 2017, not tied to All-Star Game).",
+  "No Game 163 tiebreaker games; ties broken by formula (since 2022)."
+ ],
+ "storylines": [
+  {
+   "text": "Pre-postseason (Sep 27): The Houston Astros (81–81) became the first team in MLB history to win a division without a winning record, taking the AL West and the No. 3 seed.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Pre-postseason (Sep 14): The Los Angeles Dodgers clinched their 14th straight postseason berth (2013–2026), tying the Braves' NL record streak of 14 (1991–2005, excluding 1994); the Dodgers are the two-time defending champions.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason",
+    "https://en.wikipedia.org/wiki/2026_National_League_Division_Series"
+   ]
+  },
+  {
+   "text": "Pre-postseason: The 12-team field was AL Rays (98–64, best AL record), Guardians (85–77), Astros (81–81), Yankees (93–68), Red Sox (87–75), White Sox (84–78) and NL Brewers (103–59, best record in MLB), Dodgers (100–62), Braves (94–68), Padres (91–71), Cubs (89–73), Phillies (88–74).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Pre-postseason: Both Chicago teams (Cubs and White Sox) made the postseason, only the fourth time ever (1906, 2008, 2020, 2026); the Padres clinched a third straight berth for the first time in franchise history.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Pre-postseason (Sep 11): The Rays clinched their first playoff berth since 2023 on Junior Caminero's walk-off two-run home run against the Astros for a 3–1 win, in their return season to Tropicana Field after Hurricane Milton roof damage.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_American_League_Division_Series"
+   ]
+  },
+  {
+   "text": "AL Wild Card Game 1 (Sep 29): The No. 6 seed White Sox beat the No. 3 seed Astros 6–3 at Daikin Park, with Sam Antonacci's two-run single in the second and a Colson Montgomery solo homer in the fourth helping.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "AL Wild Card Game 2 (Sep 30): The White Sox beat the Astros 7–3, led from Kyle Teel's early RBI single, and swept the series 2–0; it was Houston's sixth straight playoff loss dating back to the 2023 ALCS.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "AL Wild Card (Sep 30): The White Sox' sweep of the Astros was their first postseason series win since the 2005 World Series (also a sweep of Houston) and sent them to the ALDS for the first time since 2021.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "AL Wild Card Game 1 (Sep 29): The Yankees beat the Red Sox 9–0 at Yankee Stadium, with Cam Schlittler pitching 6⅓ shutout innings with 10 strikeouts and Ben Rice homering twice.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "AL Wild Card Game 2 (Sep 30): The Yankees beat the Red Sox 9–2, with Max Fried allowing one run over six innings and Cody Bellinger (three-run HR) and Luis García Jr. homering, completing a 2–0 sweep.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "AL Wild Card (Sep 30): The Yankees' sweep was the first postseason series sweep by either team in the history of the Red Sox–Yankees rivalry; New York improved to 4–3 against Boston in postseason series.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "NL Wild Card Game 1 (Sep 29): The Braves came back to beat the Phillies 5–3 at Truist Park; Philadelphia led 3–2 after seven innings until Austin Riley hit a three-run homer in the bottom of the eighth.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "NL Wild Card Game 2 (Sep 30): The Phillies beat the Braves 4–3 in 10 innings after trailing 3–1 in the eighth; Kyle Schwarber and Bryce Harper hit solo homers to force extras and Alec Bohm's solo homer in the top of the 10th won it.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason",
+    "https://en.wikipedia.org/wiki/2026_National_League_Wild_Card_Series"
+   ]
+  },
+  {
+   "text": "NL Wild Card Game 3 (Oct 1): The Braves beat the Phillies 6–2 at Truist Park behind home runs from Michael Harris II, Ozzie Albies and Matt Olson to win the series 2–1.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "NL Wild Card (Oct 1): Atlanta's series win was its first postseason series victory since the 2021 World Series and the first time it beat the Phillies in four postseason meetings; it was the only 2026 Wild Card series not decided by a sweep.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "NL Wild Card Game 1 (Sep 29): The Padres blanked the Cubs 8–0 at Petco Park, with Michael King throwing seven shutout innings.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "NL Wild Card Game 2 (Sep 30): The Padres beat the Cubs 4–1 on an RBI single by Xander Bogaerts, a sacrifice fly by Ethan Salas and a two-run homer by Gavin Sheets, completing the sweep; Cubs pitcher Daniel Palencia then hit Jake Cronenworth with his next pitch, drawing shouts from Padres players.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "ALDS Game 1 (Oct 3): The Rays beat the Yankees 1–0 at Tropicana Field as Drew Rasmussen threw eight shutout innings with 10 strikeouts on 101 pitches; Austin Wells' two-out double in the eighth broke up a no-hit bid, and Jonathan Aranda's solo homer off Gerrit Cole was the only run.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_American_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "ALDS Game 1 (Oct 3): Holding the Yankees to one hit or fewer was a first in franchise postseason history for New York; Bryan Baker closed the game by striking out Giancarlo Stanton.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_American_League_Division_Series"
+   ]
+  },
+  {
+   "text": "ALDS Game 2 (Oct 5): The Rays beat the Yankees 5–2 after New York committed three errors in the bottom of the first inning; Cam Schlittler was chased in the fifth, and Ben Rice homered twice for the Yankees.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_American_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "ALDS Game 3 (Oct 7): The Rays completed a 3–0 sweep with a 4–3 win at Yankee Stadium; Víctor Mesa Jr. hit a go-ahead two-run homer in the sixth and Bryan Baker earned his third save of the series.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_American_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "ALDS Game 3 (Oct 7): Anthony Volpe's apparent game-tying home run off Griffin Jax in the bottom of the sixth was overturned to a double on review for fan interference, keeping Tampa Bay ahead 4–3.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_American_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "ALDS (Oct 7): The Yankees' sweep was the first time they were ever swept in a postseason series outside the ALCS or World Series; the Rays reached the ALCS for the first time since 2020 and won their first series since that 2020 pennant.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason",
+    "https://en.wikipedia.org/wiki/2026_American_League_Division_Series"
+   ]
+  },
+  {
+   "text": "ALDS Game 1 (Oct 3): The White Sox beat the Guardians 3–0 at Progressive Field on Munetaka Murakami's two-run homer; Grant Taylor struck out the final four batters, and it was Chicago's first postseason shutout win since Game 4 of the 2005 World Series.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_American_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "ALDS Game 2 (Oct 5): The White Sox beat the Guardians 4–3, taking a 2–0 series lead; Sean Burke pitched 5⅓ innings of one-hit ball, while Gavin Williams struck out 11 over five innings for Cleveland.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_American_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "ALDS Game 3 (Oct 7): The Guardians beat the White Sox 9–3 at Rate Field as Jo Adell's bases-clearing triple in the third made it 4–1; Cleveland did not homer until Game 4, when catcher Patrick Bailey hit its first home run of the 2026 postseason.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_American_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "ALDS Game 4 (Oct 8): The Guardians beat the White Sox 9–5 to force Game 5, scoring six runs in the sixth inning after a José Ramírez go-ahead two-run homer in the fifth; the White Sox missed their first chance to clinch a postseason series at home since 1906.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_American_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "NLDS Game 1 (Oct 3): The Brewers beat the Padres 3–2 at American Family Field on Jackson Chourio's two-run homer and William Contreras' solo homer in the seventh; Ty France's ninth-inning drive hit the roof and was caught, and Pat Murphy joked about thanking Bob Uecker.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_National_League_Division_Series"
+   ]
+  },
+  {
+   "text": "NLDS Game 2 (Oct 4): The Brewers walked off the Padres 4–3 when Jackson Chourio hit a two-out, two-run single in the bottom of the ninth off closer Mason Miller to take a 2–0 series lead.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_National_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "NLDS Game 3 (Oct 6): The Padres beat the Brewers 4–3 at Petco Park on Jake Cronenworth's go-ahead solo homer in the fifth inning, with Michael King earning the save; it extended Milwaukee's postseason road losing streak to 12, matching the MLB record held by the Senators/Twins franchise.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_National_League_Division_Series"
+   ]
+  },
+  {
+   "text": "NLDS Game 4 (Oct 7): The Brewers beat the Padres 3–1 to clinch the series 3–1 and reach their third NLCS since 2018 (2018, 2025, 2026); Garrett Mitchell robbed Manny Machado of a potential game-tying homer in the eighth, and the win snapped Milwaukee's 12-game road postseason losing streak.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_National_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "NLDS (Oct 7): No team led by more than two runs at any point in the Brewers–Padres series, only the second postseason series in MLB history to do that, after the 1915 World Series.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_National_League_Division_Series"
+   ]
+  },
+  {
+   "text": "NLDS Game 1 (Oct 3): The Dodgers beat the Braves 5–3 in 100°F heat, the second-hottest MLB postseason game on record; Tarik Skubal won with six innings and seven strikeouts, and Max Muncy's homer set a franchise record of 17 postseason home runs.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_National_League_Division_Series"
+   ]
+  },
+  {
+   "text": "NLDS Game 2 (Oct 4): The Braves beat the Dodgers 3–2 at Dodger Stadium, with Michael Harris II going 3-for-5, to even the series; Max Muncy homered in the ninth to make it 3–2.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_National_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "NLDS Game 3 (Oct 6): The Dodgers beat the Braves 3–1 at Truist Park as Yoshinobu Yamamoto allowed one run over seven innings with 10 strikeouts; Enrique (Kiké) Hernández hit a two-run homer and Freddie Freeman homered off Chris Sale, both in the fourth.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_National_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "NLDS Game 4 (Oct 7): The Dodgers beat the Braves 4–1 to win the series 3–1; Andy Pages hit a go-ahead two-run single in the seventh, Max Muncy homered in the ninth (his third of the series), and Edwin Díaz earned the save.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_National_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "NLDS Game 4 (Oct 7): Dave Roberts earned his 72nd postseason win as a manager, passing Tony La Russa for second-most in MLB history; the Dodgers reached their third straight NLCS.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_National_League_Division_Series"
+   ]
+  },
+  {
+   "text": "NLCS preview (Oct 7): The Brewers and Dodgers meet in the NLCS for the fourth postseason meeting (2018, 2020 and 2025 all won by the Dodgers); Milwaukee holds home-field advantage as the No. 1 seed.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "Still alive (Oct 10): Rays (AL) are in the ALCS awaiting the Guardians–White Sox winner; Brewers and Dodgers are set for the NLCS. Eliminated: Astros, Red Sox, Yankees (AL); Cubs, Phillies, Padres, Braves (NL).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Major_League_Baseball_postseason",
+    "https://en.wikipedia.org/wiki/2026_American_League_Division_Series",
+    "https://en.wikipedia.org/wiki/2026_National_League_Division_Series"
+   ]
+  }
+ ],
+ "worldSeries": [
+  "1903: Boston Americans over Pittsburgh Pirates, 5–3",
+  "1905: New York Giants over Philadelphia Athletics, 4–1",
+  "1906: Chicago White Sox over Chicago Cubs, 4–2",
+  "1907: Chicago Cubs over Detroit Tigers, 4–0–1",
+  "1908: Chicago Cubs over Detroit Tigers, 4–1",
+  "1909: Pittsburgh Pirates over Detroit Tigers, 4–3",
+  "1910: Philadelphia Athletics over Chicago Cubs, 4–1",
+  "1911: Philadelphia Athletics over New York Giants, 4–2",
+  "1912: Boston Red Sox over New York Giants, 4–3–1",
+  "1913: Philadelphia Athletics over New York Giants, 4–1",
+  "1914: Boston Braves over Philadelphia Athletics, 4–0",
+  "1915: Boston Red Sox over Philadelphia Phillies, 4–1",
+  "1916: Boston Red Sox over Brooklyn Robins, 4–1",
+  "1917: Chicago White Sox over New York Giants, 4–2",
+  "1918: Boston Red Sox over Chicago Cubs, 4–2",
+  "1919: Cincinnati Reds over Chicago White Sox, 5–3",
+  "1920: Cleveland Indians over Brooklyn Robins, 5–2",
+  "1921: New York Giants over New York Yankees, 5–3",
+  "1922: New York Giants over New York Yankees, 4–0–1",
+  "1923: New York Yankees over New York Giants, 4–2",
+  "1924: Washington Senators over New York Giants, 4–3",
+  "1925: Pittsburgh Pirates over Washington Senators, 4–3",
+  "1926: St. Louis Cardinals over New York Yankees, 4–3",
+  "1927: New York Yankees over Pittsburgh Pirates, 4–0",
+  "1928: New York Yankees over St. Louis Cardinals, 4–0",
+  "1929: Philadelphia Athletics over Chicago Cubs, 4–1",
+  "1930: Philadelphia Athletics over St. Louis Cardinals, 4–2",
+  "1931: St. Louis Cardinals over Philadelphia Athletics, 4–3",
+  "1932: New York Yankees over Chicago Cubs, 4–0",
+  "1933: New York Giants over Washington Senators, 4–1",
+  "1934: St. Louis Cardinals over Detroit Tigers, 4–3",
+  "1935: Detroit Tigers over Chicago Cubs, 4–2",
+  "1936: New York Yankees over New York Giants, 4–2",
+  "1937: New York Yankees over New York Giants, 4–1",
+  "1938: New York Yankees over Chicago Cubs, 4–0",
+  "1939: New York Yankees over Cincinnati Reds, 4–0",
+  "1940: Cincinnati Reds over Detroit Tigers, 4–3",
+  "1941: New York Yankees over Brooklyn Dodgers, 4–1",
+  "1942: St. Louis Cardinals over New York Yankees, 4–1",
+  "1943: New York Yankees over St. Louis Cardinals, 4–1",
+  "1944: St. Louis Cardinals over St. Louis Browns, 4–2",
+  "1945: Detroit Tigers over Chicago Cubs, 4–3",
+  "1946: St. Louis Cardinals over Boston Red Sox, 4–3",
+  "1947: New York Yankees over Brooklyn Dodgers, 4–3",
+  "1948: Cleveland Indians over Boston Braves, 4–2",
+  "1949: New York Yankees over Brooklyn Dodgers, 4–1",
+  "1950: New York Yankees over Philadelphia Phillies, 4–0",
+  "1951: New York Yankees over New York Giants, 4–2",
+  "1952: New York Yankees over Brooklyn Dodgers, 4–3",
+  "1953: New York Yankees over Brooklyn Dodgers, 4–2",
+  "1954: New York Giants over Cleveland Indians, 4–0",
+  "1955: Brooklyn Dodgers over New York Yankees, 4–3",
+  "1956: New York Yankees over Brooklyn Dodgers, 4–3",
+  "1957: Milwaukee Braves over New York Yankees, 4–3",
+  "1958: New York Yankees over Milwaukee Braves, 4–3",
+  "1959: Los Angeles Dodgers over Chicago White Sox, 4–2",
+  "1960: Pittsburgh Pirates over New York Yankees, 4–3",
+  "1961: New York Yankees over Cincinnati Reds, 4–1",
+  "1962: New York Yankees over San Francisco Giants, 4–3",
+  "1963: Los Angeles Dodgers over New York Yankees, 4–0",
+  "1964: St. Louis Cardinals over New York Yankees, 4–3",
+  "1965: Los Angeles Dodgers over Minnesota Twins, 4–3",
+  "1966: Baltimore Orioles over Los Angeles Dodgers, 4–0",
+  "1967: St. Louis Cardinals over Boston Red Sox, 4–3",
+  "1968: Detroit Tigers over St. Louis Cardinals, 4–3",
+  "1969: New York Mets over Baltimore Orioles, 4–1",
+  "1970: Baltimore Orioles over Cincinnati Reds, 4–1",
+  "1971: Pittsburgh Pirates over Baltimore Orioles, 4–3",
+  "1972: Oakland Athletics over Cincinnati Reds, 4–3",
+  "1973: Oakland Athletics over New York Mets, 4–3",
+  "1974: Oakland Athletics over Los Angeles Dodgers, 4–1",
+  "1975: Cincinnati Reds over Boston Red Sox, 4–3",
+  "1976: Cincinnati Reds over New York Yankees, 4–0",
+  "1977: New York Yankees over Los Angeles Dodgers, 4–2",
+  "1978: New York Yankees over Los Angeles Dodgers, 4–2",
+  "1979: Pittsburgh Pirates over Baltimore Orioles, 4–3",
+  "1980: Philadelphia Phillies over Kansas City Royals, 4–2",
+  "1981: Los Angeles Dodgers over New York Yankees, 4–2",
+  "1982: St. Louis Cardinals over Milwaukee Brewers, 4–3",
+  "1983: Baltimore Orioles over Philadelphia Phillies, 4–1",
+  "1984: Detroit Tigers over San Diego Padres, 4–1",
+  "1985: Kansas City Royals over St. Louis Cardinals, 4–3",
+  "1986: New York Mets over Boston Red Sox, 4–3",
+  "1987: Minnesota Twins over St. Louis Cardinals, 4–3",
+  "1988: Los Angeles Dodgers over Oakland Athletics, 4–1",
+  "1989: Oakland Athletics over San Francisco Giants, 4–0",
+  "1990: Cincinnati Reds over Oakland Athletics, 4–0",
+  "1991: Minnesota Twins over Atlanta Braves, 4–3",
+  "1992: Toronto Blue Jays over Atlanta Braves, 4–2",
+  "1993: Toronto Blue Jays over Philadelphia Phillies, 4–2",
+  "1995: Atlanta Braves over Cleveland Indians, 4–2",
+  "1996: New York Yankees over Atlanta Braves, 4–2",
+  "1997: Florida Marlins over Cleveland Indians, 4–3",
+  "1998: New York Yankees over San Diego Padres, 4–0",
+  "1999: New York Yankees over Atlanta Braves, 4–0",
+  "2000: New York Yankees over New York Mets, 4–1",
+  "2001: Arizona Diamondbacks over New York Yankees, 4–3",
+  "2002: Anaheim Angels over San Francisco Giants, 4–3",
+  "2003: Florida Marlins over New York Yankees, 4–2",
+  "2004: Boston Red Sox over St. Louis Cardinals, 4–0",
+  "2005: Chicago White Sox over Houston Astros, 4–0",
+  "2006: St. Louis Cardinals over Detroit Tigers, 4–1",
+  "2007: Boston Red Sox over Colorado Rockies, 4–0",
+  "2008: Philadelphia Phillies over Tampa Bay Rays, 4–1",
+  "2009: New York Yankees over Philadelphia Phillies, 4–2",
+  "2010: San Francisco Giants over Texas Rangers, 4–1",
+  "2011: St. Louis Cardinals over Texas Rangers, 4–3",
+  "2012: San Francisco Giants over Detroit Tigers, 4–0",
+  "2013: Boston Red Sox over St. Louis Cardinals, 4–2",
+  "2014: San Francisco Giants over Kansas City Royals, 4–3",
+  "2015: Kansas City Royals over New York Mets, 4–1",
+  "2016: Chicago Cubs over Cleveland Indians, 4–3",
+  "2017: Houston Astros over Los Angeles Dodgers, 4–3",
+  "2018: Boston Red Sox over Los Angeles Dodgers, 4–1",
+  "2019: Washington Nationals over Houston Astros, 4–3",
+  "2020: Los Angeles Dodgers over Tampa Bay Rays, 4–2",
+  "2021: Atlanta Braves over Houston Astros, 4–2",
+  "2022: Houston Astros over Philadelphia Phillies, 4–2",
+  "2023: Texas Rangers over Arizona Diamondbacks, 4–1",
+  "2024: Los Angeles Dodgers over New York Yankees, 4–1",
+  "2025: Los Angeles Dodgers over Toronto Blue Jays, 4–3"
+ ],
+ "mvps": [
+  "1955: Johnny Podres (Dodgers)",
+  "1956: Don Larsen (Yankees)",
+  "1957: Lew Burdette (Braves)",
+  "1958: Bob Turley (Yankees)",
+  "1959: Larry Sherry (Dodgers)",
+  "1960: Bobby Richardson (Yankees)",
+  "1961: Whitey Ford (Yankees)",
+  "1962: Ralph Terry (Yankees)",
+  "1963: Sandy Koufax (Dodgers)",
+  "1964: Bob Gibson (Cardinals)",
+  "1965: Sandy Koufax (Dodgers)",
+  "1966: Frank Robinson (Orioles)",
+  "1967: Bob Gibson (Cardinals)",
+  "1968: Mickey Lolich (Tigers)",
+  "1969: Donn Clendenon (Mets)",
+  "1970: Brooks Robinson (Orioles)",
+  "1971: Roberto Clemente (Pirates)",
+  "1972: Gene Tenace (Athletics)",
+  "1973: Reggie Jackson (Athletics)",
+  "1974: Rollie Fingers (Athletics)",
+  "1975: Pete Rose (Reds)",
+  "1976: Johnny Bench (Reds)",
+  "1977: Reggie Jackson (Yankees)",
+  "1978: Bucky Dent (Yankees)",
+  "1979: Willie Stargell (Pirates)",
+  "1980: Mike Schmidt (Phillies)",
+  "1981: Ron Cey, Pedro Guerrero & Steve Yeager (co-MVPs, Dodgers)",
+  "1982: Darrell Porter (Cardinals)",
+  "1983: Rick Dempsey (Orioles)",
+  "1984: Alan Trammell (Tigers)",
+  "1985: Bret Saberhagen (Royals)",
+  "1986: Ray Knight (Mets)",
+  "1987: Frank Viola (Twins)",
+  "1988: Orel Hershiser (Dodgers)",
+  "1989: Dave Stewart (Athletics)",
+  "1990: José Rijo (Reds)",
+  "1991: Jack Morris (Twins)",
+  "1992: Pat Borders (Blue Jays)",
+  "1993: Paul Molitor (Blue Jays)",
+  "1995: Tom Glavine (Braves)",
+  "1996: John Wetteland (Yankees)",
+  "1997: Liván Hernández (Marlins)",
+  "1998: Scott Brosius (Yankees)",
+  "1999: Mariano Rivera (Yankees)",
+  "2000: Derek Jeter (Yankees)",
+  "2001: Randy Johnson & Curt Schilling (co-MVPs, Diamondbacks)",
+  "2002: Troy Glaus (Angels)",
+  "2003: Josh Beckett (Marlins)",
+  "2004: Manny Ramirez (Red Sox)",
+  "2005: Jermaine Dye (White Sox)",
+  "2006: David Eckstein (Cardinals)",
+  "2007: Mike Lowell (Red Sox)",
+  "2008: Cole Hamels (Phillies)",
+  "2009: Hideki Matsui (Yankees)",
+  "2010: Edgar Rentería (Giants)",
+  "2011: David Freese (Cardinals)",
+  "2012: Pablo Sandoval (Giants)",
+  "2013: David Ortiz (Red Sox)",
+  "2014: Madison Bumgarner (Giants)",
+  "2015: Salvador Pérez (Royals)",
+  "2016: Ben Zobrist (Cubs)",
+  "2017: George Springer (Astros)",
+  "2018: Steve Pearce (Red Sox)",
+  "2019: Stephen Strasburg (Nationals)",
+  "2020: Corey Seager (Dodgers)",
+  "2021: Jorge Soler (Braves)",
+  "2022: Jeremy Peña (Astros)",
+  "2023: Corey Seager (Rangers)",
+  "2024: Freddie Freeman (Dodgers)",
+  "2025: Yoshinobu Yamamoto (Dodgers)"
+ ],
+ "franchiseTitles": [
+  "New York Yankees: 27 World Series titles (most recent 2009; first 1923); 41 appearances, 27-14 per Wikipedia list as of 2024",
+  "St. Louis Cardinals: 11 titles (most recent 2011; first 1926)",
+  "Boston Red Sox (incl. Boston Americans): 9 titles (1903, 1912, 1915, 1916, 1918, 2004, 2007, 2013, 2018)",
+  "Los Angeles Dodgers (incl. Brooklyn): 9 titles (1955, 1959, 1963, 1965, 1981, 1988, 2020, 2024, 2025); 23 appearances",
+  "Oakland Athletics (incl. Philadelphia, Kansas City lineage): 9 titles (1910, 1911, 1913, 1929, 1930, 1972, 1973, 1974, 1989)",
+  "San Francisco Giants (incl. New York): 8 titles (1905, 1921, 1922, 1933, 1954, 2010, 2012, 2014)",
+  "Cincinnati Reds: 5 titles (1919, 1940, 1975, 1976, 1990)",
+  "Pittsburgh Pirates: 5 titles (1909, 1925, 1960, 1971, 1979)",
+  "Atlanta Braves (incl. Boston, Milwaukee): 4 titles (1914, 1957, 1995, 2021)",
+  "Detroit Tigers: 4 titles (1935, 1945, 1968, 1984)",
+  "Baltimore Orioles: 3 titles (1966, 1970, 1983)",
+  "Chicago Cubs: 3 titles (1907, 1908, 2016)",
+  "Chicago White Sox: 3 titles (1906, 1917, 2005)",
+  "Minnesota Twins (incl. Washington Senators): 3 titles (1924, 1987, 1991)",
+  "Cleveland Guardians/Indians: 2 titles (1920, 1948); no title since 1948 (last appearance read in list: 2016 loss)",
+  "Houston Astros: 2 titles (2017, 2022); only franchise to appear as both NL (2005) and AL champion",
+  "Kansas City Royals: 2 titles (1985, 2015)",
+  "Miami (Florida) Marlins: 2 titles (1997, 2003), never lost a World Series appearance",
+  "New York Mets: 2 titles (1969, 1986)",
+  "Philadelphia Phillies: 2 titles (1980, 2008)",
+  "Toronto Blue Jays: 2 titles (1992, 1993); only non-US franchise to win a World Series; lost 2025 WS 4-3 to Dodgers",
+  "Arizona Diamondbacks: 1 title (2001)",
+  "Los Angeles (Anaheim) Angels: 1 title (2002)",
+  "Texas Rangers: 1 title (2023, first in franchise history)",
+  "Washington Nationals: 1 title (2019, first in franchise history)",
+  "Winless in World Series appearances (per list): San Diego Padres 0-2, Tampa Bay Rays 0-2, Colorado Rockies 0-1, Milwaukee Brewers 0-1 (1982)",
+  "Droughts: Cubs 1908-2016; Red Sox 1918-2004 (86 years, \"Curse of the Bambino\"); White Sox 1917-2005 (88 years); Cleveland 1948-present; Astros first title 2017; Rangers first title 2023"
+ ],
+ "historyFacts": [
+  {
+   "text": "Don Larsen of the New York Yankees threw a perfect game in Game 5 of the 1956 World Series on October 8, 1956, beating the Brooklyn Dodgers 2-0 with Yogi Berra catching. It remains the only perfect game in World Series history; he struck out seven and was named Series MVP.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/1956_World_Series",
+    "https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_no-hitters"
+   ]
+  },
+  {
+   "text": "Roy Halladay of the Phillies threw a no-hitter against the Cincinnati Reds in Game 1 of the 2010 NLDS on October 6, 2010 (4-0), and is the only pitcher with no-hitters in both the regular season (his May 29, 2010 perfect game) and postseason.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_no-hitters"
+   ]
+  },
+  {
+   "text": "Bill Mazeroski hit a ninth-inning home run in Game 7 of the 1960 World Series to give the Pittsburgh Pirates the title over the Yankees; it was the first World Series to end on a home run and the first winner-take-all World Series game to end that way.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/1960_World_Series"
+   ]
+  },
+  {
+   "text": "The 1960 Yankees outscored the Pirates but lost: they scored 55 runs, the most by any team in a World Series, yet Pittsburgh won 4-3. Bobby Richardson was MVP, the first non-pitcher MVP and the only MVP from a losing team.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/1960_World_Series",
+    "https://en.wikipedia.org/wiki/World_Series_Most_Valuable_Player_Award"
+   ]
+  },
+  {
+   "text": "Carlton Fisk's walk-off home run won Game 6 of the 1975 World Series for the Red Sox in the 12th inning (7-6 over the Reds) at Fenway Park; the Reds then won Game 7 on a ninth-inning Joe Morgan single.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/1975_World_Series"
+   ]
+  },
+  {
+   "text": "Kirk Gibson, injured in both legs and not starting, hit a pinch-hit walk-off home run off Oakland closer Dennis Eckersley in Game 1 of the 1988 World Series; the Dodgers won in five games and Orel Hershiser was MVP.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/1988_World_Series"
+   ]
+  },
+  {
+   "text": "Orel Hershiser set the all-time scoreless-inning streak at 59 innings in the 1988 regular season, then won the Series MVP.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/1988_World_Series"
+   ]
+  },
+  {
+   "text": "Joe Carter hit a walk-off three-run home run in the bottom of the ninth of Game 6 of the 1993 World Series, with Toronto trailing the Phillies 6-5, to clinch the Blue Jays' second straight title. It was only the second World Series ended by a home run (after Mazeroski in 1960).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/1993_World_Series"
+   ]
+  },
+  {
+   "text": "In Game 6 of the 1986 World Series the Mets rallied with two outs and nobody on in the bottom of the 10th, won on an error by Red Sox first baseman Bill Buckner, with Boston twice one strike from the title; the Mets then won Game 7. The collapse became part of the Curse of the Bambino lore.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/1986_World_Series"
+   ]
+  },
+  {
+   "text": "David Freese hit a game-tying two-run triple in the ninth and a walk-off home run in the 11th of Game 6 of the 2011 World Series (Cardinals 10, Rangers 9); St. Louis twice came back from two runs down, each time with Texas one strike from a title. Freese was Series MVP and the Cardinals won in seven.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2011_World_Series",
+    "https://en.wikipedia.org/wiki/World_Series"
+   ]
+  },
+  {
+   "text": "Albert Pujols hit three home runs in Game 3 of the 2011 World Series, a feat previously done only by Reggie Jackson and Babe Ruth and later by Pablo Sandoval in 2012.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2011_World_Series"
+   ]
+  },
+  {
+   "text": "Game 3 of the 2018 World Series lasted 18 innings and 7 hours 20 minutes, the longest World Series game by innings and time: Max Muncy homered in the bottom of the 18th to give the Dodgers a 3-2 win over the Red Sox (October 26, 2018). The Red Sox still won the Series 4-1.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2018_World_Series"
+   ]
+  },
+  {
+   "text": "Game 3 of the 2025 World Series also went 18 innings: Freddie Freeman hit a walk-off home run off Brendon Little in the 18th for the Dodgers over the Blue Jays; it was the second-longest World Series game by time.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_World_Series"
+   ]
+  },
+  {
+   "text": "The 2025 World Series: the Los Angeles Dodgers beat the Toronto Blue Jays 4-3, winning Game 7 in 11 innings (Miguel Rojas tied it with a two-out ninth-inning homer, Will Smith hit the go-ahead homer in the 11th). Yoshinobu Yamamoto was Series MVP. Dodgers were the first back-to-back champion since the 2000 Yankees.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_World_Series"
+   ]
+  },
+  {
+   "text": "Reggie Jackson hit three consecutive home runs in the clinching Game 6 of the 1977 World Series at Yankee Stadium (five home runs in the Series) and was MVP; this is the root of his 'Mr. October' nickname.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reggie_Jackson",
+    "https://en.wikipedia.org/wiki/World_Series_Most_Valuable_Player_Award",
+    "https://en.wikipedia.org/wiki/World_Series"
+   ]
+  },
+  {
+   "text": "The Chicago Cubs won the 2016 World Series 4-3 over Cleveland, winning Game 7 8-7 in ten innings after a rain delay and coming back from a 3-1 deficit; it was their first title since 1908 and ended what Wikipedia calls the longest championship drought in North American pro sports history.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2016_World_Series"
+   ]
+  },
+  {
+   "text": "The Curse of the Bambino was the superstition behind the Red Sox's 86-year drought (1918-2004), tied to Harry Frazee selling Babe Ruth to the Yankees; it ended with a 4-0 sweep of the Cardinals in 2004 after beating the Yankees in the ALCS following a 0-3 deficit.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Curse_of_the_Bambino",
+    "https://en.wikipedia.org/wiki/World_Series"
+   ]
+  },
+  {
+   "text": "The Curse of the Billy Goat on the Cubs dated to Game 4 of the 1945 World Series at Wrigley Field, when tavern owner William Sianis and his goat Murphy were ejected; it lasted 71 years until 2016.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Curse_of_the_Billy_Goat"
+   ]
+  },
+  {
+   "text": "The Texas Rangers' 2011 World Series Game 6 collapse was blamed by some fans on the 'Curse of Bob Short'; they won their first title in 2023 under Bruce Bochy over Arizona, 4-1.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2011_World_Series",
+    "https://en.wikipedia.org/wiki/List_of_World_Series_champions"
+   ]
+  },
+  {
+   "text": "The Black Sox Scandal: eight Chicago White Sox players were accused of intentionally losing the 1919 World Series to the Cincinnati Reds (won 5-3 in best-of-nine); Commissioner Kenesaw Mountain Landis banned all eight for life despite their 1921 acquittal.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Black_Sox_Scandal",
+    "https://en.wikipedia.org/wiki/List_of_World_Series_champions"
+   ]
+  },
+  {
+   "text": "The 1904 World Series was never played: with no governing body, New York Giants owner John T. Brush refused to play the AL champion Boston Americans.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/World_Series"
+   ]
+  },
+  {
+   "text": "The first World Series (1903) was a best-of-nine won by the Boston Americans (later Red Sox) over the Pittsburgh Pirates, 5-3; the best-of-nine format was also used 1919-1921.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/World_Series",
+    "https://en.wikipedia.org/wiki/List_of_World_Series_champions"
+   ]
+  },
+  {
+   "text": "Postseason format history: League Championship Series added in 1969 with divisions; wild card and Division Series introduced for 1994, first played in 1995 (the 1994 postseason was cancelled by a strike); a one-game Wild Card playoff and second wild card added in 2012; a temporary 16-team format in 2020; the 12-team format (6 per league, best-of-three Wild Card Series) since 2022.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Major_League_Baseball_postseason"
+   ]
+  },
+  {
+   "text": "The 1994 World Series was cancelled because of the players' strike; it is one of only two years (with 1904) in which no World Series was played since 1903.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_World_Series_champions",
+    "https://en.wikipedia.org/wiki/World_Series"
+   ]
+  },
+  {
+   "text": "Randy Arozarena of the 2020 Rays hit a record 10 home runs in a single postseason (with single-postseason records for hits, 29, and total bases). Next with 8: Vladimir Guerrero Jr. and Shohei Ohtani (2025), Barry Bonds (2002), Carlos Beltran (2004), Nelson Cruz (2011), Corey Seager (2020), Adolis Garcia (2023).",
+   "sources": [
+    "https://www.mlb.com/stories/most-home-runs-in-single-postseason"
+   ]
+  },
+  {
+   "text": "Nelson Cruz hit six home runs in the 2011 ALCS, the most by a player in any single postseason series; Jose Altuve hit three homers in Game 1 of the 2017 ALDS.",
+   "sources": [
+    "https://www.mlb.com/stories/most-home-runs-in-single-postseason",
+    "https://www.mlb.com/news/most-career-postseason-home-runs"
+   ]
+  },
+  {
+   "text": "Career postseason home run leaders per Wikipedia's records list: Manny Ramirez 29, Jose Altuve 28 (a 2026 MLB.com article says Altuve was one behind Ramirez after a 2026 Wild Card Series homer, so totals are still moving this October), Kyle Schwarber 24, George Springer 23, Bernie Williams 22, Derek Jeter 20.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_postseason_records",
+    "https://www.mlb.com/news/most-career-postseason-home-runs"
+   ]
+  },
+  {
+   "text": "Altuve hit a record eight first-inning postseason home runs and hit the pennant-clinching walk-off home run off Aroldis Chapman in Game 6 of the 2019 ALCS.",
+   "sources": [
+    "https://www.mlb.com/news/most-career-postseason-home-runs"
+   ]
+  },
+  {
+   "text": "Postseason career records (Wikipedia list): Derek Jeter leads in hits (200) and, among batters, in strikeouts (135); Justin Verlander leads pitchers in postseason strikeouts (244), ahead of Clayton Kershaw (213) and John Smoltz (199).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_postseason_records"
+   ]
+  },
+  {
+   "text": "There have been 19 World Series sweeps; the first was by the 1914 Boston Braves over the Philadelphia Athletics, the Yankees hold a record eight, and the most recent (as listed) was the 2012 Giants over the Tigers. The Yankees swept in 1998 and 1999.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_World_Series_sweeps",
+    "https://en.wikipedia.org/wiki/World_Series"
+   ]
+  },
+  {
+   "text": "Game 7 of the 1991 World Series was a 1-0 Twins win in 10 innings over the Braves, with Jack Morris pitching a complete-game shutout (MVP); the series is called the 'Greatest of All Time' by ESPN. Kirby Puckett hit a walk-off homer in Game 6.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/World_Series",
+    "https://en.wikipedia.org/wiki/World_Series_Most_Valuable_Player_Award"
+   ]
+  },
+  {
+   "text": "Game 7 of the 1997 World Series ended on a Craig Counsell walk-off hit as the Florida Marlins (in their fifth season) beat the Indians; the 2016 Game 7 was the fifth World Series Game 7 to go to extra innings and the 2025 Game 7 was the sixth.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/World_Series",
+    "https://en.wikipedia.org/wiki/2016_World_Series",
+    "https://en.wikipedia.org/wiki/2025_World_Series"
+   ]
+  },
+  {
+   "text": "The 1921 World Series was the first Subway Series (Giants vs Yankees, first meeting October 5, 1921); the Yankees' 2000 World Series win over the Mets was a Subway Series, and Subway Series have also involved the Brooklyn Dodgers (the Dodgers lost to the Yankees in 1941, 1947, 1949, 1952, 1953, 1956 and beat them in 1955).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Subway_Series",
+    "https://en.wikipedia.org/wiki/List_of_World_Series_champions"
+   ]
+  },
+  {
+   "text": "Brooklyn Dodgers won their only Brooklyn World Series in 1955 over the Yankees in seven games; MVP Johnny Podres, the first World Series MVP.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_World_Series_champions",
+    "https://en.wikipedia.org/wiki/World_Series_Most_Valuable_Player_Award"
+   ]
+  },
+  {
+   "text": "Only franchise from outside the US to win a World Series is the Toronto Blue Jays (1992, 1993); the Houston Astros are the only team to represent both leagues in a World Series (NL 2005, AL 2017, 2019, 2021, 2022).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_World_Series_champions"
+   ]
+  },
+  {
+   "text": "The 2017 and 1919 World Series were both marred by cheating scandals (Astros sign stealing in 2017).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_World_Series_champions"
+   ]
+  },
+  {
+   "text": "The 2001 World Series ended in a Game 7 walk-off bases-loaded blooper off Mariano Rivera as the Diamondbacks beat the Yankees 4-3; Randy Johnson and Curt Schilling shared MVP and combined for all four Arizona wins.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/World_Series",
+    "https://en.wikipedia.org/wiki/World_Series_Most_Valuable_Player_Award"
+   ]
+  },
+  {
+   "text": "The 2019 World Series: the Washington Nationals beat the Houston Astros 4-3, winning all four road games; Stephen Strasburg MVP; the Nationals' first title.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_World_Series_champions",
+    "https://en.wikipedia.org/wiki/World_Series_Most_Valuable_Player_Award"
+   ]
+  },
+  {
+   "text": "Jose Altuve (7 HR, 2017), Daniel Murphy (2015, homers in six straight postseason games), B.J. Upton (2008), Jayson Werth (2009), Troy Glaus (2002) and Giancarlo Stanton (2024, Yankees record) each hit 7 homers in a postseason.",
+   "sources": [
+    "https://www.mlb.com/stories/most-home-runs-in-single-postseason"
+   ]
+  },
+  {
+   "text": "Corey Seager is a two-time World Series MVP with different teams (2020 Dodgers, 2023 Rangers); Freddie Freeman (2024) hit a walk-off grand slam in Game 1 of the 2024 World Series and a walk-off homer in Game 3 of 2025.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/World_Series_Most_Valuable_Player_Award",
+    "https://en.wikipedia.org/wiki/2025_World_Series"
+   ]
+  }
+ ]
+}

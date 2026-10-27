@@ -1,0 +1,1807 @@
+{
+ "snapshotAt": "2026-10-10T13:44:22.258877+00:00",
+ "endpoint": "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=YYYYMMDD&seasontype=3&limit=100  (summary: https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=<id>)",
+ "sources": [
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20260928&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20260929&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20260930&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261001&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261002&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261003&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261004&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261005&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261006&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261007&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261008&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261009&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261010&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261011&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261012&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907965",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907896",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907924",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907974",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907972",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907897",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907963",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907975",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907973",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907990",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401908007",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907985",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401908002",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401908003",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401908014",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907991",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907986",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401908015",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401908004",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907992",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401908016",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907987",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401908005",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907993"
+ ],
+ "games": [
+  {
+   "eventId": "401907965",
+   "scoreboardDate": "20260929",
+   "dateET": "2026-09-29",
+   "startET": "2026-09-29T14:00:00-04:00",
+   "startUTC": "2026-09-29T18:00Z",
+   "round": "NLWC",
+   "gameNumber": 1,
+   "seriesSummary": "ATL leads series 1-0",
+   "seriesCompleted": false,
+   "seriesLength": 3,
+   "seriesWins": {
+    "15": 1,
+    "22": 0
+   },
+   "away": {
+    "name": "Philadelphia Phillies",
+    "abbreviation": "PHI",
+    "score": 3,
+    "seed": null,
+    "winner": false,
+    "record": "0-1",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Atlanta Braves",
+    "abbreviation": "ATL",
+    "score": 5,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Dylan Lee",
+   "losingPitcher": "Jhoan Duran",
+   "savePitcher": "Raisel Iglesias",
+   "topHitters": [
+    {
+     "player": "Austin Riley",
+     "team": "ATL",
+     "statLine": "1-3, HR, 3 RBI, R",
+     "mlbRating": 67.75
+    },
+    {
+     "player": "Michael Harris II",
+     "team": "ATL",
+     "statLine": "3-3, 2 R",
+     "mlbRating": 67.25
+    }
+   ],
+   "venue": "Truist Park",
+   "recap": "\u2014 Austin Riley hit a three-run homer off All-Star closer Jhoan Duran in the eighth inning and the Atlanta Braves rallied past the Philadelphia Phillies 5-3 on Tuesday in the opener of a best-of-three National League Wild Card Series."
+  },
+  {
+   "eventId": "401907896",
+   "scoreboardDate": "20260929",
+   "dateET": "2026-09-29",
+   "startET": "2026-09-29T17:00:00-04:00",
+   "startUTC": "2026-09-29T21:00Z",
+   "round": "ALWC",
+   "gameNumber": 1,
+   "seriesSummary": "CHW lead series 1-0",
+   "seriesCompleted": false,
+   "seriesLength": 3,
+   "seriesWins": {
+    "18": 0,
+    "4": 1
+   },
+   "away": {
+    "name": "Chicago White Sox",
+    "abbreviation": "CHW",
+    "score": 6,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Houston Astros",
+    "abbreviation": "HOU",
+    "score": 3,
+    "seed": null,
+    "winner": false,
+    "record": "0-1",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Jordan Hicks",
+   "losingPitcher": "AJ Blubaugh",
+   "savePitcher": null,
+   "topHitters": [
+    {
+     "player": "Nelson Velazquez",
+     "team": "HOU",
+     "statLine": "1-3, HR, 2 RBI, R, K",
+     "mlbRating": 66.25
+    },
+    {
+     "player": "Colson Montgomery",
+     "team": "CHW",
+     "statLine": "1-3, HR, RBI, R, K",
+     "mlbRating": 65.5
+    }
+   ],
+   "venue": "Daikin Park",
+   "recap": "\u2014 Colson Montgomery hit a solo homer and Sam Antonacci drove in two runs to lead the Chicago White Sox over the Houston Astros 6-3 in Game 1 of an AL Wild Card Series on Tuesday."
+  },
+  {
+   "eventId": "401907924",
+   "scoreboardDate": "20260929",
+   "dateET": "2026-09-29",
+   "startET": "2026-09-29T20:00:00-04:00",
+   "startUTC": "2026-09-30T00:00Z",
+   "round": "ALWC",
+   "gameNumber": 1,
+   "seriesSummary": "NYY lead series 1-0",
+   "seriesCompleted": false,
+   "seriesLength": 3,
+   "seriesWins": {
+    "10": 1,
+    "2": 0
+   },
+   "away": {
+    "name": "Boston Red Sox",
+    "abbreviation": "BOS",
+    "score": 0,
+    "seed": null,
+    "winner": false,
+    "record": "0-1",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "New York Yankees",
+    "abbreviation": "NYY",
+    "score": 9,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Cam Schlittler",
+   "losingPitcher": "Payton Tolle",
+   "savePitcher": null,
+   "topHitters": [
+    {
+     "player": "Ben Rice",
+     "team": "NYY",
+     "statLine": "4-5, 2 HR, 2B, 6 RBI, 2 R, K",
+     "mlbRating": 81.5
+    },
+    {
+     "player": "Cam Schlittler",
+     "team": "NYY",
+     "statLine": "6.1 IP, 0 ER, 2 H, 10 K, BB",
+     "mlbRating": 78.0
+    }
+   ],
+   "venue": "Yankee Stadium",
+   "recap": "\u2014 Cam Schlittler pitched another playoff gem against the Boston Red Sox, and Ben Rice also burned their hometown team with a late grand slam and six RBI as the New York Yankees opened this Wild Card Series rematch with a 9-0 victory Tuesday night."
+  },
+  {
+   "eventId": "401907974",
+   "scoreboardDate": "20260929",
+   "dateET": "2026-09-29",
+   "startET": "2026-09-29T22:00:00-04:00",
+   "startUTC": "2026-09-30T02:00Z",
+   "round": "NLWC",
+   "gameNumber": 1,
+   "seriesSummary": "SD leads series 1-0",
+   "seriesCompleted": false,
+   "seriesLength": 3,
+   "seriesWins": {
+    "25": 1,
+    "16": 0
+   },
+   "away": {
+    "name": "Chicago Cubs",
+    "abbreviation": "CHC",
+    "score": 0,
+    "seed": null,
+    "winner": false,
+    "record": "0-1",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "San Diego Padres",
+    "abbreviation": "SD",
+    "score": 8,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Michael King",
+   "losingPitcher": "Matthew Boyd",
+   "savePitcher": null,
+   "topHitters": [
+    {
+     "player": "Michael King",
+     "team": "SD",
+     "statLine": "7.0 IP, 0 ER, H, 8 K, 3 BB",
+     "mlbRating": 80.0
+    },
+    {
+     "player": "Manny Machado",
+     "team": "SD",
+     "statLine": "2-3, HR, 2B, 2 RBI, 2 R, BB",
+     "mlbRating": 71.0
+    }
+   ],
+   "venue": "Petco Park",
+   "recap": "\u2014 Fernando Tatis Jr. hit the first leadoff homer in Padres playoff history on the Cubs\u2019 first pitch, Michael King took a no-hitter into the seventh..."
+  },
+  {
+   "eventId": "401907972",
+   "scoreboardDate": "20260930",
+   "dateET": "2026-09-30",
+   "startET": "2026-09-30T14:00:00-04:00",
+   "startUTC": "2026-09-30T18:00Z",
+   "round": "NLWC",
+   "gameNumber": 2,
+   "seriesSummary": "Series tied 1-1",
+   "seriesCompleted": false,
+   "seriesLength": 3,
+   "seriesWins": {
+    "15": 1,
+    "22": 1
+   },
+   "away": {
+    "name": "Philadelphia Phillies",
+    "abbreviation": "PHI",
+    "score": 4,
+    "seed": null,
+    "winner": true,
+    "record": "1-1",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Atlanta Braves",
+    "abbreviation": "ATL",
+    "score": 3,
+    "seed": null,
+    "winner": false,
+    "record": "1-1",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final/10",
+   "statusName": "STATUS_FINAL",
+   "innings": 10,
+   "winningPitcher": "Andrew Painter",
+   "losingPitcher": "Didier Fuentes",
+   "savePitcher": null,
+   "topHitters": [
+    {
+     "player": "Bryce Harper",
+     "team": "PHI",
+     "statLine": "2-5, HR, 2 RBI, R, K",
+     "mlbRating": 68.0
+    },
+    {
+     "player": "Alec Bohm",
+     "team": "PHI",
+     "statLine": "2-4, HR, RBI, R, BB",
+     "mlbRating": 67.75
+    }
+   ],
+   "venue": "Truist Park",
+   "recap": "\u2014 The Atlanta Braves will have left-hander Ray Kerr make his first career postseason appearance as the opener against the Philadelphia Phillies in Thursday night's decisive game of the NL Wild Card Series."
+  },
+  {
+   "eventId": "401907897",
+   "scoreboardDate": "20260930",
+   "dateET": "2026-09-30",
+   "startET": "2026-09-30T17:00:00-04:00",
+   "startUTC": "2026-09-30T21:00Z",
+   "round": "ALWC",
+   "gameNumber": 2,
+   "seriesSummary": "CHW win series 2-0",
+   "seriesCompleted": true,
+   "seriesLength": 3,
+   "seriesWins": {
+    "18": 0,
+    "4": 2
+   },
+   "away": {
+    "name": "Chicago White Sox",
+    "abbreviation": "CHW",
+    "score": 7,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Houston Astros",
+    "abbreviation": "HOU",
+    "score": 3,
+    "seed": null,
+    "winner": false,
+    "record": "0-2",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Anthony Kay",
+   "losingPitcher": "Hunter Brown",
+   "savePitcher": null,
+   "topHitters": [
+    {
+     "player": "Chase Meidroth",
+     "team": "CHW",
+     "statLine": "2-3, HR, 3 RBI, R, BB",
+     "mlbRating": 70.0
+    },
+    {
+     "player": "Jose Altuve",
+     "team": "HOU",
+     "statLine": "2-4, HR, RBI, R, K",
+     "mlbRating": 67.25
+    }
+   ],
+   "venue": "Daikin Park",
+   "recap": "\u2014 From 100 losses to their first playoff series win in two decades, these scrappy Chicago White Sox just keep outdoing themselves."
+  },
+  {
+   "eventId": "401907963",
+   "scoreboardDate": "20260930",
+   "dateET": "2026-09-30",
+   "startET": "2026-09-30T20:00:00-04:00",
+   "startUTC": "2026-10-01T00:00Z",
+   "round": "ALWC",
+   "gameNumber": 2,
+   "seriesSummary": "NYY win series 2-0",
+   "seriesCompleted": true,
+   "seriesLength": 3,
+   "seriesWins": {
+    "10": 2,
+    "2": 0
+   },
+   "away": {
+    "name": "Boston Red Sox",
+    "abbreviation": "BOS",
+    "score": 2,
+    "seed": null,
+    "winner": false,
+    "record": "0-2",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "New York Yankees",
+    "abbreviation": "NYY",
+    "score": 9,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Max Fried",
+   "losingPitcher": "Sonny Gray",
+   "savePitcher": null,
+   "topHitters": [
+    {
+     "player": "Cody Bellinger",
+     "team": "NYY",
+     "statLine": "2-5, HR, 4 RBI, R, K",
+     "mlbRating": 70.0
+    },
+    {
+     "player": "Luis Garcia Jr.",
+     "team": "NYY",
+     "statLine": "3-5, HR, RBI, R, K",
+     "mlbRating": 69.25
+    }
+   ],
+   "venue": "Yankee Stadium",
+   "recap": "\u2014 One year after rallying past the Red Sox to win an AL Wild Card Series, the New York Yankees battered Boston."
+  },
+  {
+   "eventId": "401907975",
+   "scoreboardDate": "20260930",
+   "dateET": "2026-09-30",
+   "startET": "2026-09-30T22:00:00-04:00",
+   "startUTC": "2026-10-01T02:00Z",
+   "round": "NLWC",
+   "gameNumber": 2,
+   "seriesSummary": "SD wins series 2-0",
+   "seriesCompleted": true,
+   "seriesLength": 3,
+   "seriesWins": {
+    "25": 2,
+    "16": 0
+   },
+   "away": {
+    "name": "Chicago Cubs",
+    "abbreviation": "CHC",
+    "score": 1,
+    "seed": null,
+    "winner": false,
+    "record": "0-2",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "San Diego Padres",
+    "abbreviation": "SD",
+    "score": 4,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Bradgley Rodriguez",
+   "losingPitcher": "Kevin Gausman",
+   "savePitcher": "Mason Miller",
+   "topHitters": [
+    {
+     "player": "Gavin Sheets",
+     "team": "SD",
+     "statLine": "1-1, HR, 2 RBI, R",
+     "mlbRating": 67.0
+    },
+    {
+     "player": "Xander Bogaerts",
+     "team": "SD",
+     "statLine": "2-4, 2B, RBI, R",
+     "mlbRating": 65.5
+    }
+   ],
+   "venue": "Petco Park",
+   "recap": "\u2014 Pinch-hitter Gavin Sheets blasted a two-run homer, five Padres pitchers combined on a five-hitter, and San Diego swept the Chicago Cubs out of the NL Wild Card Series with a 4-1 victory in Game 2 on Wednesday night."
+  },
+  {
+   "eventId": "401907973",
+   "scoreboardDate": "20261001",
+   "dateET": "2026-10-01",
+   "startET": "2026-10-01T20:00:00-04:00",
+   "startUTC": "2026-10-02T00:00Z",
+   "round": "NLWC",
+   "gameNumber": 3,
+   "seriesSummary": "ATL wins series 2-1",
+   "seriesCompleted": true,
+   "seriesLength": 3,
+   "seriesWins": {
+    "15": 2,
+    "22": 1
+   },
+   "away": {
+    "name": "Philadelphia Phillies",
+    "abbreviation": "PHI",
+    "score": 2,
+    "seed": null,
+    "winner": false,
+    "record": "1-2",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Atlanta Braves",
+    "abbreviation": "ATL",
+    "score": 6,
+    "seed": null,
+    "winner": true,
+    "record": "2-1",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Grant Holmes",
+   "losingPitcher": "Aaron Nola",
+   "savePitcher": null,
+   "topHitters": [
+    {
+     "player": "Michael Harris II",
+     "team": "ATL",
+     "statLine": "1-3, HR, 3 RBI, R, K",
+     "mlbRating": 67.5
+    },
+    {
+     "player": "Matt Olson",
+     "team": "ATL",
+     "statLine": "1-3, HR, RBI, 2 R, BB",
+     "mlbRating": 66.75
+    }
+   ],
+   "venue": "Truist Park",
+   "recap": "\u2014 After hitting into two double plays during the Atlanta Braves' loss to the Philadelphia Phillies on Wednesday, Michael Harris II was eager for an opportunity to make amends."
+  },
+  {
+   "eventId": "401907990",
+   "scoreboardDate": "20261003",
+   "dateET": "2026-10-03",
+   "startET": "2026-10-03T13:00:00-04:00",
+   "startUTC": "2026-10-03T17:00Z",
+   "round": "ALDS",
+   "gameNumber": 1,
+   "seriesSummary": "CHW lead series 1-0",
+   "seriesCompleted": false,
+   "seriesLength": 5,
+   "seriesWins": {
+    "5": 0,
+    "4": 1
+   },
+   "away": {
+    "name": "Chicago White Sox",
+    "abbreviation": "CHW",
+    "score": 3,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Cleveland Guardians",
+    "abbreviation": "CLE",
+    "score": 0,
+    "seed": null,
+    "winner": false,
+    "record": "0-1",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Bryan Hudson",
+   "losingPitcher": "Parker Messick",
+   "savePitcher": "Grant Taylor",
+   "topHitters": [
+    {
+     "player": "Munetaka Murakami",
+     "team": "CHW",
+     "statLine": "2-4, HR, 2 RBI, R, 2 K",
+     "mlbRating": 68.0
+    },
+    {
+     "player": "Colson Montgomery",
+     "team": "CHW",
+     "statLine": "2-3, 2B, RBI",
+     "mlbRating": 64.75
+    }
+   ],
+   "venue": "Progressive Field",
+   "recap": "\u2014 Munetaka Murakami hit a two-run homer, five Chicago pitchers combined for a three-hitter and the White Sox beat the Cleveland Guardians 3-0 in Game 1 of their AL Division Series on Saturday."
+  },
+  {
+   "eventId": "401908007",
+   "scoreboardDate": "20261003",
+   "dateET": "2026-10-03",
+   "startET": "2026-10-03T16:00:00-04:00",
+   "startUTC": "2026-10-03T20:00Z",
+   "round": "NLDS",
+   "gameNumber": 1,
+   "seriesSummary": "LAD lead series 1-0",
+   "seriesCompleted": false,
+   "seriesLength": 5,
+   "seriesWins": {
+    "19": 1,
+    "15": 0
+   },
+   "away": {
+    "name": "Atlanta Braves",
+    "abbreviation": "ATL",
+    "score": 3,
+    "seed": null,
+    "winner": false,
+    "record": "0-1",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Los Angeles Dodgers",
+    "abbreviation": "LAD",
+    "score": 5,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Tarik Skubal",
+   "losingPitcher": "Victor Mederos",
+   "savePitcher": "Evan Phillips",
+   "topHitters": [
+    {
+     "player": "Teoscar Hernandez",
+     "team": "LAD",
+     "statLine": "2-4, HR, 2 RBI, 2 R, 2 K",
+     "mlbRating": 69.0
+    },
+    {
+     "player": "Tarik Skubal",
+     "team": "LAD",
+     "statLine": "6.0 IP, ER, 2 H, 7 K, 2 BB",
+     "mlbRating": 69.0
+    }
+   ],
+   "venue": "Dodger Stadium",
+   "recap": "\u2014 Tarik Skubal tossed six dominant innings in triple-digit heat, Teoscar Hern\u00e1ndez, Kyle Tucker and Max Muncy homered, and the Los Angeles Dodgers beat..."
+  },
+  {
+   "eventId": "401907985",
+   "scoreboardDate": "20261003",
+   "dateET": "2026-10-03",
+   "startET": "2026-10-03T18:30:00-04:00",
+   "startUTC": "2026-10-03T22:30Z",
+   "round": "ALDS",
+   "gameNumber": 1,
+   "seriesSummary": "TB leads series 1-0",
+   "seriesCompleted": false,
+   "seriesLength": 5,
+   "seriesWins": {
+    "30": 1,
+    "10": 0
+   },
+   "away": {
+    "name": "New York Yankees",
+    "abbreviation": "NYY",
+    "score": 0,
+    "seed": null,
+    "winner": false,
+    "record": "0-1",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Tampa Bay Rays",
+    "abbreviation": "TB",
+    "score": 1,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Drew Rasmussen",
+   "losingPitcher": "Gerrit Cole",
+   "savePitcher": "Bryan Baker",
+   "topHitters": [
+    {
+     "player": "Drew Rasmussen",
+     "team": "TB",
+     "statLine": "8.0 IP, 0 ER, H, 10 K, 2 BB",
+     "mlbRating": 88.0
+    },
+    {
+     "player": "Jonathan Aranda",
+     "team": "TB",
+     "statLine": "1-4, HR, RBI, R",
+     "mlbRating": 65.25
+    }
+   ],
+   "venue": "Tropicana Field",
+   "recap": "\u2014 Drew Rasmussen walked into the interview room while manager Kevin Cash was showering him with praise."
+  },
+  {
+   "eventId": "401908002",
+   "scoreboardDate": "20261003",
+   "dateET": "2026-10-03",
+   "startET": "2026-10-03T20:30:00-04:00",
+   "startUTC": "2026-10-04T00:30Z",
+   "round": "NLDS",
+   "gameNumber": 1,
+   "seriesSummary": "MIL leads series 1-0",
+   "seriesCompleted": false,
+   "seriesLength": 5,
+   "seriesWins": {
+    "8": 1,
+    "25": 0
+   },
+   "away": {
+    "name": "San Diego Padres",
+    "abbreviation": "SD",
+    "score": 2,
+    "seed": null,
+    "winner": false,
+    "record": "0-1",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Milwaukee Brewers",
+    "abbreviation": "MIL",
+    "score": 3,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "DL Hall",
+   "losingPitcher": "Adrian Morejon",
+   "savePitcher": "Trevor Megill",
+   "topHitters": [
+    {
+     "player": "Jackson Chourio",
+     "team": "MIL",
+     "statLine": "1-4, HR, 2 RBI, R",
+     "mlbRating": 66.25
+    },
+    {
+     "player": "William Contreras",
+     "team": "MIL",
+     "statLine": "1-3, HR, RBI, R, BB",
+     "mlbRating": 65.75
+    }
+   ],
+   "venue": "American Family Field",
+   "recap": "\u2014 William Contreras hit a tiebreaking homer in the seventh inning and the Milwaukee Brewers hung on to beat San Diego 3-2 in their NL Division Series opener Saturday night after a potential..."
+  },
+  {
+   "eventId": "401908003",
+   "scoreboardDate": "20261004",
+   "dateET": "2026-10-04",
+   "startET": "2026-10-04T16:00:00-04:00",
+   "startUTC": "2026-10-04T20:00Z",
+   "round": "NLDS",
+   "gameNumber": 2,
+   "seriesSummary": "MIL leads series 2-0",
+   "seriesCompleted": false,
+   "seriesLength": 5,
+   "seriesWins": {
+    "8": 2,
+    "25": 0
+   },
+   "away": {
+    "name": "San Diego Padres",
+    "abbreviation": "SD",
+    "score": 3,
+    "seed": null,
+    "winner": false,
+    "record": "0-2",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Milwaukee Brewers",
+    "abbreviation": "MIL",
+    "score": 4,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Trevor Megill",
+   "losingPitcher": "Mason Miller",
+   "savePitcher": null,
+   "topHitters": [
+    {
+     "player": "Ty France",
+     "team": "SD",
+     "statLine": "2-3, 2 RBI, K",
+     "mlbRating": 64.75
+    },
+    {
+     "player": "Christian Yelich",
+     "team": "MIL",
+     "statLine": "1-3, 2B, 2 R, BB, SB, K",
+     "mlbRating": 63.75
+    }
+   ],
+   "venue": "American Family Field",
+   "recap": "\u2014 Jackson Chourio hit a two-run single off hard-throwing Mason Miller with two outs in the ninth inning and the Milwaukee Brewers rallied past the San Diego Padres for the straight day, a 4-3 victory Sunday for a 2-0 NL Division Series lead."
+  },
+  {
+   "eventId": "401908014",
+   "scoreboardDate": "20261004",
+   "dateET": "2026-10-04",
+   "startET": "2026-10-04T20:00:00-04:00",
+   "startUTC": "2026-10-05T00:00Z",
+   "round": "NLDS",
+   "gameNumber": 2,
+   "seriesSummary": "Series tied 1-1",
+   "seriesCompleted": false,
+   "seriesLength": 5,
+   "seriesWins": {
+    "19": 1,
+    "15": 1
+   },
+   "away": {
+    "name": "Atlanta Braves",
+    "abbreviation": "ATL",
+    "score": 3,
+    "seed": null,
+    "winner": true,
+    "record": "1-1",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Los Angeles Dodgers",
+    "abbreviation": "LAD",
+    "score": 2,
+    "seed": null,
+    "winner": false,
+    "record": "1-1",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Dylan Lee",
+   "losingPitcher": "Kris Bubic",
+   "savePitcher": "Raisel Iglesias",
+   "topHitters": [
+    {
+     "player": "Michael Harris II",
+     "team": "ATL",
+     "statLine": "3-5, 3B, 2B, RBI, R",
+     "mlbRating": 69.5
+    },
+    {
+     "player": "Freddie Freeman",
+     "team": "LAD",
+     "statLine": "2-4, HR, RBI, R, K",
+     "mlbRating": 67.25
+    }
+   ],
+   "venue": "Dodger Stadium",
+   "recap": "\u2014 Michael Harris II tripled and scored the go-ahead run on reliever Kris Bubic's wild pitch in the fifth inning, and the Atlanta Braves beat the Los Angeles Dodgers 3-2 on Sunday night to even the National League Division Series at a game apiece."
+  },
+  {
+   "eventId": "401907991",
+   "scoreboardDate": "20261005",
+   "dateET": "2026-10-05",
+   "startET": "2026-10-05T17:00:00-04:00",
+   "startUTC": "2026-10-05T21:00Z",
+   "round": "ALDS",
+   "gameNumber": 2,
+   "seriesSummary": "CHW lead series 2-0",
+   "seriesCompleted": false,
+   "seriesLength": 5,
+   "seriesWins": {
+    "5": 0,
+    "4": 2
+   },
+   "away": {
+    "name": "Chicago White Sox",
+    "abbreviation": "CHW",
+    "score": 4,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Cleveland Guardians",
+    "abbreviation": "CLE",
+    "score": 3,
+    "seed": null,
+    "winner": false,
+    "record": "0-2",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Sean Burke",
+   "losingPitcher": "Erik Sabrowski",
+   "savePitcher": "Grant Taylor",
+   "topHitters": [
+    {
+     "player": "Braden Montgomery",
+     "team": "CHW",
+     "statLine": "1-4, 2B, 2 RBI, R, 2 K",
+     "mlbRating": 63.75
+    },
+    {
+     "player": "Chase DeLauter",
+     "team": "CLE",
+     "statLine": "2-4, R",
+     "mlbRating": 63.5
+    }
+   ],
+   "venue": "Progressive Field",
+   "recap": "\u2014 The White Sox are returning to Chicago one win from advancing to the American League Championship Series for the first time in 21 years."
+  },
+  {
+   "eventId": "401907986",
+   "scoreboardDate": "20261005",
+   "dateET": "2026-10-05",
+   "startET": "2026-10-05T20:00:00-04:00",
+   "startUTC": "2026-10-06T00:00Z",
+   "round": "ALDS",
+   "gameNumber": 2,
+   "seriesSummary": "TB leads series 2-0",
+   "seriesCompleted": false,
+   "seriesLength": 5,
+   "seriesWins": {
+    "30": 2,
+    "10": 0
+   },
+   "away": {
+    "name": "New York Yankees",
+    "abbreviation": "NYY",
+    "score": 2,
+    "seed": null,
+    "winner": false,
+    "record": "0-2",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Tampa Bay Rays",
+    "abbreviation": "TB",
+    "score": 5,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Cam Booser",
+   "losingPitcher": "Cam Schlittler",
+   "savePitcher": "Bryan Baker",
+   "topHitters": [
+    {
+     "player": "Ben Rice",
+     "team": "NYY",
+     "statLine": "2-3, 2 HR, 2 RBI, 2 R, BB",
+     "mlbRating": 73.0
+    },
+    {
+     "player": "Junior Caminero",
+     "team": "TB",
+     "statLine": "2-4, 2B, R",
+     "mlbRating": 64.5
+    }
+   ],
+   "venue": "Tropicana Field",
+   "recap": "\u2014 The pesky Rays put all the pressure on the big, bad New York Yankees."
+  },
+  {
+   "eventId": "401908015",
+   "scoreboardDate": "20261006",
+   "dateET": "2026-10-06",
+   "startET": "2026-10-06T18:00:00-04:00",
+   "startUTC": "2026-10-06T22:00Z",
+   "round": "NLDS",
+   "gameNumber": 3,
+   "seriesSummary": "LAD lead series 2-1",
+   "seriesCompleted": false,
+   "seriesLength": 5,
+   "seriesWins": {
+    "15": 1,
+    "19": 2
+   },
+   "away": {
+    "name": "Los Angeles Dodgers",
+    "abbreviation": "LAD",
+    "score": 3,
+    "seed": null,
+    "winner": true,
+    "record": "2-1",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Atlanta Braves",
+    "abbreviation": "ATL",
+    "score": 1,
+    "seed": null,
+    "winner": false,
+    "record": "1-2",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Yoshinobu Yamamoto",
+   "losingPitcher": "Chris Sale",
+   "savePitcher": "Edwin Diaz",
+   "topHitters": [
+    {
+     "player": "Yoshinobu Yamamoto",
+     "team": "LAD",
+     "statLine": "7.0 IP, ER, 4 H, 10 K, BB",
+     "mlbRating": 74.0
+    },
+    {
+     "player": "Enrique Hernandez",
+     "team": "LAD",
+     "statLine": "1-4, HR, 2 RBI, R, 2 K",
+     "mlbRating": 65.75
+    }
+   ],
+   "venue": "Truist Park",
+   "recap": "\u2014 Yoshinobu Yamamoto struck out 10 in seven innings, Kik\u00e9 Hern\u00e1ndez hit a two-run homer and the Los Angeles Dodgers beat the Atlanta Braves 3-1 on Tuesday night to take a 2-1 lead..."
+  },
+  {
+   "eventId": "401908004",
+   "scoreboardDate": "20261006",
+   "dateET": "2026-10-06",
+   "startET": "2026-10-06T21:30:00-04:00",
+   "startUTC": "2026-10-07T01:30Z",
+   "round": "NLDS",
+   "gameNumber": 3,
+   "seriesSummary": "MIL leads series 2-1",
+   "seriesCompleted": false,
+   "seriesLength": 5,
+   "seriesWins": {
+    "25": 1,
+    "8": 2
+   },
+   "away": {
+    "name": "Milwaukee Brewers",
+    "abbreviation": "MIL",
+    "score": 3,
+    "seed": null,
+    "winner": false,
+    "record": "2-1",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "San Diego Padres",
+    "abbreviation": "SD",
+    "score": 4,
+    "seed": null,
+    "winner": true,
+    "record": "1-2",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Yuki Matsui",
+   "losingPitcher": "JoJo Romero",
+   "savePitcher": "Michael King",
+   "topHitters": [
+    {
+     "player": "William Contreras",
+     "team": "MIL",
+     "statLine": "3-4, HR, RBI, 2 R, BB",
+     "mlbRating": 71.0
+    },
+    {
+     "player": "Jake Cronenworth",
+     "team": "SD",
+     "statLine": "2-2, HR, RBI, R",
+     "mlbRating": 68.25
+    }
+   ],
+   "venue": "Petco Park",
+   "recap": "\u2014 When right-hander Michael King dramatically emerged from the bullpen in a darkened Petco Park to pitch in the eighth inning of Game 3 just two days after he made a five-inning start in Game 2, the San Diego Padres' desperate determination to extend..."
+  },
+  {
+   "eventId": "401907992",
+   "scoreboardDate": "20261007",
+   "dateET": "2026-10-07",
+   "startET": "2026-10-07T16:00:00-04:00",
+   "startUTC": "2026-10-07T20:00Z",
+   "round": "ALDS",
+   "gameNumber": 3,
+   "seriesSummary": "CHW lead series 2-1",
+   "seriesCompleted": false,
+   "seriesLength": 5,
+   "seriesWins": {
+    "4": 2,
+    "5": 1
+   },
+   "away": {
+    "name": "Cleveland Guardians",
+    "abbreviation": "CLE",
+    "score": 9,
+    "seed": null,
+    "winner": true,
+    "record": "1-2",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Chicago White Sox",
+    "abbreviation": "CHW",
+    "score": 3,
+    "seed": null,
+    "winner": false,
+    "record": "2-1",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Foster Griffin",
+   "losingPitcher": "Bryan Hudson",
+   "savePitcher": null,
+   "topHitters": [
+    {
+     "player": "Jose Ramirez",
+     "team": "CLE",
+     "statLine": "2-4, 3B, 2B, 2 RBI, 2 R, BB, SB",
+     "mlbRating": 70.0
+    },
+    {
+     "player": "Jo Adell",
+     "team": "CLE",
+     "statLine": "2-4, 3B, 3 RBI, BB, K",
+     "mlbRating": 67.5
+    }
+   ],
+   "venue": "Rate Field",
+   "recap": "Jo Adell and Jose Ramirez powered Cleveland with a pair of two-out triples, and the Guardians avoided an AL Division Series sweep by cooling off the Chicago White Sox with a 9-3 victory in Game 3 on Wednesday."
+  },
+  {
+   "eventId": "401908016",
+   "scoreboardDate": "20261007",
+   "dateET": "2026-10-07",
+   "startET": "2026-10-07T18:00:00-04:00",
+   "startUTC": "2026-10-07T22:00Z",
+   "round": "NLDS",
+   "gameNumber": 4,
+   "seriesSummary": "LAD win series 3-1",
+   "seriesCompleted": true,
+   "seriesLength": 5,
+   "seriesWins": {
+    "15": 1,
+    "19": 3
+   },
+   "away": {
+    "name": "Los Angeles Dodgers",
+    "abbreviation": "LAD",
+    "score": 4,
+    "seed": null,
+    "winner": true,
+    "record": "3-1",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Atlanta Braves",
+    "abbreviation": "ATL",
+    "score": 1,
+    "seed": null,
+    "winner": false,
+    "record": "1-3",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Edgardo Henriquez",
+   "losingPitcher": "Tyler Mahle",
+   "savePitcher": "Edwin Diaz",
+   "topHitters": [
+    {
+     "player": "Max Muncy",
+     "team": "LAD",
+     "statLine": "1-4, HR, RBI, R",
+     "mlbRating": 65.25
+    },
+    {
+     "player": "Michael Harris II",
+     "team": "ATL",
+     "statLine": "2-3, 2B, R, BB, SB, K",
+     "mlbRating": 65.0
+    }
+   ],
+   "venue": "Truist Park",
+   "recap": "\u2014 Andy Pages drove in two runs with a bases-loaded single in the seventh inning to give Los Angeles the lead, and the Dodgers beat the Atlanta Braves 4-1 on Wednesday night to clinch their NL Division Series."
+  },
+  {
+   "eventId": "401907987",
+   "scoreboardDate": "20261007",
+   "dateET": "2026-10-07",
+   "startET": "2026-10-07T20:00:00-04:00",
+   "startUTC": "2026-10-08T00:00Z",
+   "round": "ALDS",
+   "gameNumber": 3,
+   "seriesSummary": "TB wins series 3-0",
+   "seriesCompleted": true,
+   "seriesLength": 5,
+   "seriesWins": {
+    "10": 0,
+    "30": 3
+   },
+   "away": {
+    "name": "Tampa Bay Rays",
+    "abbreviation": "TB",
+    "score": 4,
+    "seed": null,
+    "winner": true,
+    "record": null,
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "New York Yankees",
+    "abbreviation": "NYY",
+    "score": 3,
+    "seed": null,
+    "winner": false,
+    "record": "0-3",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Ian Seymour",
+   "losingPitcher": "Max Fried",
+   "savePitcher": "Bryan Baker",
+   "topHitters": [
+    {
+     "player": "Ryan Vilade",
+     "team": "TB",
+     "statLine": "1-2, HR, RBI, R",
+     "mlbRating": 65.75
+    },
+    {
+     "player": "Victor Mesa Jr.",
+     "team": "TB",
+     "statLine": "1-4, HR, 2 RBI, R, 2 K",
+     "mlbRating": 65.75
+    }
+   ],
+   "venue": "Yankee Stadium",
+   "recap": "\u2014 Victor Mesa Jr. hit a tiebreaking, two-run homer off Max Fried in the sixth inning, and the Tampa Bay Rays beat the New York Yankees 4-3 on Wednesday night with the help of a "
+  },
+  {
+   "eventId": "401908005",
+   "scoreboardDate": "20261007",
+   "dateET": "2026-10-07",
+   "startET": "2026-10-07T22:00:00-04:00",
+   "startUTC": "2026-10-08T02:00Z",
+   "round": "NLDS",
+   "gameNumber": 4,
+   "seriesSummary": "MIL wins series 3-1",
+   "seriesCompleted": true,
+   "seriesLength": 5,
+   "seriesWins": {
+    "25": 1,
+    "8": 3
+   },
+   "away": {
+    "name": "Milwaukee Brewers",
+    "abbreviation": "MIL",
+    "score": 3,
+    "seed": null,
+    "winner": true,
+    "record": "3-1",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "San Diego Padres",
+    "abbreviation": "SD",
+    "score": 1,
+    "seed": null,
+    "winner": false,
+    "record": "1-3",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Aaron Ashby",
+   "losingPitcher": "Robbie Ray",
+   "savePitcher": "Trevor Megill",
+   "topHitters": [
+    {
+     "player": "Garrett Mitchell",
+     "team": "MIL",
+     "statLine": "2-4, 3B, RBI, R",
+     "mlbRating": 66.5
+    },
+    {
+     "player": "Fernando Tatis Jr.",
+     "team": "SD",
+     "statLine": "1-3, HR, RBI, R, BB",
+     "mlbRating": 65.75
+    }
+   ],
+   "venue": "Petco Park",
+   "recap": "\u2014 Garrett Mitchell tripled and scored the tiebreaking run in the fifth inning before making a pivotal catch on Manny Machado's drive to the wall in the eighth, and the Milwaukee Brewers advanced to the National League Championship Series for the..."
+  },
+  {
+   "eventId": "401907993",
+   "scoreboardDate": "20261008",
+   "dateET": "2026-10-08",
+   "startET": "2026-10-08T20:00:00-04:00",
+   "startUTC": "2026-10-09T00:00Z",
+   "round": "ALDS",
+   "gameNumber": 4,
+   "seriesSummary": "Series tied 2-2",
+   "seriesCompleted": false,
+   "seriesLength": 5,
+   "seriesWins": {
+    "4": 2,
+    "5": 2
+   },
+   "away": {
+    "name": "Cleveland Guardians",
+    "abbreviation": "CLE",
+    "score": 9,
+    "seed": null,
+    "winner": true,
+    "record": "2-2",
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Chicago White Sox",
+    "abbreviation": "CHW",
+    "score": 5,
+    "seed": null,
+    "winner": false,
+    "record": "2-2",
+    "probablePitcher": null
+   },
+   "final": true,
+   "statusDetail": "Final",
+   "statusName": "STATUS_FINAL",
+   "innings": null,
+   "winningPitcher": "Erik Sabrowski",
+   "losingPitcher": "Anthony Kay",
+   "savePitcher": null,
+   "topHitters": [
+    {
+     "player": "Jose Ramirez",
+     "team": "CLE",
+     "statLine": "2-5, HR, 3 RBI, 2 R",
+     "mlbRating": 70.25
+    },
+    {
+     "player": "Patrick Bailey",
+     "team": "CLE",
+     "statLine": "2-3, HR, 2 RBI, 2 R",
+     "mlbRating": 69.75
+    }
+   ],
+   "venue": "Rate Field",
+   "recap": "Jos  Ramirez homered and drove in three runs, and the Cleveland Guardians beat the Chicago White Sox 9-5 on Thursday night to send their AL Division Series to a winner-take-all Game 5."
+  },
+  {
+   "eventId": "401907994",
+   "scoreboardDate": "20261010",
+   "dateET": "2026-10-10",
+   "startET": "2026-10-10T20:00:00-04:00",
+   "startUTC": "2026-10-11T00:00Z",
+   "round": "ALDS",
+   "gameNumber": 5,
+   "seriesSummary": "Series tied 2-2",
+   "seriesCompleted": false,
+   "seriesLength": 5,
+   "seriesWins": {
+    "5": 2,
+    "4": 2
+   },
+   "away": {
+    "name": "Chicago White Sox",
+    "abbreviation": "CHW",
+    "score": null,
+    "seed": null,
+    "winner": null,
+    "record": "2-2",
+    "probablePitcher": "Sean Burke"
+   },
+   "home": {
+    "name": "Cleveland Guardians",
+    "abbreviation": "CLE",
+    "score": null,
+    "seed": null,
+    "winner": null,
+    "record": "2-2",
+    "probablePitcher": "Gavin Williams"
+   },
+   "final": false,
+   "statusDetail": "Scheduled",
+   "statusName": "STATUS_SCHEDULED",
+   "innings": null,
+   "winningPitcher": null,
+   "losingPitcher": null,
+   "savePitcher": null,
+   "topHitters": [],
+   "venue": "Progressive Field",
+   "recap": null
+  },
+  {
+   "eventId": "401908030",
+   "scoreboardDate": "20261011",
+   "dateET": "2026-10-11",
+   "startET": "2026-10-11T20:00:00-04:00",
+   "startUTC": "2026-10-12T00:00Z",
+   "round": "NLCS",
+   "gameNumber": 1,
+   "seriesSummary": "Series starts 10/11",
+   "seriesCompleted": false,
+   "seriesLength": 7,
+   "seriesWins": {
+    "8": 0,
+    "19": 0
+   },
+   "away": {
+    "name": "Los Angeles Dodgers",
+    "abbreviation": "LAD",
+    "score": null,
+    "seed": null,
+    "winner": null,
+    "record": null,
+    "probablePitcher": "Tarik Skubal"
+   },
+   "home": {
+    "name": "Milwaukee Brewers",
+    "abbreviation": "MIL",
+    "score": null,
+    "seed": null,
+    "winner": null,
+    "record": null,
+    "probablePitcher": null
+   },
+   "final": false,
+   "statusDetail": "Scheduled",
+   "statusName": "STATUS_SCHEDULED",
+   "innings": null,
+   "winningPitcher": null,
+   "losingPitcher": null,
+   "savePitcher": null,
+   "topHitters": [],
+   "venue": "American Family Field",
+   "recap": null
+  },
+  {
+   "eventId": "401908031",
+   "scoreboardDate": "20261012",
+   "dateET": "2026-10-12",
+   "startET": "2026-10-12T17:00:00-04:00",
+   "startUTC": "2026-10-12T21:00Z",
+   "round": "NLCS",
+   "gameNumber": 2,
+   "seriesSummary": "Series starts 10/11",
+   "seriesCompleted": false,
+   "seriesLength": 7,
+   "seriesWins": {
+    "8": 0,
+    "19": 0
+   },
+   "away": {
+    "name": "Los Angeles Dodgers",
+    "abbreviation": "LAD",
+    "score": null,
+    "seed": null,
+    "winner": null,
+    "record": null,
+    "probablePitcher": "Yoshinobu Yamamoto"
+   },
+   "home": {
+    "name": "Milwaukee Brewers",
+    "abbreviation": "MIL",
+    "score": null,
+    "seed": null,
+    "winner": null,
+    "record": null,
+    "probablePitcher": null
+   },
+   "final": false,
+   "statusDetail": "Scheduled",
+   "statusName": "STATUS_SCHEDULED",
+   "innings": null,
+   "winningPitcher": null,
+   "losingPitcher": null,
+   "savePitcher": null,
+   "topHitters": [],
+   "venue": "American Family Field",
+   "recap": null
+  },
+  {
+   "eventId": "401908023",
+   "scoreboardDate": "20261012",
+   "dateET": "2026-10-12",
+   "startET": "2026-10-12T20:00:00-04:00",
+   "startUTC": "2026-10-13T00:00Z",
+   "round": "ALCS",
+   "gameNumber": 1,
+   "seriesSummary": null,
+   "seriesCompleted": null,
+   "seriesLength": null,
+   "seriesWins": {},
+   "away": {
+    "name": "CLE/CHW",
+    "abbreviation": "CLE/CHW",
+    "score": null,
+    "seed": null,
+    "winner": null,
+    "record": null,
+    "probablePitcher": null
+   },
+   "home": {
+    "name": "Tampa Bay Rays",
+    "abbreviation": "TB",
+    "score": null,
+    "seed": null,
+    "winner": null,
+    "record": null,
+    "probablePitcher": null
+   },
+   "final": false,
+   "statusDetail": "Scheduled",
+   "statusName": "STATUS_SCHEDULED",
+   "innings": null,
+   "winningPitcher": null,
+   "losingPitcher": null,
+   "savePitcher": null,
+   "topHitters": [],
+   "venue": "Tropicana Field",
+   "recap": null
+  }
+ ],
+ "seriesSummary": [
+  {
+   "round": "NLWC",
+   "teams": [
+    "ATL",
+    "PHI"
+   ],
+   "result": "ATL 2 PHI 1",
+   "computedWins": {
+    "ATL": 2,
+    "PHI": 1
+   },
+   "espnLatestSummary": "ATL wins series 2-1",
+   "espnSeriesCompleted": true,
+   "gamesFinal": 3,
+   "gamesListed": 3,
+   "games": [
+    "401907965",
+    "401907972",
+    "401907973"
+   ]
+  },
+  {
+   "round": "ALWC",
+   "teams": [
+    "CHW",
+    "HOU"
+   ],
+   "result": "CHW 2 HOU 0",
+   "computedWins": {
+    "CHW": 2,
+    "HOU": 0
+   },
+   "espnLatestSummary": "CHW win series 2-0",
+   "espnSeriesCompleted": true,
+   "gamesFinal": 2,
+   "gamesListed": 2,
+   "games": [
+    "401907896",
+    "401907897"
+   ]
+  },
+  {
+   "round": "ALWC",
+   "teams": [
+    "BOS",
+    "NYY"
+   ],
+   "result": "BOS 0 NYY 2",
+   "computedWins": {
+    "BOS": 0,
+    "NYY": 2
+   },
+   "espnLatestSummary": "NYY win series 2-0",
+   "espnSeriesCompleted": true,
+   "gamesFinal": 2,
+   "gamesListed": 2,
+   "games": [
+    "401907924",
+    "401907963"
+   ]
+  },
+  {
+   "round": "NLWC",
+   "teams": [
+    "CHC",
+    "SD"
+   ],
+   "result": "SD 2 CHC 0",
+   "computedWins": {
+    "SD": 2,
+    "CHC": 0
+   },
+   "espnLatestSummary": "SD wins series 2-0",
+   "espnSeriesCompleted": true,
+   "gamesFinal": 2,
+   "gamesListed": 2,
+   "games": [
+    "401907974",
+    "401907975"
+   ]
+  },
+  {
+   "round": "ALDS",
+   "teams": [
+    "CHW",
+    "CLE"
+   ],
+   "result": "CHW 2 CLE 2",
+   "computedWins": {
+    "CHW": 2,
+    "CLE": 2
+   },
+   "espnLatestSummary": "Series tied 2-2",
+   "espnSeriesCompleted": false,
+   "gamesFinal": 4,
+   "gamesListed": 5,
+   "games": [
+    "401907990",
+    "401907991",
+    "401907992",
+    "401907993",
+    "401907994"
+   ]
+  },
+  {
+   "round": "NLDS",
+   "teams": [
+    "ATL",
+    "LAD"
+   ],
+   "result": "ATL 1 LAD 3",
+   "computedWins": {
+    "ATL": 1,
+    "LAD": 3
+   },
+   "espnLatestSummary": "LAD win series 3-1",
+   "espnSeriesCompleted": true,
+   "gamesFinal": 4,
+   "gamesListed": 4,
+   "games": [
+    "401908007",
+    "401908014",
+    "401908015",
+    "401908016"
+   ]
+  },
+  {
+   "round": "ALDS",
+   "teams": [
+    "NYY",
+    "TB"
+   ],
+   "result": "NYY 0 TB 3",
+   "computedWins": {
+    "NYY": 0,
+    "TB": 3
+   },
+   "espnLatestSummary": "TB wins series 3-0",
+   "espnSeriesCompleted": true,
+   "gamesFinal": 3,
+   "gamesListed": 3,
+   "games": [
+    "401907985",
+    "401907986",
+    "401907987"
+   ]
+  },
+  {
+   "round": "NLDS",
+   "teams": [
+    "MIL",
+    "SD"
+   ],
+   "result": "SD 1 MIL 3",
+   "computedWins": {
+    "SD": 1,
+    "MIL": 3
+   },
+   "espnLatestSummary": "MIL wins series 3-1",
+   "espnSeriesCompleted": true,
+   "gamesFinal": 4,
+   "gamesListed": 4,
+   "games": [
+    "401908002",
+    "401908003",
+    "401908004",
+    "401908005"
+   ]
+  },
+  {
+   "round": "NLCS",
+   "teams": [
+    "LAD",
+    "MIL"
+   ],
+   "result": "LAD 0 MIL 0",
+   "computedWins": {
+    "LAD": 0,
+    "MIL": 0
+   },
+   "espnLatestSummary": null,
+   "espnSeriesCompleted": false,
+   "gamesFinal": 0,
+   "gamesListed": 2,
+   "games": [
+    "401908030",
+    "401908031"
+   ]
+  },
+  {
+   "round": "ALCS",
+   "teams": [
+    "CLE/CHW",
+    "TB"
+   ],
+   "result": "CLE/CHW 0 TB 0",
+   "computedWins": {
+    "CLE/CHW": 0,
+    "TB": 0
+   },
+   "espnLatestSummary": null,
+   "espnSeriesCompleted": null,
+   "gamesFinal": 0,
+   "gamesListed": 1,
+   "games": [
+    "401908023"
+   ]
+  }
+ ],
+ "notes": [
+  "Working endpoint: scoreboard?dates=YYYYMMDD&seasontype=3&limit=100 on site.web.api.espn.com; site.api.espn.com also responds. Only per-date queries tested; 20260928-20261012 scanned (empty: 0928, 1002, 1009).",
+  "Round and game number come from competitions[0].notes[0].headline (e.g. 'ALDS - Game 3'); round codes NLWC/ALWC etc. are kept as ESPN gives them. No World Series games exist yet.",
+  "series.summary is post-game for completed games and matched computed results in all checked series (e.g. 401907992 CLE 9-3 -> 'CHW lead series 2-1'). seriesSummary.computedWins derived from winner flags and scores agree with ESPN seriesWins; no inconsistencies found.",
+  "Pitchers (W/L/S) come from the summary endpoint header.competitions[0].status.featuredAthletes; savePitcher is null when no save was awarded. Top hitters come from scoreboard competitions[0].leaders (MLB Rating leaders) with displayValue stat lines.",
+  "Seeds not provided by scoreboard (null). Winner/score null for unplayed games. 'innings' only set when status.period != 9 on completed games: [('401907972', 'NLWC', 2)].",
+  "Scheduled: ALDS G5 CHW at CLE (Progressive Field, 10/10 8pm ET); NLCS G1 10/11 and G2 10/12 LAD vs MIL; ALCS G1 10/12 has placeholder team 'CLE/CHW' vs TB pending ALDS G5. Probable pitchers only given for some.",
+  "401908031 (NLCS G2) carries series summary 'Series starts 10/11' (G1 date), as ESPN provides."
+ ]
+}

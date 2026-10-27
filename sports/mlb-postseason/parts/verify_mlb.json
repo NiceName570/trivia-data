@@ -1,0 +1,129 @@
+{
+ "snapshotAt": "2026-10-10T14:09:23.848128+00:00",
+ "games": {
+  "checked": 28,
+  "clean": 28,
+  "corrections": [],
+  "notes": [
+   "24 completed games: date (ET), round, teams, scores, winner flags match fresh ESPN scoreboard; W/L/S pitchers match ESPN summary featuredAthletes (winningPitcher/losingPitcher/savingPitcher) for ALL 24, not just 10; 4 unplayed games (ALDS G5, NLCS G1-G2, ALCS G1) still scheduled with same dates/times. 9 series results confirmed (NLWC ATL 2-1 PHI, SD 2-0 CHC; ALWC CHW 2-0 HOU, NYY 2-0 BOS; ALDS TB 3-0 NYY, MIL 3-1 SD, LAD 3-1 ATL, CHW-CLE 2-2). Remaining: ALDS G5 CHW@CLE Oct 10 8pm ET; NLCS G1 Oct 11, G2 Oct 12 (further NLCS/ALCS dates also match ESPN schedule); ALCS G1 Oct 12; WS G1 Oct 23. Note: games_snapshot is a snapshot - ALDS G5 finishes tonight.",
+   "games_snapshot note says 'innings' null except NLWC G2 (10 inn) - consistent."
+  ]
+ },
+ "storylines": {
+  "checked": 40,
+  "clean": 29,
+  "corrections": [
+   {
+    "factStart": "AL Wild Card Game 1 (Sep 29): The No. 6 seed White Sox beat the No. 3 seed Astro",
+    "problem": "Antonacci's hit was a two-run single in the 2nd (ESPN play-by-play: 'Antonacci singled to left, B. Montgomery scored and Meidroth scored'), not an RBI double. Montgomery's solo homer (4th, 432 ft) is correct.",
+    "correctedText": "AL Wild Card Game 1 (Sep 29): The No. 6 seed White Sox beat the No. 3 seed Astros 6–3 at Daikin Park, with Sam Antonacci's two-run single in the second and a Colson Montgomery solo homer in the fourth helping.",
+    "source": "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907896"
+   },
+   {
+    "factStart": "AL Wild Card Game 1 (Sep 29): The Yankees beat the Red Sox 9–0 at Yankee Stadium",
+    "problem": "Schlittler went 6⅓ innings (2 H, 0 R, 10 K, 117 pitches), not six. Also Ben Rice homered twice (incl. a grand slam) and drove in six.",
+    "correctedText": "AL Wild Card Game 1 (Sep 29): The Yankees beat the Red Sox 9–0 at Yankee Stadium, with Cam Schlittler pitching 6⅓ shutout innings with 10 strikeouts and Ben Rice homering twice.",
+    "source": "https://www.espn.com/mlb/recap/_/gameId/401907924 ; https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907924 ; https://www.mlb.com/news/red-sox-yankees-postseason-history-c297027974"
+   },
+   {
+    "factStart": "AL Wild Card Game 2 (Sep 30): The Yankees beat the Red Sox 9–2, with Max Fried t",
+    "problem": "Fried was not shutout: ESPN box score 6.0 IP, 3 H, 1 R, 6 K (Willson Contreras solo HR in the 6th). MLB.com: 'holding the Red Sox to one run over six strong innings'.",
+    "correctedText": "AL Wild Card Game 2 (Sep 30): The Yankees beat the Red Sox 9–2, with Max Fried allowing one run over six innings and Cody Bellinger (three-run HR) and Luis García Jr. homering, completing a 2–0 sweep.",
+    "source": "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907963 ; https://www.mlb.com/news/red-sox-yankees-postseason-history-c297027974"
+   },
+   {
+    "factStart": "NL Wild Card Game 2 (Sep 30): The Padres beat the Cubs 4–1 on a two-run single b",
+    "problem": "ESPN play-by-play: Bogaerts' 2nd-inning hit was an RBI single (scored France; run 1), followed by Salas' sac fly (run 2); Gavin Sheets' two-run homer in the 4th (394 ft) produced runs 3-4. No two-run single by Bogaerts. Cronenworth HBP by Palencia is correct (after Sheets' HR, 4th inning).",
+    "correctedText": "NL Wild Card Game 2 (Sep 30): The Padres beat the Cubs 4–1 on an RBI single by Xander Bogaerts, a sacrifice fly by Ethan Salas and a two-run homer by Gavin Sheets, completing the sweep; Cubs pitcher Daniel Palencia then hit Jake Cronenworth with his next pitch, drawing shouts from Padres players.",
+    "source": "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907975"
+   },
+   {
+    "factStart": "ALDS Game 3 (Oct 7): The Guardians beat the White Sox 9–3 at Rate Field as Jo Ad",
+    "problem": "Cleveland's first 2026 postseason HR was Patrick Bailey's solo shot in the 5th inning of Game 4 (Oct 8), not Game 3. ESPN play-by-play shows no Cleveland homer in Game 3 (all 9 runs scored on hits/errors/sac). Wikipedia ALDS Game 4 text agrees ('Patrick Bailey hit a solo home run to cut the deficit to 2–1' in the fifth); the Game 3 photo caption is the misplaced source.",
+    "correctedText": "ALDS Game 3 (Oct 7): The Guardians beat the White Sox 9–3 at Rate Field as Jo Adell's bases-clearing triple in the third made it 4–1; Cleveland did not homer until Game 4, when catcher Patrick Bailey hit its first home run of the 2026 postseason.",
+    "source": "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907992 ; https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907993"
+   },
+   {
+    "factStart": "ALDS Game 4 (Oct 8): The Guardians beat the White Sox 9–5 to force Game 5, scori",
+    "problem": "Cleveland scored SIX runs in the 6th (ESPN linescore CLE 0,0,0,0,3,6; score went 3–4 to 9–4), not five. Ramírez's two-run HR came in the 5th (put CLE ahead 3–2).",
+    "correctedText": "ALDS Game 4 (Oct 8): The Guardians beat the White Sox 9–5 to force Game 5, scoring six runs in the sixth inning after a José Ramírez go-ahead two-run homer in the fifth; the White Sox missed their first chance to clinch a postseason series at home since 1906.",
+    "source": "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/summary?event=401907993"
+   },
+   {
+    "factStart": "NLDS Game 3 (Oct 6): The Dodgers beat the Braves 3–1 at Truist Park as Yoshinobu",
+    "problem": "Resolved: the Game 3 two-run homer was by Enrique (Kiké) Hernández (ESPN PBP 'E. Hernández homered to left (406 feet), Pages scored'; ESPN recap headline; MLB.com). Teoscar Hernández homered in Game 1, not Game 3. The 'postseason page names Teoscar' hedge should be dropped.",
+    "correctedText": "NLDS Game 3 (Oct 6): The Dodgers beat the Braves 3–1 at Truist Park as Yoshinobu Yamamoto allowed one run over seven innings with 10 strikeouts; Enrique (Kiké) Hernández hit a two-run homer and Freddie Freeman homered off Chris Sale, both in the fourth.",
+    "source": "https://www.espn.com/mlb/recap/_/gameId/401908015 ; https://www.mlb.com/dodgers/news/enrique-hernandez-freddie-freeman-homer-off-chris-sale-in-nlds-game-3"
+   },
+   {
+    "factStart": "NLDS Game 3 (Oct 6): The Padres beat the Brewers 4–3 at Petco Park on Jake Crone",
+    "problem": "Conflict resolved: Cronenworth's go-ahead solo homer came in the FIFTH inning (ESPN PBP B5; AP photo caption; Wikipedia NLDS page). Remove '(per game recap)' hedge. Road-losing-streak claim (12, ties MLB record held by Senators/Twins) confirmed by MLB.com/FOX Sports.",
+    "correctedText": "NLDS Game 3 (Oct 6): The Padres beat the Brewers 4–3 at Petco Park on Jake Cronenworth's go-ahead solo homer in the fifth inning, with Michael King earning the save; it extended Milwaukee's postseason road losing streak to 12, matching the MLB record held by the Senators/Twins franchise.",
+    "source": "https://www.espn.com/mlb/recap?gameId=401908004 ; https://www.mlb.com/news/brewers-lose-game-3-of-2026-nlds"
+   },
+   {
+    "factStart": "NLDS Game 4 (Oct 7): The Brewers beat the Padres 3–1 to clinch the series 3–1 an",
+    "problem": "'Third NLCS in eight years' (Wikipedia phrasing) is imprecise: Brewers' NLCS trips are 2018, 2025, 2026 (third since 2018, nine seasons inclusive; fourth in NL history with 2011). Safer wording below. ESPN/AP confirm Mitchell robbed Machado in the 8th and that it was Milwaukee's first road playoff win since the 2018 NLCS.",
+    "correctedText": "NLDS Game 4 (Oct 7): The Brewers beat the Padres 3–1 to clinch the series 3–1 and reach their third NLCS since 2018 (2018, 2025, 2026); Garrett Mitchell robbed Manny Machado of a potential game-tying homer in the eighth, and the win snapped Milwaukee's 12-game road postseason losing streak.",
+    "source": "https://www.espn.com/mlb/recap/_/gameId/401908005 ; https://www.mlb.com/brewers/news/manny-machado-robbed-of-game-tying-home-run-in-nlds-game-4"
+   },
+   {
+    "factStart": "Pre-postseason: The 12-team field was AL Rays (98–64, best AL record), Guardians",
+    "problem": "Guardians' record is 85–77 (ESPN standings, Baseball-Reference, cleveland.com); 85–76 on the Wikipedia ALDS page is wrong. Drop the 'per the postseason page' hedge. All other 11 records match ESPN standings.",
+    "correctedText": "Pre-postseason: The 12-team field was AL Rays (98–64, best AL record), Guardians (85–77), Astros (81–81), Yankees (93–68), Red Sox (87–75), White Sox (84–78) and NL Brewers (103–59, best record in MLB), Dodgers (100–62), Braves (94–68), Padres (91–71), Cubs (89–73), Phillies (88–74).",
+    "source": "https://site.web.api.espn.com/apis/v2/sports/baseball/mlb/standings?season=2026 ; https://www.cleveland.com/guardians/2026/09/guardians-get-playoff-bye-but-will-five-days-off-hurt-momentum-for-alds.html"
+   }
+  ],
+  "remove": [
+   {
+    "factStart": "ALDS Game 5 (Oct 10): The Guardians–White Sox series is tied 2–2 with Game 5 sch",
+    "reason": "Time-sensitive: Game 5 is tonight (8:00 pm ET Oct 10); by quiz day (Oct 16) the result, ALCS opponent and ALCS Games 1-3 (and NLCS Games 1-4) will exist. Replace with the actual Game 5 result after it is played."
+   }
+  ]
+ },
+ "context": {
+  "corrections": [
+   {
+    "item": "leaders: AL R",
+    "problem": "ESPN 2026 regular-season stats (statistics/byathlete, sort batting.runs) show Randy Arozarena (SEA) with 113 runs, not 112. Update value to 113 (or re-check MLB.com before use).",
+    "correctedValue": "113",
+    "source": "https://site.web.api.espn.com/apis/common/v3/sports/baseball/mlb/statistics/byathlete?season=2026&seasontype=2&category=batting&sort=batting.runs:desc"
+   },
+   {
+    "item": "facts: 'Worst records'",
+    "problem": "Giants (65-97) are not second worst: ESPN standings order is Rockies 58-104, Angels 62-100, Athletics 64-98, Giants 65-97. Reword.",
+    "correctedValue": "Worst records: Rockies 58-104 (worst in MLB), Angels 62-100 (worst in AL; second worst overall), Athletics 64-98, Giants 65-97.",
+    "source": "https://site.web.api.espn.com/apis/v2/sports/baseball/mlb/standings?season=2026"
+   },
+   {
+    "item": "teams[CLE].record / storylines Guardians",
+    "problem": "Confirmed 85-77 (ESPN, B-R, cleveland.com); no change to context.json. The 85-76 on the Wikipedia ALDS page is the error.",
+    "correctedValue": "85-77",
+    "source": "https://www.baseball-reference.com/postseason/"
+   }
+  ]
+ },
+ "history": {
+  "checked": 214,
+  "corrections": [
+   {
+    "item": "facts[34]/franchiseTitles Astros 'only team to represent both leagues'",
+    "problem": "Still true today, but time-sensitive: Brewers won the 1982 AL pennant, so if they win the 2026 NLCS they become the second franchise to appear in a World Series from both leagues. Do not use as a quiz answer past Oct 19.",
+    "correctedValue": "Astros are currently the only franchise to appear in World Series for both leagues (NL 2005; AL 2017, 2019, 2021, 2022) - unless Milwaukee wins the 2026 NL pennant.",
+    "source": "https://www.baseball-reference.com/postseason/"
+   }
+  ],
+  "notes": [
+   "World Series list: all 121 entries (1903-2025, no 1904/1994) match Baseball-Reference on winner, loser and series score (incl. ties 1907 4-0-1, 1912 4-3-1, 1922 4-0-1; 1903/1919-21 best-of-nine). Only naming difference: B-R uses 'Washington Nationals' where list says Senators (1924,1925,1933). MVPs 2000-2025: 26/26 match B-R (2001 co-MVPs Johnson/Schilling; Zobrist 2016; Springer 2017). Franchise title counts for all 30 clubs consistent with the verified list. 2025 WS Dodgers 4-3 Blue Jays, MVP Yamamoto confirmed (B-R). 18-inning facts: 2018 G3 Dodgers 3-2 (Muncy) and 2025 G3 (Freeman off Little) consistent with Wikipedia Extra innings page ('fifth and most recent 18-inning game ... 2025 Game 3'). Extra-inning Game 7 numbering (2016 fifth, 2025 sixth) matches Wikipedia 2016 WS."
+  ],
+  "checkedBreakdown": "121 WS series + 26 MVPs (2000-2025) + 27 franchise entries + 40 facts"
+ },
+ "couldNotVerify": [
+  "Wikipedia-only (no ESPN/MLB/AP confirmation found): Yankees' first-ever postseason game with <=1 hit (ESPN/pinstripesnation confirm 1-hit game, 'first in franchise history' only from Wikipedia); Yankees first swept outside ALCS/WS; 'only second series where no team led by >2 runs' after 1915 WS (verified max lead was 2 from ESPN scoring plays, 1915 comparison not verified); White Sox first home series-clinch chance since 1906; Pat Murphy/Bob Uecker joke; second-hottest postseason game ever (Wikipedia cites Bleacher Report); Muncy 17 franchise postseason HR (Wikipedia/Yahoo); White Sox first postseason shutout win since 2005 WS G4.",
+  "Houston first division winner in MLB history without a winning record - Wikipedia/USA Today only; ESPN confirms 81-81 and #3 seed.",
+  "context leaders for other non-ESPN-checkable facts (Wood 89 runs at All-Star break, Murakami/Okamoto/Stewart rookie milestones, DeLauter/Fernandez debut homers, Glasnow 1,000 K, deGrom 2,000 K, Imai combined no-hitter May 25) not checked; Colson Montgomery 227 K confirmed via ESPN (AL leader).",
+  "History facts 14-20, 30, 35-39 paraphrases (Reggie Jackson 3 HR, Curse of Bob Short, Jeter 135 K) checked only against my own baseball knowledge, not a second written source; career postseason HR leaders (Ramirez 29, Altuve 28, Schwarber 24, Springer 23, Williams 22, Jeter 20), Verlander 244/Kershaw 213/Smoltz 199 K, Arozarena 10 HR, Ohtani/Guerrero 8 HR, Altuve 8 first-inning HR confirmed via MLB.com/USA Today/StatMuse.",
+  "World Series MVPs before 2000 and the pre-1903 aside were not cross-checked against a second source (2000-2025 all 26 match Baseball-Reference).",
+  "Franchise title counts/appearance records checked against known history and B-R series list (derived counts consistent); no separate franchise-totals page fetched. Random sample of earlier years not needed: all 121 World Series 1903-2025 (minus 1904, 1994) compared against Baseball-Reference."
+ ]
+}

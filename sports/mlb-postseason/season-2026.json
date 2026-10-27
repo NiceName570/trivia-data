@@ -1,0 +1,1633 @@
+{
+ "snapshotAt": "2026-10-10T14:04:26.983Z",
+ "endpoint": "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=YYYYMMDD&seasontype=3&limit=100",
+ "sources": [
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20260929&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20260930&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261001&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261003&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261004&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261005&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261006&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261007&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261008&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261010&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261011&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261012&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261013&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261014&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261015&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261016&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261017&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261018&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261019&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261020&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261023&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261024&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261026&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261027&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261028&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261030&seasontype=3&limit=100",
+  "https://site.web.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=20261031&seasontype=3&limit=100"
+ ],
+ "games": [
+  {
+   "id": "401907965",
+   "dateET": "2026-09-29",
+   "startET": "2026-09-29T18:00Z",
+   "round": "NLWC",
+   "gameNumber": 1,
+   "series": "ATL leads series 1-0",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Philadelphia Phillies",
+    "abbr": "PHI",
+    "score": 3,
+    "winner": false
+   },
+   "home": {
+    "name": "Atlanta Braves",
+    "abbr": "ATL",
+    "score": 5,
+    "winner": true
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Truist Park",
+   "wp": "Dylan Lee",
+   "lp": "Jhoan Duran",
+   "sv": "Raisel Iglesias",
+   "hitters": [
+    {
+     "player": "Austin Riley",
+     "team": "ATL",
+     "line": "1-3, HR, 3 RBI, R"
+    },
+    {
+     "player": "Michael Harris II",
+     "team": "ATL",
+     "line": "3-3, 2 R"
+    }
+   ]
+  },
+  {
+   "id": "401907896",
+   "dateET": "2026-09-29",
+   "startET": "2026-09-29T21:00Z",
+   "round": "ALWC",
+   "gameNumber": 1,
+   "series": "CHW lead series 1-0",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Chicago White Sox",
+    "abbr": "CHW",
+    "score": 6,
+    "winner": true
+   },
+   "home": {
+    "name": "Houston Astros",
+    "abbr": "HOU",
+    "score": 3,
+    "winner": false
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Daikin Park",
+   "wp": "Jordan Hicks",
+   "lp": "AJ Blubaugh",
+   "sv": null,
+   "hitters": [
+    {
+     "player": "Nelson Velazquez",
+     "team": "HOU",
+     "line": "1-3, HR, 2 RBI, R, K"
+    },
+    {
+     "player": "Colson Montgomery",
+     "team": "CHW",
+     "line": "1-3, HR, RBI, R, K"
+    }
+   ]
+  },
+  {
+   "id": "401907924",
+   "dateET": "2026-09-29",
+   "startET": "2026-09-30T00:00Z",
+   "round": "ALWC",
+   "gameNumber": 1,
+   "series": "NYY lead series 1-0",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Boston Red Sox",
+    "abbr": "BOS",
+    "score": 0,
+    "winner": false
+   },
+   "home": {
+    "name": "New York Yankees",
+    "abbr": "NYY",
+    "score": 9,
+    "winner": true
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Yankee Stadium",
+   "wp": "Cam Schlittler",
+   "lp": "Payton Tolle",
+   "sv": null,
+   "hitters": [
+    {
+     "player": "Ben Rice",
+     "team": "NYY",
+     "line": "4-5, 2 HR, 2B, 6 RBI, 2 R, K"
+    },
+    {
+     "player": "Cam Schlittler",
+     "team": "NYY",
+     "line": "6.1 IP, 0 ER, 2 H, 10 K, BB"
+    }
+   ]
+  },
+  {
+   "id": "401907974",
+   "dateET": "2026-09-29",
+   "startET": "2026-09-30T02:00Z",
+   "round": "NLWC",
+   "gameNumber": 1,
+   "series": "SD leads series 1-0",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Chicago Cubs",
+    "abbr": "CHC",
+    "score": 0,
+    "winner": false
+   },
+   "home": {
+    "name": "San Diego Padres",
+    "abbr": "SD",
+    "score": 8,
+    "winner": true
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Petco Park",
+   "wp": "Michael King",
+   "lp": "Matthew Boyd",
+   "sv": null,
+   "hitters": [
+    {
+     "player": "Michael King",
+     "team": "SD",
+     "line": "7.0 IP, 0 ER, H, 8 K, 3 BB"
+    },
+    {
+     "player": "Manny Machado",
+     "team": "SD",
+     "line": "2-3, HR, 2B, 2 RBI, 2 R, BB"
+    }
+   ]
+  },
+  {
+   "id": "401907972",
+   "dateET": "2026-09-30",
+   "startET": "2026-09-30T18:00Z",
+   "round": "NLWC",
+   "gameNumber": 2,
+   "series": "Series tied 1-1",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Philadelphia Phillies",
+    "abbr": "PHI",
+    "score": 4,
+    "winner": true
+   },
+   "home": {
+    "name": "Atlanta Braves",
+    "abbr": "ATL",
+    "score": 3,
+    "winner": false
+   },
+   "final": true,
+   "status": "Final/10",
+   "innings": 10,
+   "venue": "Truist Park",
+   "wp": "Andrew Painter",
+   "lp": "Didier Fuentes",
+   "sv": null,
+   "hitters": [
+    {
+     "player": "Bryce Harper",
+     "team": "PHI",
+     "line": "2-5, HR, 2 RBI, R, K"
+    },
+    {
+     "player": "Alec Bohm",
+     "team": "PHI",
+     "line": "2-4, HR, RBI, R, BB"
+    }
+   ]
+  },
+  {
+   "id": "401907897",
+   "dateET": "2026-09-30",
+   "startET": "2026-09-30T21:00Z",
+   "round": "ALWC",
+   "gameNumber": 2,
+   "series": "CHW win series 2-0",
+   "seriesCompleted": true,
+   "away": {
+    "name": "Chicago White Sox",
+    "abbr": "CHW",
+    "score": 7,
+    "winner": true
+   },
+   "home": {
+    "name": "Houston Astros",
+    "abbr": "HOU",
+    "score": 3,
+    "winner": false
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Daikin Park",
+   "wp": "Anthony Kay",
+   "lp": "Hunter Brown",
+   "sv": null,
+   "hitters": [
+    {
+     "player": "Chase Meidroth",
+     "team": "CHW",
+     "line": "2-3, HR, 3 RBI, R, BB"
+    },
+    {
+     "player": "Jose Altuve",
+     "team": "HOU",
+     "line": "2-4, HR, RBI, R, K"
+    }
+   ]
+  },
+  {
+   "id": "401907963",
+   "dateET": "2026-09-30",
+   "startET": "2026-10-01T00:00Z",
+   "round": "ALWC",
+   "gameNumber": 2,
+   "series": "NYY win series 2-0",
+   "seriesCompleted": true,
+   "away": {
+    "name": "Boston Red Sox",
+    "abbr": "BOS",
+    "score": 2,
+    "winner": false
+   },
+   "home": {
+    "name": "New York Yankees",
+    "abbr": "NYY",
+    "score": 9,
+    "winner": true
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Yankee Stadium",
+   "wp": "Max Fried",
+   "lp": "Sonny Gray",
+   "sv": null,
+   "hitters": [
+    {
+     "player": "Cody Bellinger",
+     "team": "NYY",
+     "line": "2-5, HR, 4 RBI, R, K"
+    },
+    {
+     "player": "Luis Garcia Jr.",
+     "team": "NYY",
+     "line": "3-5, HR, RBI, R, K"
+    }
+   ]
+  },
+  {
+   "id": "401907975",
+   "dateET": "2026-09-30",
+   "startET": "2026-10-01T02:00Z",
+   "round": "NLWC",
+   "gameNumber": 2,
+   "series": "SD wins series 2-0",
+   "seriesCompleted": true,
+   "away": {
+    "name": "Chicago Cubs",
+    "abbr": "CHC",
+    "score": 1,
+    "winner": false
+   },
+   "home": {
+    "name": "San Diego Padres",
+    "abbr": "SD",
+    "score": 4,
+    "winner": true
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Petco Park",
+   "wp": "Bradgley Rodriguez",
+   "lp": "Kevin Gausman",
+   "sv": "Mason Miller",
+   "hitters": [
+    {
+     "player": "Gavin Sheets",
+     "team": "SD",
+     "line": "1-1, HR, 2 RBI, R"
+    },
+    {
+     "player": "Xander Bogaerts",
+     "team": "SD",
+     "line": "2-4, 2B, RBI, R"
+    }
+   ]
+  },
+  {
+   "id": "401907973",
+   "dateET": "2026-10-01",
+   "startET": "2026-10-02T00:00Z",
+   "round": "NLWC",
+   "gameNumber": 3,
+   "series": "ATL wins series 2-1",
+   "seriesCompleted": true,
+   "away": {
+    "name": "Philadelphia Phillies",
+    "abbr": "PHI",
+    "score": 2,
+    "winner": false
+   },
+   "home": {
+    "name": "Atlanta Braves",
+    "abbr": "ATL",
+    "score": 6,
+    "winner": true
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Truist Park",
+   "wp": "Grant Holmes",
+   "lp": "Aaron Nola",
+   "sv": null,
+   "hitters": [
+    {
+     "player": "Michael Harris II",
+     "team": "ATL",
+     "line": "1-3, HR, 3 RBI, R, K"
+    },
+    {
+     "player": "Matt Olson",
+     "team": "ATL",
+     "line": "1-3, HR, RBI, 2 R, BB"
+    }
+   ]
+  },
+  {
+   "id": "401907990",
+   "dateET": "2026-10-03",
+   "startET": "2026-10-03T17:00Z",
+   "round": "ALDS",
+   "gameNumber": 1,
+   "series": "CHW lead series 1-0",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Chicago White Sox",
+    "abbr": "CHW",
+    "score": 3,
+    "winner": true
+   },
+   "home": {
+    "name": "Cleveland Guardians",
+    "abbr": "CLE",
+    "score": 0,
+    "winner": false
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Progressive Field",
+   "wp": "Bryan Hudson",
+   "lp": "Parker Messick",
+   "sv": "Grant Taylor",
+   "hitters": [
+    {
+     "player": "Munetaka Murakami",
+     "team": "CHW",
+     "line": "2-4, HR, 2 RBI, R, 2 K"
+    },
+    {
+     "player": "Colson Montgomery",
+     "team": "CHW",
+     "line": "2-3, 2B, RBI"
+    }
+   ]
+  },
+  {
+   "id": "401908007",
+   "dateET": "2026-10-03",
+   "startET": "2026-10-03T20:00Z",
+   "round": "NLDS",
+   "gameNumber": 1,
+   "series": "LAD lead series 1-0",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Atlanta Braves",
+    "abbr": "ATL",
+    "score": 3,
+    "winner": false
+   },
+   "home": {
+    "name": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "score": 5,
+    "winner": true
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Dodger Stadium",
+   "wp": "Tarik Skubal",
+   "lp": "Victor Mederos",
+   "sv": "Evan Phillips",
+   "hitters": [
+    {
+     "player": "Teoscar Hernandez",
+     "team": "LAD",
+     "line": "2-4, HR, 2 RBI, 2 R, 2 K"
+    },
+    {
+     "player": "Tarik Skubal",
+     "team": "LAD",
+     "line": "6.0 IP, ER, 2 H, 7 K, 2 BB"
+    }
+   ]
+  },
+  {
+   "id": "401907985",
+   "dateET": "2026-10-03",
+   "startET": "2026-10-03T22:30Z",
+   "round": "ALDS",
+   "gameNumber": 1,
+   "series": "TB leads series 1-0",
+   "seriesCompleted": false,
+   "away": {
+    "name": "New York Yankees",
+    "abbr": "NYY",
+    "score": 0,
+    "winner": false
+   },
+   "home": {
+    "name": "Tampa Bay Rays",
+    "abbr": "TB",
+    "score": 1,
+    "winner": true
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Tropicana Field",
+   "wp": "Drew Rasmussen",
+   "lp": "Gerrit Cole",
+   "sv": "Bryan Baker",
+   "hitters": [
+    {
+     "player": "Drew Rasmussen",
+     "team": "TB",
+     "line": "8.0 IP, 0 ER, H, 10 K, 2 BB"
+    },
+    {
+     "player": "Jonathan Aranda",
+     "team": "TB",
+     "line": "1-4, HR, RBI, R"
+    }
+   ]
+  },
+  {
+   "id": "401908002",
+   "dateET": "2026-10-03",
+   "startET": "2026-10-04T00:30Z",
+   "round": "NLDS",
+   "gameNumber": 1,
+   "series": "MIL leads series 1-0",
+   "seriesCompleted": false,
+   "away": {
+    "name": "San Diego Padres",
+    "abbr": "SD",
+    "score": 2,
+    "winner": false
+   },
+   "home": {
+    "name": "Milwaukee Brewers",
+    "abbr": "MIL",
+    "score": 3,
+    "winner": true
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "American Family Field",
+   "wp": "DL Hall",
+   "lp": "Adrian Morejon",
+   "sv": "Trevor Megill",
+   "hitters": [
+    {
+     "player": "Jackson Chourio",
+     "team": "MIL",
+     "line": "1-4, HR, 2 RBI, R"
+    },
+    {
+     "player": "William Contreras",
+     "team": "MIL",
+     "line": "1-3, HR, RBI, R, BB"
+    }
+   ]
+  },
+  {
+   "id": "401908003",
+   "dateET": "2026-10-04",
+   "startET": "2026-10-04T20:00Z",
+   "round": "NLDS",
+   "gameNumber": 2,
+   "series": "MIL leads series 2-0",
+   "seriesCompleted": false,
+   "away": {
+    "name": "San Diego Padres",
+    "abbr": "SD",
+    "score": 3,
+    "winner": false
+   },
+   "home": {
+    "name": "Milwaukee Brewers",
+    "abbr": "MIL",
+    "score": 4,
+    "winner": true
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "American Family Field",
+   "wp": "Trevor Megill",
+   "lp": "Mason Miller",
+   "sv": null,
+   "hitters": [
+    {
+     "player": "Ty France",
+     "team": "SD",
+     "line": "2-3, 2 RBI, K"
+    },
+    {
+     "player": "Christian Yelich",
+     "team": "MIL",
+     "line": "1-3, 2B, 2 R, BB, SB, K"
+    }
+   ]
+  },
+  {
+   "id": "401908014",
+   "dateET": "2026-10-04",
+   "startET": "2026-10-05T00:00Z",
+   "round": "NLDS",
+   "gameNumber": 2,
+   "series": "Series tied 1-1",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Atlanta Braves",
+    "abbr": "ATL",
+    "score": 3,
+    "winner": true
+   },
+   "home": {
+    "name": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "score": 2,
+    "winner": false
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Dodger Stadium",
+   "wp": "Dylan Lee",
+   "lp": "Kris Bubic",
+   "sv": "Raisel Iglesias",
+   "hitters": [
+    {
+     "player": "Michael Harris II",
+     "team": "ATL",
+     "line": "3-5, 3B, 2B, RBI, R"
+    },
+    {
+     "player": "Freddie Freeman",
+     "team": "LAD",
+     "line": "2-4, HR, RBI, R, K"
+    }
+   ]
+  },
+  {
+   "id": "401907991",
+   "dateET": "2026-10-05",
+   "startET": "2026-10-05T21:00Z",
+   "round": "ALDS",
+   "gameNumber": 2,
+   "series": "CHW lead series 2-0",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Chicago White Sox",
+    "abbr": "CHW",
+    "score": 4,
+    "winner": true
+   },
+   "home": {
+    "name": "Cleveland Guardians",
+    "abbr": "CLE",
+    "score": 3,
+    "winner": false
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Progressive Field",
+   "wp": "Sean Burke",
+   "lp": "Erik Sabrowski",
+   "sv": "Grant Taylor",
+   "hitters": [
+    {
+     "player": "Braden Montgomery",
+     "team": "CHW",
+     "line": "1-4, 2B, 2 RBI, R, 2 K"
+    },
+    {
+     "player": "Chase DeLauter",
+     "team": "CLE",
+     "line": "2-4, R"
+    }
+   ]
+  },
+  {
+   "id": "401907986",
+   "dateET": "2026-10-05",
+   "startET": "2026-10-06T00:00Z",
+   "round": "ALDS",
+   "gameNumber": 2,
+   "series": "TB leads series 2-0",
+   "seriesCompleted": false,
+   "away": {
+    "name": "New York Yankees",
+    "abbr": "NYY",
+    "score": 2,
+    "winner": false
+   },
+   "home": {
+    "name": "Tampa Bay Rays",
+    "abbr": "TB",
+    "score": 5,
+    "winner": true
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Tropicana Field",
+   "wp": "Cam Booser",
+   "lp": "Cam Schlittler",
+   "sv": "Bryan Baker",
+   "hitters": [
+    {
+     "player": "Ben Rice",
+     "team": "NYY",
+     "line": "2-3, 2 HR, 2 RBI, 2 R, BB"
+    },
+    {
+     "player": "Junior Caminero",
+     "team": "TB",
+     "line": "2-4, 2B, R"
+    }
+   ]
+  },
+  {
+   "id": "401908015",
+   "dateET": "2026-10-06",
+   "startET": "2026-10-06T22:00Z",
+   "round": "NLDS",
+   "gameNumber": 3,
+   "series": "LAD lead series 2-1",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "score": 3,
+    "winner": true
+   },
+   "home": {
+    "name": "Atlanta Braves",
+    "abbr": "ATL",
+    "score": 1,
+    "winner": false
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Truist Park",
+   "wp": "Yoshinobu Yamamoto",
+   "lp": "Chris Sale",
+   "sv": "Edwin Diaz",
+   "hitters": [
+    {
+     "player": "Yoshinobu Yamamoto",
+     "team": "LAD",
+     "line": "7.0 IP, ER, 4 H, 10 K, BB"
+    },
+    {
+     "player": "Enrique Hernandez",
+     "team": "LAD",
+     "line": "1-4, HR, 2 RBI, R, 2 K"
+    }
+   ]
+  },
+  {
+   "id": "401908004",
+   "dateET": "2026-10-06",
+   "startET": "2026-10-07T01:30Z",
+   "round": "NLDS",
+   "gameNumber": 3,
+   "series": "MIL leads series 2-1",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Milwaukee Brewers",
+    "abbr": "MIL",
+    "score": 3,
+    "winner": false
+   },
+   "home": {
+    "name": "San Diego Padres",
+    "abbr": "SD",
+    "score": 4,
+    "winner": true
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Petco Park",
+   "wp": "Yuki Matsui",
+   "lp": "JoJo Romero",
+   "sv": "Michael King",
+   "hitters": [
+    {
+     "player": "William Contreras",
+     "team": "MIL",
+     "line": "3-4, HR, RBI, 2 R, BB"
+    },
+    {
+     "player": "Jake Cronenworth",
+     "team": "SD",
+     "line": "2-2, HR, RBI, R"
+    }
+   ]
+  },
+  {
+   "id": "401907992",
+   "dateET": "2026-10-07",
+   "startET": "2026-10-07T20:00Z",
+   "round": "ALDS",
+   "gameNumber": 3,
+   "series": "CHW lead series 2-1",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Cleveland Guardians",
+    "abbr": "CLE",
+    "score": 9,
+    "winner": true
+   },
+   "home": {
+    "name": "Chicago White Sox",
+    "abbr": "CHW",
+    "score": 3,
+    "winner": false
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Rate Field",
+   "wp": "Foster Griffin",
+   "lp": "Bryan Hudson",
+   "sv": null,
+   "hitters": [
+    {
+     "player": "Jose Ramirez",
+     "team": "CLE",
+     "line": "2-4, 3B, 2B, 2 RBI, 2 R, BB, SB"
+    },
+    {
+     "player": "Jo Adell",
+     "team": "CLE",
+     "line": "2-4, 3B, 3 RBI, BB, K"
+    }
+   ]
+  },
+  {
+   "id": "401908016",
+   "dateET": "2026-10-07",
+   "startET": "2026-10-07T22:00Z",
+   "round": "NLDS",
+   "gameNumber": 4,
+   "series": "LAD win series 3-1",
+   "seriesCompleted": true,
+   "away": {
+    "name": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "score": 4,
+    "winner": true
+   },
+   "home": {
+    "name": "Atlanta Braves",
+    "abbr": "ATL",
+    "score": 1,
+    "winner": false
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Truist Park",
+   "wp": "Edgardo Henriquez",
+   "lp": "Tyler Mahle",
+   "sv": "Edwin Diaz",
+   "hitters": [
+    {
+     "player": "Max Muncy",
+     "team": "LAD",
+     "line": "1-4, HR, RBI, R"
+    },
+    {
+     "player": "Michael Harris II",
+     "team": "ATL",
+     "line": "2-3, 2B, R, BB, SB, K"
+    }
+   ]
+  },
+  {
+   "id": "401907987",
+   "dateET": "2026-10-07",
+   "startET": "2026-10-08T00:00Z",
+   "round": "ALDS",
+   "gameNumber": 3,
+   "series": "TB wins series 3-0",
+   "seriesCompleted": true,
+   "away": {
+    "name": "Tampa Bay Rays",
+    "abbr": "TB",
+    "score": 4,
+    "winner": true
+   },
+   "home": {
+    "name": "New York Yankees",
+    "abbr": "NYY",
+    "score": 3,
+    "winner": false
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Yankee Stadium",
+   "wp": "Ian Seymour",
+   "lp": "Max Fried",
+   "sv": "Bryan Baker",
+   "hitters": [
+    {
+     "player": "Ryan Vilade",
+     "team": "TB",
+     "line": "1-2, HR, RBI, R"
+    },
+    {
+     "player": "Victor Mesa Jr.",
+     "team": "TB",
+     "line": "1-4, HR, 2 RBI, R, 2 K"
+    }
+   ]
+  },
+  {
+   "id": "401908005",
+   "dateET": "2026-10-07",
+   "startET": "2026-10-08T02:00Z",
+   "round": "NLDS",
+   "gameNumber": 4,
+   "series": "MIL wins series 3-1",
+   "seriesCompleted": true,
+   "away": {
+    "name": "Milwaukee Brewers",
+    "abbr": "MIL",
+    "score": 3,
+    "winner": true
+   },
+   "home": {
+    "name": "San Diego Padres",
+    "abbr": "SD",
+    "score": 1,
+    "winner": false
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Petco Park",
+   "wp": "Aaron Ashby",
+   "lp": "Robbie Ray",
+   "sv": "Trevor Megill",
+   "hitters": [
+    {
+     "player": "Garrett Mitchell",
+     "team": "MIL",
+     "line": "2-4, 3B, RBI, R"
+    },
+    {
+     "player": "Fernando Tatis Jr.",
+     "team": "SD",
+     "line": "1-3, HR, RBI, R, BB"
+    }
+   ]
+  },
+  {
+   "id": "401907993",
+   "dateET": "2026-10-08",
+   "startET": "2026-10-09T00:00Z",
+   "round": "ALDS",
+   "gameNumber": 4,
+   "series": "Series tied 2-2",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Cleveland Guardians",
+    "abbr": "CLE",
+    "score": 9,
+    "winner": true
+   },
+   "home": {
+    "name": "Chicago White Sox",
+    "abbr": "CHW",
+    "score": 5,
+    "winner": false
+   },
+   "final": true,
+   "status": "Final",
+   "innings": null,
+   "venue": "Rate Field",
+   "wp": "Erik Sabrowski",
+   "lp": "Anthony Kay",
+   "sv": null,
+   "hitters": [
+    {
+     "player": "Jose Ramirez",
+     "team": "CLE",
+     "line": "2-5, HR, 3 RBI, 2 R"
+    },
+    {
+     "player": "Patrick Bailey",
+     "team": "CLE",
+     "line": "2-3, HR, 2 RBI, 2 R"
+    }
+   ]
+  },
+  {
+   "id": "401907994",
+   "dateET": "2026-10-10",
+   "startET": "2026-10-11T00:00Z",
+   "round": "ALDS",
+   "gameNumber": 5,
+   "series": "Series tied 2-2",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Chicago White Sox",
+    "abbr": "CHW",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "Cleveland Guardians",
+    "abbr": "CLE",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/10 - 8:00 PM EDT",
+   "innings": null,
+   "venue": "Progressive Field",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908030",
+   "dateET": "2026-10-11",
+   "startET": "2026-10-12T00:00Z",
+   "round": "NLCS",
+   "gameNumber": 1,
+   "series": "Series starts 10/11",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "Milwaukee Brewers",
+    "abbr": "MIL",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/11 - 8:00 PM EDT",
+   "innings": null,
+   "venue": "American Family Field",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908031",
+   "dateET": "2026-10-12",
+   "startET": "2026-10-12T21:00Z",
+   "round": "NLCS",
+   "gameNumber": 2,
+   "series": "Series starts 10/11",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "Milwaukee Brewers",
+    "abbr": "MIL",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/12 - 5:00 PM EDT",
+   "innings": null,
+   "venue": "American Family Field",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908023",
+   "dateET": "2026-10-12",
+   "startET": "2026-10-13T00:00Z",
+   "round": "ALCS",
+   "gameNumber": 1,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "CLE/CHW",
+    "abbr": "CLE/CHW",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "Tampa Bay Rays",
+    "abbr": "TB",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/12 - 8:00 PM EDT",
+   "innings": null,
+   "venue": "Tropicana Field",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908024",
+   "dateET": "2026-10-13",
+   "startET": "2026-10-14T00:00Z",
+   "round": "ALCS",
+   "gameNumber": 2,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "CLE/CHW",
+    "abbr": "CLE/CHW",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "Tampa Bay Rays",
+    "abbr": "TB",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/13 - 8:00 PM EDT",
+   "innings": null,
+   "venue": "Tropicana Field",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908032",
+   "dateET": "2026-10-14",
+   "startET": "2026-10-15T00:00Z",
+   "round": "NLCS",
+   "gameNumber": 3,
+   "series": "Series starts 10/11",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Milwaukee Brewers",
+    "abbr": "MIL",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/14 - 8:00 PM EDT",
+   "innings": null,
+   "venue": "Dodger Stadium",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908025",
+   "dateET": "2026-10-15",
+   "startET": "2026-10-15T22:00Z",
+   "round": "ALCS",
+   "gameNumber": 3,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "Tampa Bay Rays",
+    "abbr": "TB",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "CLE/CHW",
+    "abbr": "CLE/CHW",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/15 - 6:00 PM EDT",
+   "innings": null,
+   "venue": "",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908033",
+   "dateET": "2026-10-15",
+   "startET": "2026-10-16T01:00Z",
+   "round": "NLCS",
+   "gameNumber": 4,
+   "series": "Series starts 10/11",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Milwaukee Brewers",
+    "abbr": "MIL",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/15 - 9:00 PM EDT",
+   "innings": null,
+   "venue": "Dodger Stadium",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908026",
+   "dateET": "2026-10-16",
+   "startET": "2026-10-16T22:00Z",
+   "round": "ALCS",
+   "gameNumber": 4,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "Tampa Bay Rays",
+    "abbr": "TB",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "CLE/CHW",
+    "abbr": "CLE/CHW",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/16 - 6:00 PM EDT",
+   "innings": null,
+   "venue": "",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908034",
+   "dateET": "2026-10-16",
+   "startET": "2026-10-17T01:00Z",
+   "round": "NLCS",
+   "gameNumber": 5,
+   "series": "Series starts 10/11",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Milwaukee Brewers",
+    "abbr": "MIL",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/16 - 9:00 PM EDT",
+   "innings": null,
+   "venue": "Dodger Stadium",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908027",
+   "dateET": "2026-10-17",
+   "startET": "2026-10-18T00:00Z",
+   "round": "ALCS",
+   "gameNumber": 5,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "Tampa Bay Rays",
+    "abbr": "TB",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "CLE/CHW",
+    "abbr": "CLE/CHW",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/17 - 8:00 PM EDT",
+   "innings": null,
+   "venue": "",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908035",
+   "dateET": "2026-10-18",
+   "startET": "2026-10-19T00:00Z",
+   "round": "NLCS",
+   "gameNumber": 6,
+   "series": "Series starts 10/11",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "Milwaukee Brewers",
+    "abbr": "MIL",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/18 - 8:00 PM EDT",
+   "innings": null,
+   "venue": "American Family Field",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908028",
+   "dateET": "2026-10-19",
+   "startET": "2026-10-19T21:00Z",
+   "round": "ALCS",
+   "gameNumber": 6,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "CLE/CHW",
+    "abbr": "CLE/CHW",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "Tampa Bay Rays",
+    "abbr": "TB",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/19 - 5:00 PM EDT",
+   "innings": null,
+   "venue": "Tropicana Field",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908036",
+   "dateET": "2026-10-19",
+   "startET": "2026-10-20T00:00Z",
+   "round": "NLCS",
+   "gameNumber": 7,
+   "series": "Series starts 10/11",
+   "seriesCompleted": false,
+   "away": {
+    "name": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "Milwaukee Brewers",
+    "abbr": "MIL",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/19 - 8:00 PM EDT",
+   "innings": null,
+   "venue": "American Family Field",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908029",
+   "dateET": "2026-10-20",
+   "startET": "2026-10-21T00:00Z",
+   "round": "ALCS",
+   "gameNumber": 7,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "CLE/CHW",
+    "abbr": "CLE/CHW",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "Tampa Bay Rays",
+    "abbr": "TB",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "10/20 - 8:00 PM EDT",
+   "innings": null,
+   "venue": "Tropicana Field",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908042",
+   "dateET": "2026-10-23",
+   "startET": "2026-10-23T04:00Z",
+   "round": "WS",
+   "gameNumber": 1,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "TBD",
+   "innings": null,
+   "venue": "",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908043",
+   "dateET": "2026-10-24",
+   "startET": "2026-10-24T04:00Z",
+   "round": "WS",
+   "gameNumber": 2,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "TBD",
+   "innings": null,
+   "venue": "",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908044",
+   "dateET": "2026-10-26",
+   "startET": "2026-10-26T04:00Z",
+   "round": "WS",
+   "gameNumber": 3,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "TBD",
+   "innings": null,
+   "venue": "",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908045",
+   "dateET": "2026-10-27",
+   "startET": "2026-10-27T04:00Z",
+   "round": "WS",
+   "gameNumber": 4,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "TBD",
+   "innings": null,
+   "venue": "",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908046",
+   "dateET": "2026-10-28",
+   "startET": "2026-10-28T04:00Z",
+   "round": "WS",
+   "gameNumber": 5,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "TBD",
+   "innings": null,
+   "venue": "",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908047",
+   "dateET": "2026-10-30",
+   "startET": "2026-10-30T04:00Z",
+   "round": "WS",
+   "gameNumber": 6,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "TBD",
+   "innings": null,
+   "venue": "",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  },
+  {
+   "id": "401908048",
+   "dateET": "2026-10-31",
+   "startET": "2026-10-31T04:00Z",
+   "round": "WS",
+   "gameNumber": 7,
+   "series": "",
+   "seriesCompleted": null,
+   "away": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "home": {
+    "name": "TBD",
+    "abbr": "TBD",
+    "score": null,
+    "winner": null
+   },
+   "final": false,
+   "status": "TBD",
+   "innings": null,
+   "venue": "",
+   "wp": null,
+   "lp": null,
+   "sv": null,
+   "hitters": []
+  }
+ ]
+}

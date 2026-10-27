@@ -1,0 +1,878 @@
+{
+  "name": "NFL · History + 2026",
+  "verifiedOn": "2026-10-02",
+  "sources": [
+    {
+      "id": "sb-results",
+      "url": "https://www.espn.com/nfl/superbowl/history/winners",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "sb-mvps",
+      "url": "https://www.espn.com/nfl/superbowl/history/mvps",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "passing-career",
+      "url": "https://www.espn.com/nfl/history/leaders/_/stat/passyards",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "sacks-career",
+      "url": "https://www.espn.com/nfl/history/leaders/_/stat/sacks",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "rice",
+      "url": "https://www.profootballhof.com/players/jerry-rice",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "smith",
+      "url": "https://www.profootballhof.com/players/emmitt-smith",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "manning",
+      "url": "https://www.profootballhof.com/players/peyton-manning",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "krause",
+      "url": "https://www.profootballhof.com/players/paul-krause",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "vinatieri",
+      "url": "https://www.profootballhof.com/players/adam-vinatieri",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "season-records",
+      "url": "https://www.nfl.com/news/which-notable-nfl-records-could-fall-in-17-game-season-top-candidates-to-make-hi",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "garrett-record",
+      "url": "https://www.nfl.com/news/browns-de-myles-garrett-reaches-23-sacks-sets-new-nfl-single-season-record",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "little-record",
+      "url": "https://www.nfl.com/videos/can-t-miss-play-68-yard-field-goal-cam-little-delivers-longest-fg-in-nfl-history",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "single-games",
+      "url": "https://www.nfl.com/photos/most-dominating-single-game-nfl-performances-09000d5d82756c10",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "chronology",
+      "url": "https://www.profootballhof.com/football-history/chronology-of-professional-football/",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "packers",
+      "url": "https://www.profootballhof.com/teams/green-bay-packers/",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "cardinals",
+      "url": "https://www.profootballhof.com/teams/arizona-cardinals/",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "shula",
+      "url": "https://www.profootballhof.com/players/don-shula",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "immaculate",
+      "url": "https://www.profootballhof.com/news/the-immaculate-reception/",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "ice-bowl",
+      "url": "https://www.profootballhof.com/football-history/the-ice-bowl/",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "greatest-game",
+      "url": "https://www.profootballhof.com/news/greatest-game-ever-played/",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "drive",
+      "url": "https://www.profootballhof.com/news/the-drive/",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "patriots-2007",
+      "url": "https://www.profootballhof.com/news/18-0-the-2007-patriots/",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "honors-2025",
+      "url": "https://www.espn.com/nfl/story/_/id/47810326/2026-nfl-honors-won-league-biggest-awards",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "opoy-2025",
+      "url": "https://www.nfl.com/news/jaxon-smith-njigba-seahawks-wr-offensive-player-of-the-year-2025",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "divisions",
+      "url": "https://www.nfl.com/standings/",
+      "verifiedOn": "2026-10-02"
+    },
+    {
+      "id": "brady-titles",
+      "url": "https://www.nfl.com/news/tom-brady-s-seventh-super-bowl-win-the-crowning-achievement-of-his-nfl-career",
+      "verifiedOn": "2026-10-02"
+    }
+  ],
+  "superBowls": [
+    {
+      "number": "I",
+      "gameYear": 1967,
+      "season": 1966,
+      "result": "Green Bay 35, Kansas City 10",
+      "mvp": "Bart Starr",
+      "site": "Los Angeles Memorial Coliseum"
+    },
+    {
+      "number": "II",
+      "gameYear": 1968,
+      "season": 1967,
+      "result": "Green Bay 33, Oakland 14",
+      "mvp": "Bart Starr",
+      "site": "Orange Bowl (Miami)"
+    },
+    {
+      "number": "III",
+      "gameYear": 1969,
+      "season": 1968,
+      "result": "New York Jets 16, Baltimore 7",
+      "mvp": "Joe Namath",
+      "site": "Orange Bowl (Miami)"
+    },
+    {
+      "number": "IV",
+      "gameYear": 1970,
+      "season": 1969,
+      "result": "Kansas City 23, Minnesota 7",
+      "mvp": "Len Dawson",
+      "site": "Tulane Stadium (New Orleans)"
+    },
+    {
+      "number": "V",
+      "gameYear": 1971,
+      "season": 1970,
+      "result": "Baltimore 16, Dallas 13",
+      "mvp": "Chuck Howley",
+      "site": "Orange Bowl (Miami)"
+    },
+    {
+      "number": "VI",
+      "gameYear": 1972,
+      "season": 1971,
+      "result": "Dallas 24, Miami 3",
+      "mvp": "Roger Staubach",
+      "site": "Tulane Stadium (New Orleans)"
+    },
+    {
+      "number": "VII",
+      "gameYear": 1973,
+      "season": 1972,
+      "result": "Miami 14, Washington 7",
+      "mvp": "Jake Scott",
+      "site": "Los Angeles Memorial Coliseum"
+    },
+    {
+      "number": "VIII",
+      "gameYear": 1974,
+      "season": 1973,
+      "result": "Miami 24, Minnesota 7",
+      "mvp": "Larry Csonka",
+      "site": "Rice Stadium (Houston)"
+    },
+    {
+      "number": "IX",
+      "gameYear": 1975,
+      "season": 1974,
+      "result": "Pittsburgh 16, Minnesota 6",
+      "mvp": "Franco Harris",
+      "site": "Tulane Stadium (New Orleans)"
+    },
+    {
+      "number": "X",
+      "gameYear": 1976,
+      "season": 1975,
+      "result": "Pittsburgh 21, Dallas 17",
+      "mvp": "Lynn Swann",
+      "site": "Orange Bowl (Miami)"
+    },
+    {
+      "number": "XI",
+      "gameYear": 1977,
+      "season": 1976,
+      "result": "Oakland 32, Minnesota 14",
+      "mvp": "Fred Biletnikoff",
+      "site": "Rose Bowl (Pasadena, Calif.)"
+    },
+    {
+      "number": "XII",
+      "gameYear": 1978,
+      "season": 1977,
+      "result": "Dallas 27, Denver 10",
+      "mvp": "Harvey Martin & Randy White",
+      "site": "Superdome (New Orleans)"
+    },
+    {
+      "number": "XIII",
+      "gameYear": 1979,
+      "season": 1978,
+      "result": "Pittsburgh 35, Dallas 31",
+      "mvp": "Terry Bradshaw",
+      "site": "Orange Bowl (Miami)"
+    },
+    {
+      "number": "XIV",
+      "gameYear": 1980,
+      "season": 1979,
+      "result": "Pittsburgh 31, Los Angeles Rams 19",
+      "mvp": "Terry Bradshaw",
+      "site": "Rose Bowl (Pasadena, Calif.)"
+    },
+    {
+      "number": "XV",
+      "gameYear": 1981,
+      "season": 1980,
+      "result": "Oakland 27, Philadelphia 10",
+      "mvp": "Jim Plunkett",
+      "site": "Superdome (New Orleans)"
+    },
+    {
+      "number": "XVI",
+      "gameYear": 1982,
+      "season": 1981,
+      "result": "San Francisco 26, Cincinnati 21",
+      "mvp": "Joe Montana",
+      "site": "Silverdome (Pontiac, Mich.)"
+    },
+    {
+      "number": "XVII",
+      "gameYear": 1983,
+      "season": 1982,
+      "result": "Washington 27, Miami 17",
+      "mvp": "John Riggins",
+      "site": "Rose Bowl (Pasadena, Calif.)"
+    },
+    {
+      "number": "XVIII",
+      "gameYear": 1984,
+      "season": 1983,
+      "result": "Los Angeles Raiders 38, Washington 9",
+      "mvp": "Marcus Allen",
+      "site": "Tampa (Fla.) Stadium"
+    },
+    {
+      "number": "XIX",
+      "gameYear": 1985,
+      "season": 1984,
+      "result": "San Francisco 38, Miami 16",
+      "mvp": "Joe Montana",
+      "site": "Stanford (Calif.) Stadium"
+    },
+    {
+      "number": "XX",
+      "gameYear": 1986,
+      "season": 1985,
+      "result": "Chicago 46, New England 10",
+      "mvp": "Richard Dent",
+      "site": "Superdome (New Orleans)"
+    },
+    {
+      "number": "XXI",
+      "gameYear": 1987,
+      "season": 1986,
+      "result": "New York Giants 39, Denver 20",
+      "mvp": "Phil Simms",
+      "site": "Rose Bowl (Pasadena, Calif.)"
+    },
+    {
+      "number": "XXII",
+      "gameYear": 1988,
+      "season": 1987,
+      "result": "Washington 42, Denver 10",
+      "mvp": "Doug Williams",
+      "site": "Jack Murphy Stadium (San Diego)"
+    },
+    {
+      "number": "XXIII",
+      "gameYear": 1989,
+      "season": 1988,
+      "result": "San Francisco 20, Cincinnati 16",
+      "mvp": "Jerry Rice",
+      "site": "Joe Robbie Stadium (Miami)"
+    },
+    {
+      "number": "XXIV",
+      "gameYear": 1990,
+      "season": 1989,
+      "result": "San Francisco 55, Denver 10",
+      "mvp": "Joe Montana",
+      "site": "Superdome (New Orleans)"
+    },
+    {
+      "number": "XXV",
+      "gameYear": 1991,
+      "season": 1990,
+      "result": "New York Giants 20, Buffalo 19",
+      "mvp": "Ottis Anderson",
+      "site": "Tampa (Fla.) Stadium"
+    },
+    {
+      "number": "XXVI",
+      "gameYear": 1992,
+      "season": 1991,
+      "result": "Washington 37, Buffalo 24",
+      "mvp": "Mark Rypien",
+      "site": "Metrodome (Minneapolis)"
+    },
+    {
+      "number": "XXVII",
+      "gameYear": 1993,
+      "season": 1992,
+      "result": "Dallas 52, Buffalo 17",
+      "mvp": "Troy Aikman",
+      "site": "Rose Bowl (Pasadena, Calif.)"
+    },
+    {
+      "number": "XXVIII",
+      "gameYear": 1994,
+      "season": 1993,
+      "result": "Dallas 30, Buffalo 13",
+      "mvp": "Emmitt Smith",
+      "site": "Georgia Dome (Atlanta)"
+    },
+    {
+      "number": "XXIX",
+      "gameYear": 1995,
+      "season": 1994,
+      "result": "San Francisco 49, San Diego 26",
+      "mvp": "Steve Young",
+      "site": "Joe Robbie Stadium (Miami)"
+    },
+    {
+      "number": "XXX",
+      "gameYear": 1996,
+      "season": 1995,
+      "result": "Dallas 27, Pittsburgh 17",
+      "mvp": "Larry Brown",
+      "site": "Sun Devil Stadium (Tempe, Ariz.)"
+    },
+    {
+      "number": "XXXI",
+      "gameYear": 1997,
+      "season": 1996,
+      "result": "Green Bay 35, New England 21",
+      "mvp": "Desmond Howard",
+      "site": "Superdome (New Orleans)"
+    },
+    {
+      "number": "XXXII",
+      "gameYear": 1998,
+      "season": 1997,
+      "result": "Denver 31, Green Bay 24",
+      "mvp": "Terrell Davis",
+      "site": "Qualcomm Stadium (San Diego)"
+    },
+    {
+      "number": "XXXIII",
+      "gameYear": 1999,
+      "season": 1998,
+      "result": "Denver 34, Atlanta 19",
+      "mvp": "John Elway",
+      "site": "Pro Player Stadium (Miami)"
+    },
+    {
+      "number": "XXXIV",
+      "gameYear": 2000,
+      "season": 1999,
+      "result": "St. Louis 23, Tennessee 16",
+      "mvp": "Kurt Warner",
+      "site": "Georgia Dome (Atlanta)"
+    },
+    {
+      "number": "XXXV",
+      "gameYear": 2001,
+      "season": 2000,
+      "result": "Baltimore 34, New York Giants 7",
+      "mvp": "Ray Lewis",
+      "site": "Raymond James Stadium (Tampa, Fla.)"
+    },
+    {
+      "number": "XXXVI",
+      "gameYear": 2002,
+      "season": 2001,
+      "result": "New England 20, St. Louis 17",
+      "mvp": "Tom Brady",
+      "site": "Superdome (New Orleans)"
+    },
+    {
+      "number": "XXXVII",
+      "gameYear": 2003,
+      "season": 2002,
+      "result": "Tampa Bay 48, Oakland 21",
+      "mvp": "Dexter Jackson",
+      "site": "Qualcomm Stadium (San Diego)"
+    },
+    {
+      "number": "XXXVIII",
+      "gameYear": 2004,
+      "season": 2003,
+      "result": "New England 32, Carolina 29",
+      "mvp": "Tom Brady",
+      "site": "Reliant Stadium (Houston)"
+    },
+    {
+      "number": "XXXIX",
+      "gameYear": 2005,
+      "season": 2004,
+      "result": "New England 24, Philadelphia 21",
+      "mvp": "Deion Branch",
+      "site": "Alltel Stadium (Jacksonville, Fla.)"
+    },
+    {
+      "number": "XL",
+      "gameYear": 2006,
+      "season": 2005,
+      "result": "Pittsburgh 21, Seattle 10",
+      "mvp": "Hines Ward",
+      "site": "Ford Field (Detroit)"
+    },
+    {
+      "number": "XLI",
+      "gameYear": 2007,
+      "season": 2006,
+      "result": "Indianapolis 29, Chicago 17",
+      "mvp": "Peyton Manning",
+      "site": "Dolphin Stadium (Miami)"
+    },
+    {
+      "number": "XLII",
+      "gameYear": 2008,
+      "season": 2007,
+      "result": "New York Giants 17, New England 14",
+      "mvp": "Eli Manning",
+      "site": "University of Phoenix Stadium (Glendale, Ariz.)"
+    },
+    {
+      "number": "XLIII",
+      "gameYear": 2009,
+      "season": 2008,
+      "result": "Pittsburgh 27, Arizona 23",
+      "mvp": "Santonio Holmes",
+      "site": "Raymond James Stadium (Tampa, Fla.)"
+    },
+    {
+      "number": "XLIV",
+      "gameYear": 2010,
+      "season": 2009,
+      "result": "New Orleans 31, Indianapolis 17",
+      "mvp": "Drew Brees",
+      "site": "Sun Life Stadium (Miami)"
+    },
+    {
+      "number": "XLV",
+      "gameYear": 2011,
+      "season": 2010,
+      "result": "Green Bay 31, Pittsburgh 25",
+      "mvp": "Aaron Rodgers",
+      "site": "Cowboys Stadium (Arlington, Texas)"
+    },
+    {
+      "number": "XLVI",
+      "gameYear": 2012,
+      "season": 2011,
+      "result": "New York Giants 21, New England 17",
+      "mvp": "Eli Manning",
+      "site": "Lucas Oil Stadium (Indianapolis)"
+    },
+    {
+      "number": "XLVII",
+      "gameYear": 2013,
+      "season": 2012,
+      "result": "Baltimore 34, San Francisco 31",
+      "mvp": "Joe Flacco",
+      "site": "Mercedes-Benz Superdome (New Orleans)"
+    },
+    {
+      "number": "XLVIII",
+      "gameYear": 2014,
+      "season": 2013,
+      "result": "Seattle 43, Denver 8",
+      "mvp": "Malcolm Smith",
+      "site": "MetLife Stadium (East Rutherford, N.J.)"
+    },
+    {
+      "number": "XLIX",
+      "gameYear": 2015,
+      "season": 2014,
+      "result": "New England 28, Seattle 24",
+      "mvp": "Tom Brady",
+      "site": "University of Phoenix Stadium (Glendale, Ariz.)"
+    },
+    {
+      "number": "L",
+      "gameYear": 2016,
+      "season": 2015,
+      "result": "Denver 24, Carolina 10",
+      "mvp": "Von Miller",
+      "site": "Levi's Stadium (Santa Clara, Calif.)"
+    },
+    {
+      "number": "LI",
+      "gameYear": 2017,
+      "season": 2016,
+      "result": "New England 34, Atlanta 28",
+      "mvp": "Tom Brady",
+      "site": "NRG Stadium (Houston)"
+    },
+    {
+      "number": "LII",
+      "gameYear": 2018,
+      "season": 2017,
+      "result": "Philadelphia 41, New England 33",
+      "mvp": "Nick Foles",
+      "site": "U.S. Bank Stadium (Minneapolis)"
+    },
+    {
+      "number": "LIII",
+      "gameYear": 2019,
+      "season": 2018,
+      "result": "New England 13, Los Angeles Rams 3",
+      "mvp": "Julian Edelman",
+      "site": "Mercedes-Benz Stadium (Atlanta)"
+    },
+    {
+      "number": "LIV",
+      "gameYear": 2020,
+      "season": 2019,
+      "result": "Kansas City 31, San Francisco 20",
+      "mvp": "Patrick Mahomes",
+      "site": "Hard Rock Stadium (Miami)"
+    },
+    {
+      "number": "LV",
+      "gameYear": 2021,
+      "season": 2020,
+      "result": "Tampa Bay 31, Kansas City 9",
+      "mvp": "Tom Brady",
+      "site": "Raymond James Stadium (Tampa, Fla.)"
+    },
+    {
+      "number": "LVI",
+      "gameYear": 2022,
+      "season": 2021,
+      "result": "Los Angeles Rams 23, Cincinnati 20",
+      "mvp": "Cooper Kupp",
+      "site": "SoFi Stadium (Inglewood, Calif.)"
+    },
+    {
+      "number": "LVII",
+      "gameYear": 2023,
+      "season": 2022,
+      "result": "Kansas City 38, Philadelphia 35",
+      "mvp": "Patrick Mahomes",
+      "site": "State Farm Stadium (Glendale, Ariz.)"
+    },
+    {
+      "number": "LVIII",
+      "gameYear": 2024,
+      "season": 2023,
+      "result": "Kansas City 25, San Francisco 22",
+      "mvp": "Patrick Mahomes",
+      "site": "Allegiant Stadium (Las Vegas)"
+    },
+    {
+      "number": "LIX",
+      "gameYear": 2025,
+      "season": 2024,
+      "result": "Philadelphia 40, Kansas City 22",
+      "mvp": "Jalen Hurts",
+      "site": "Caesars Superdome (New Orleans)"
+    },
+    {
+      "number": "LX",
+      "gameYear": 2026,
+      "season": 2025,
+      "result": "Seattle 29, New England 13",
+      "mvp": "Kenneth Walker III",
+      "site": "Levi's Stadium (Santa Clara, Calif.)"
+    }
+  ],
+  "divisions": [
+    [
+      "AFC East",
+      "Buffalo Bills",
+      "Miami Dolphins",
+      "New England Patriots",
+      "New York Jets"
+    ],
+    [
+      "AFC North",
+      "Baltimore Ravens",
+      "Cincinnati Bengals",
+      "Cleveland Browns",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "AFC South",
+      "Houston Texans",
+      "Indianapolis Colts",
+      "Jacksonville Jaguars",
+      "Tennessee Titans"
+    ],
+    [
+      "AFC West",
+      "Denver Broncos",
+      "Kansas City Chiefs",
+      "Las Vegas Raiders",
+      "Los Angeles Chargers"
+    ],
+    [
+      "NFC East",
+      "Dallas Cowboys",
+      "New York Giants",
+      "Philadelphia Eagles",
+      "Washington Commanders"
+    ],
+    [
+      "NFC North",
+      "Chicago Bears",
+      "Detroit Lions",
+      "Green Bay Packers",
+      "Minnesota Vikings"
+    ],
+    [
+      "NFC South",
+      "Atlanta Falcons",
+      "Carolina Panthers",
+      "New Orleans Saints",
+      "Tampa Bay Buccaneers"
+    ],
+    [
+      "NFC West",
+      "Arizona Cardinals",
+      "Los Angeles Rams",
+      "San Francisco 49ers",
+      "Seattle Seahawks"
+    ]
+  ],
+  "sections": [
+    {
+      "title": "CAREER RECORDS AND LEGENDS (regular season unless stated)",
+      "facts": [
+        {
+          "source": "passing-career",
+          "text": "Career passing yards: Tom Brady 89,214; Drew Brees 80,358; Peyton Manning 71,940; Brett Favre 71,838 (top four)."
+        },
+        {
+          "source": "brady-titles",
+          "text": "Tom Brady won a record seven Super Bowls: six with New England Patriots, one with Tampa Bay Buccaneers (LV). He earned five Super Bowl MVP awards."
+        },
+        {
+          "source": "rice",
+          "text": "Jerry Rice: career receptions 1,549; receiving yards 22,895; receiving TD 197; total TD 208. Teams: 49ers, Raiders, Seahawks. College: Mississippi Valley State; 1985 draft pick 16. Three Super Bowl wins; XXIII MVP."
+        },
+        {
+          "source": "smith",
+          "text": "Emmitt Smith: career rushing yards 18,355; rushing TD 164. Teams: Cowboys, Cardinals. Dallas drafted him 17th in 1990 from Florida. 1993 NFL MVP; XXVIII MVP; four rushing titles (1991, 1992, 1993, 1995)."
+        },
+        {
+          "source": "sacks-career",
+          "text": "Official career sacks: Bruce Smith 200; Reggie White 198; Kevin Greene 160; Julius Peppers 159.5; Chris Doleman 150.5 (top five)."
+        },
+        {
+          "source": "krause",
+          "text": "Career interceptions leader: Paul Krause 81; teams Washington and Minnesota; safety; Hall of Fame 1998. Emlen Tunnell had 79."
+        },
+        {
+          "source": "vinatieri",
+          "text": "Career scoring leader: Adam Vinatieri 2,673 points; career field goals 599. Teams Patriots and Colts; four Super Bowl wins (three New England, one Indianapolis); Hall of Fame class 2026."
+        },
+        {
+          "source": "manning",
+          "text": "Peyton Manning: record five AP NFL MVP awards (2003, 2004, 2008, 2009, 2013); 1998 first overall pick by Colts; college Tennessee; teams Colts and Broncos; Super Bowl XLI and 50 wins; Hall of Fame 2021."
+        },
+        {
+          "source": "shula",
+          "text": "Don Shula: career coaching wins 347 including playoffs; coached Baltimore Colts 1963-1969 and Miami Dolphins 1970-1995; two Super Bowl wins (VII, VIII); Hall of Fame 1997."
+        }
+      ]
+    },
+    {
+      "title": "SEASON RECORDS AND SINGLE-GAME LANDMARKS (retain the specified year)",
+      "facts": [
+        {
+          "source": "manning",
+          "text": "Single-season passing yards 5,477 and passing TD 55: Peyton Manning, Denver Broncos, 2013. His 2004 passing-TD mark of 49 is an older record."
+        },
+        {
+          "source": "season-records",
+          "text": "Single-season rushing yards 2,105: Eric Dickerson, Los Angeles Rams, 1984."
+        },
+        {
+          "source": "season-records",
+          "text": "Single-season receiving yards 1,964: Calvin Johnson, Detroit Lions, 2012."
+        },
+        {
+          "source": "season-records",
+          "text": "Single-season receptions 149: Michael Thomas, New Orleans Saints, 2019."
+        },
+        {
+          "source": "patriots-2007",
+          "text": "Single-season receiving TD 23: Randy Moss, New England Patriots, 2007; surpassed Jerry Rice's 22 in 1987. Tom Brady threw 50 TD in 2007, later surpassed by Manning's 55."
+        },
+        {
+          "source": "garrett-record",
+          "text": "Single-season official sacks 23: Myles Garrett, Cleveland Browns, 2025. He broke the 22.5 shared by Michael Strahan (Giants, 2001) and T.J. Watt (Steelers, 2021), sacking Joe Burrow on January 4, 2026. Official sacks date from 1982."
+        },
+        {
+          "source": "little-record",
+          "text": "Longest regular-season field goal: Cam Little, Jacksonville Jaguars, 68 yards against Las Vegas Raiders (2025 season). Preseason kicks are a separate category."
+        },
+        {
+          "source": "single-games",
+          "text": "Single-game passing yards 554: Norm Van Brocklin, Los Angeles Rams vs New York Yanks, September 28, 1951."
+        },
+        {
+          "source": "single-games",
+          "text": "Single-game rushing yards 296: Adrian Peterson, Minnesota Vikings vs San Diego Chargers, November 4, 2007; three rushing TD."
+        },
+        {
+          "source": "single-games",
+          "text": "Single-game receiving yards 336: Willie 'Flipper' Anderson, Los Angeles Rams vs New Orleans Saints, November 26, 1989 (includes overtime)."
+        },
+        {
+          "source": "single-games",
+          "text": "Single-game points 40: Ernie Nevers, Chicago Cardinals vs Chicago Bears, 1929; six touchdowns and four extra points."
+        },
+        {
+          "source": "single-games",
+          "text": "Gale Sayers scored six touchdowns for Chicago Bears vs San Francisco 49ers on December 12, 1965."
+        }
+      ]
+    },
+    {
+      "title": "LEAGUE HISTORY, FRANCHISES AND FAMOUS GAMES",
+      "facts": [
+        {
+          "source": "chronology",
+          "text": "League formed in Canton, Ohio in 1920 as American Professional Football Association (APFA); renamed National Football League on June 24, 1922. First league president: Jim Thorpe. First champions: Akron Pros, 1920."
+        },
+        {
+          "source": "chronology",
+          "text": "Chicago Bears originated as Decatur Staleys (1920), moved to Chicago as Staleys in 1921, became Bears in 1922. George Halas was player-coach and owner."
+        },
+        {
+          "source": "chronology",
+          "text": "Detroit Lions were Portsmouth Spartans before moving to Detroit and adopting Lions name in 1934."
+        },
+        {
+          "source": "chronology",
+          "text": "First NFL draft: 1936. First overall selection: Jay Berwanger, Philadelphia Eagles; he never played in the NFL. First drafted player to sign: Riley Smith, second pick."
+        },
+        {
+          "source": "chronology",
+          "text": "Fritz Pollard of Akron Pros became the league's first Black head coach in 1921."
+        },
+        {
+          "source": "chronology",
+          "text": "First 1,000-yard rusher: Beattie Feathers, Chicago Bears, 1934 (1,004 yards)."
+        },
+        {
+          "source": "packers",
+          "text": "Green Bay Packers founded 1919, joined league 1921. Most NFL championships including pre-Super Bowl titles: Packers 13; Super Bowl wins four. Green Bay nickname: Titletown."
+        },
+        {
+          "source": "cardinals",
+          "text": "Oldest continuously operating pro football franchise: Arizona Cardinals, founded 1898 as Morgan Athletic Club. Earlier locations/names: Chicago Cardinals, St. Louis Cardinals (1960-1987), Phoenix Cardinals (1988-1993), Arizona Cardinals (1994 onward)."
+        },
+        {
+          "source": "shula",
+          "text": "Only perfect NFL season including playoffs in the Super Bowl era: 1972 Miami Dolphins, 17-0 (14 regular-season wins, three playoff wins), coached by Don Shula; won Super Bowl VII 14-7 vs Washington."
+        },
+        {
+          "source": "patriots-2007",
+          "text": "2007 New England Patriots went 16-0 regular season, 18-0 before Super Bowl XLII, then lost 17-14 to New York Giants; finished 18-1. This was not a perfect full season."
+        },
+        {
+          "source": "immaculate",
+          "text": "Immaculate Reception: Franco Harris caught a deflected Terry Bradshaw pass for Pittsburgh's winning TD vs Oakland Raiders in 1972 AFC divisional playoff; Steelers won 13-7."
+        },
+        {
+          "source": "ice-bowl",
+          "text": "Ice Bowl: 1967 NFL Championship, December 31 at Lambeau Field; Green Bay Packers beat Dallas Cowboys 21-17; Bart Starr scored winning QB sneak; Vince Lombardi coached Green Bay."
+        },
+        {
+          "source": "greatest-game",
+          "text": "Greatest Game Ever Played: 1958 NFL Championship, Baltimore Colts beat New York Giants 23-17 in sudden-death overtime at Yankee Stadium. Alan Ameche scored winning TD; Johnny Unitas was Colts QB."
+        },
+        {
+          "source": "drive",
+          "text": "The Drive: John Elway led Denver Broncos 98 yards to tie Cleveland Browns in 1986 AFC Championship played January 11, 1987; Mark Jackson caught tying TD; Denver won 23-20 in overtime."
+        },
+        {
+          "source": "single-games",
+          "text": "The Comeback (1992 season, played January 3, 1993): Frank Reich led Buffalo Bills from 32 points behind Houston Oilers to a playoff victory. This is a playoff landmark, not necessarily the current all-games comeback record."
+        }
+      ]
+    },
+    {
+      "title": "LATEST COMPLETED SEASON: 2025 AWARDS (presented February 2026; not 2026-season awards)",
+      "facts": [
+        {
+          "source": "honors-2025",
+          "text": "2025 AP NFL MVP: Matthew Stafford, Los Angeles Rams; NFL passing leader with 4,707 yards and 46 TD."
+        },
+        {
+          "source": "opoy-2025",
+          "text": "2025 AP Offensive Player of Year: Jaxon Smith-Njigba, Seattle Seahawks; NFL receiving leader with 1,793 yards (119 catches, 10 TD); JSN is Smith-Njigba."
+        },
+        {
+          "source": "honors-2025",
+          "text": "2025 AP Defensive Player of Year: Myles Garrett, Cleveland Browns; 23 sacks."
+        },
+        {
+          "source": "honors-2025",
+          "text": "2025 Offensive Rookie of Year: Tetairoa McMillan, Carolina Panthers; 70 catches, 1,014 receiving yards, seven TD."
+        },
+        {
+          "source": "honors-2025",
+          "text": "2025 Defensive Rookie of Year: Carson Schwesinger, Cleveland Browns."
+        },
+        {
+          "source": "honors-2025",
+          "text": "2025 Coach of Year: Mike Vrabel, New England Patriots. Assistant Coach of Year: Josh McDaniels, Patriots."
+        },
+        {
+          "source": "honors-2025",
+          "text": "2025 Comeback Player of Year: Christian McCaffrey, San Francisco 49ers. First Protector of Year: Joe Thuney, Chicago Bears."
+        },
+        {
+          "source": "sb-results",
+          "text": "Latest completed Super Bowl: LX (60), February 8, 2026, following the 2025 season; Seattle Seahawks beat New England Patriots 29-13 at Levi's Stadium in Santa Clara, California."
+        },
+        {
+          "source": "sb-mvps",
+          "text": "Super Bowl LX MVP: Kenneth Walker III, Seattle Seahawks; 135 rushing yards on 27 carries. The 2026 season's Super Bowl has not yet been played."
+        }
+      ]
+    }
+  ]
+}

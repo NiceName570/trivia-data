@@ -1,0 +1,2122 @@
+{
+ "films": [
+  {
+   "title": "Let the Right One In",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "Premiered Jan 2008 at Gothenburg; general Swedish release Oct 2008",
+   "tier": 1,
+   "genreNote": "Swedish romantic vampire horror",
+   "director": "Tomas Alfredson",
+   "writers": "John Ajvide Lindqvist",
+   "basedOn": "Let the Right One In (2004 novel) by John Ajvide Lindqvist",
+   "distributor": "Sandrew Metronome",
+   "setting": "Blackeberg, Stockholm suburb (early 1980s)",
+   "cast": [
+    [
+     "Kåre Hedebrant",
+     "Oskar"
+    ],
+    [
+     "Lina Leandersson",
+     "Eli"
+    ],
+    [
+     "Per Ragnar",
+     "Håkan"
+    ],
+    [
+     "Henrik Dahl",
+     "Erik"
+    ],
+    [
+     "Karin Bergquist",
+     "Yvonne"
+    ],
+    [
+     "Peter Carlberg",
+     "Lacke"
+    ],
+    [
+     "Ika Nord",
+     "Virginia"
+    ]
+   ],
+   "villain": "Eli, a vampire child befriended by bullied 12-year-old Oskar",
+   "boxOffice": "$11.2M gross on 29 million kr (~$4.5M) budget",
+   "notes": [
+    "Premiered at Gothenburg Film Festival 26 Jan 2008, winning the Nordic Film Prize; released in Sweden 24 Oct 2008",
+    "Eli's voice was dubbed by Elif Ceylan",
+    "Won four Guldbagge Awards incl. Best Director (Alfredson) and Best Screenplay (Lindqvist)",
+    "Won Saturn Award for Best International Film and Empire Award for Best Horror Film",
+    "Nominated for BAFTA Best Film Not in the English Language",
+    "US remake Let Me In released in 2010"
+   ],
+   "sources": [
+    "wp:Let_the_Right_One_In_(film)"
+   ]
+  },
+  {
+   "title": "Cloverfield",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "found-footage monster film",
+   "director": "Matt Reeves",
+   "writers": "Drew Goddard",
+   "basedOn": "",
+   "distributor": "Paramount Pictures",
+   "setting": "New York City",
+   "cast": [
+    [
+     "Michael Stahl-David",
+     "Rob Hawkins"
+    ],
+    [
+     "Odette Yustman",
+     "Beth McIntyre"
+    ],
+    [
+     "T. J. Miller",
+     "Hud Platt"
+    ],
+    [
+     "Jessica Lucas",
+     "Lily Ford"
+    ],
+    [
+     "Lizzy Caplan",
+     "Marlena Diamond"
+    ],
+    [
+     "Mike Vogel",
+     "Jason Hawkins"
+    ]
+   ],
+   "villain": "Clover, a giant monster attacking New York City",
+   "boxOffice": "$172.4M worldwide on $25M budget",
+   "notes": [
+    "Produced by J. J. Abrams' Bad Robot; Neville Page designed the creature, called Clover",
+    "T. J. Miller's film debut",
+    "Working titles included Slusho, Cheese and Greyshot",
+    "Untitled teaser attached to Transformers (2007); title revealed in a trailer before Beowulf (2007)",
+    "Viral marketing incl. a prequel manga series",
+    "Followed by 10 Cloverfield Lane (2016) and The Cloverfield Paradox (2018)"
+   ],
+   "sources": [
+    "wp:Cloverfield"
+   ]
+  },
+  {
+   "title": "The Strangers",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "home-invasion psychological horror",
+   "director": "Bryan Bertino",
+   "writers": "Bryan Bertino",
+   "basedOn": "",
+   "distributor": "Rogue Pictures",
+   "setting": "Remote vacation home (shot in rural South Carolina)",
+   "cast": [
+    [
+     "Liv Tyler",
+     "Kristen McKay"
+    ],
+    [
+     "Scott Speedman",
+     "James Hoyt"
+    ],
+    [
+     "Gemma Ward",
+     "Dollface"
+    ],
+    [
+     "Kip Weeks",
+     "Man in the Mask"
+    ],
+    [
+     "Laura Margolis",
+     "Pin-Up Girl"
+    ],
+    [
+     "Glenn Howerton",
+     "Mike"
+    ]
+   ],
+   "villain": "Three masked intruders: Dollface, Man in the Mask and Pin-Up Girl",
+   "boxOffice": "$82.4M worldwide on $9M budget",
+   "notes": [
+    "Screenplay inspired by the Manson family Tate murders and break-ins in Bertino's childhood neighborhood",
+    "Bertino submitted the script for a Nicholl Fellowship in 2004 and sold it to Universal in Nov 2004",
+    "Justin Lin and Mark Romanek were once attached to direct",
+    "Originally slated for Nov 2007, released May 30, 2008",
+    "Nominated for Best Horror Film at the 35th Saturn Awards; Liv Tyler won Best Actress at the 3rd Scream Awards",
+    "Became a cult film"
+   ],
+   "sources": [
+    "wp:The_Strangers_(2008_film)"
+   ]
+  },
+  {
+   "title": "Drag Me to Hell",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "supernatural horror comedy",
+   "director": "Sam Raimi",
+   "writers": "Sam Raimi and Ivan Raimi",
+   "basedOn": "",
+   "distributor": "Universal Pictures",
+   "setting": "Los Angeles area (shot in Tarzana, California)",
+   "cast": [
+    [
+     "Alison Lohman",
+     "Christine Brown"
+    ],
+    [
+     "Justin Long",
+     "Clay Dalton"
+    ],
+    [
+     "Lorna Raver",
+     "Mrs. Sylvia Ganush"
+    ],
+    [
+     "Dileep Rao",
+     "Rham Jas"
+    ],
+    [
+     "David Paymer",
+     "Mr. Jim Jacks"
+    ],
+    [
+     "Adriana Barraza",
+     "Shaun San Dena"
+    ]
+   ],
+   "villain": "Mrs. Ganush, an elderly woman whose curse sends a loan officer to Hell after three days",
+   "boxOffice": "$90.8M worldwide on $30M budget",
+   "notes": [
+    "Sam and Ivan Raimi wrote the script (as The Curse) in the 1990s; completed in 2007",
+    "Raimi's return to low-budget horror after the Spider-Man trilogy; produced with Ghost House Pictures",
+    "Premiered at SXSW March 15, 2009; US release May 29, 2009",
+    "Won the Saturn Award for Best Horror Film at the 36th Saturn Awards",
+    "Raimi cameos as an uncredited ghost at the séance"
+   ],
+   "sources": [
+    "wp:Drag_Me_to_Hell"
+   ]
+  },
+  {
+   "title": "Zombieland",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "zombie comedy",
+   "director": "Ruben Fleischer",
+   "writers": "Rhett Reese and Paul Wernick",
+   "basedOn": "",
+   "distributor": "Sony Pictures Releasing",
+   "setting": "Cross-country US road trip (shot around Georgia)",
+   "cast": [
+    [
+     "Jesse Eisenberg",
+     "Columbus"
+    ],
+    [
+     "Woody Harrelson",
+     "Tallahassee"
+    ],
+    [
+     "Emma Stone",
+     "Wichita"
+    ],
+    [
+     "Abigail Breslin",
+     "Little Rock"
+    ],
+    [
+     "Bill Murray",
+     "Bill Murray (himself)"
+    ],
+    [
+     "Amber Heard",
+     "406"
+    ]
+   ],
+   "villain": "Zombies infected by a virus",
+   "boxOffice": "$102.4M worldwide on $23.6M budget",
+   "notes": [
+    "Ruben Fleischer's directorial debut",
+    "Reese and Wernick originally wrote it as a TV pilot spec script in 2005",
+    "Bill Murray appears as a fictionalized version of himself",
+    "Premiered at Fantastic Fest Sept 25, 2009; US release Oct 2, 2009",
+    "Sequel Zombieland: Double Tap released Oct 2019"
+   ],
+   "sources": [
+    "wp:Zombieland"
+   ]
+  },
+  {
+   "title": "Twilight",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "romantic fantasy / vampire (horror-adjacent)",
+   "director": "Catherine Hardwicke",
+   "writers": "Melissa Rosenberg",
+   "basedOn": "Twilight (2005 novel) by Stephenie Meyer",
+   "distributor": "Summit Entertainment",
+   "setting": "Forks, Washington (shot in Oregon)",
+   "cast": [
+    [
+     "Kristen Stewart",
+     "Bella Swan"
+    ],
+    [
+     "Robert Pattinson",
+     "Edward Cullen"
+    ],
+    [
+     "Billy Burke",
+     "Charlie Swan"
+    ],
+    [
+     "Peter Facinelli",
+     "Carlisle Cullen"
+    ],
+    [
+     "Elizabeth Reaser",
+     "Esme Cullen"
+    ],
+    [
+     "Cam Gigandet",
+     "James Witherdale"
+    ],
+    [
+     "Ashley Greene",
+     "Alice Cullen"
+    ]
+   ],
+   "villain": "James, a sadistic nomad vampire who hunts Bella",
+   "boxOffice": "$412M worldwide on $37M budget",
+   "notes": [
+    "First film in The Twilight Saga",
+    "Developed about three years at Paramount's MTV Films before Summit acquired the rights",
+    "Principal photography March-May 2008 in Oregon, 44 days",
+    "Premiered Nov 17, 2008; US release Nov 21, 2008",
+    "Most purchased DVD of 2009",
+    "Followed by New Moon (2009), Eclipse (2010), Breaking Dawn Parts 1 and 2"
+   ],
+   "sources": [
+    "wp:Twilight_(2008_film)"
+   ]
+  },
+  {
+   "title": "Orphan",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "psychological horror",
+   "director": "Jaume Collet-Serra",
+   "writers": "David Leslie Johnson (story by Alex Mace)",
+   "basedOn": "",
+   "distributor": "Warner Bros. Pictures",
+   "setting": "",
+   "cast": [
+    [
+     "Vera Farmiga",
+     "Kate"
+    ],
+    [
+     "Peter Sarsgaard",
+     "John"
+    ],
+    [
+     "Isabelle Fuhrman",
+     "Esther"
+    ],
+    [
+     "CCH Pounder",
+     "Sister Abigail"
+    ],
+    [
+     "Jimmy Bennett",
+     "Daniel"
+    ],
+    [
+     "Margo Martindale",
+     "Dr. Browning"
+    ]
+   ],
+   "villain": "Esther, a psychopathic nine-year-old adoptee",
+   "boxOffice": "$78.8M worldwide on $20M budget",
+   "notes": [
+    "Produced by Joel Silver and Susan Downey of Dark Castle and Leonardo DiCaprio's Appian Way",
+    "Shot in St. Thomas, Toronto, Port Hope and Montreal, Canada",
+    "US and Canada release July 24, 2009",
+    "Prequel Orphan: First Kill released 2022"
+   ],
+   "sources": [
+    "wp:Orphan_(2009_film)"
+   ]
+  },
+  {
+   "title": "Friday the 13th",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "slasher reboot",
+   "director": "Marcus Nispel",
+   "writers": "Damian Shannon and Mark Swift",
+   "basedOn": "",
+   "distributor": "Warner Bros. Pictures (US/Canada); Paramount Pictures (international)",
+   "setting": "Crystal Lake woodland",
+   "cast": [
+    [
+     "Jared Padalecki",
+     "Clay Miller"
+    ],
+    [
+     "Danielle Panabaker",
+     "Jenna Montgomery"
+    ],
+    [
+     "Amanda Righetti",
+     "Whitney Miller"
+    ],
+    [
+     "Travis Van Winkle",
+     "Trent DeMarco"
+    ],
+    [
+     "Aaron Yoo",
+     "Chewie Wong"
+    ],
+    [
+     "Derek Mears",
+     "Jason Voorhees"
+    ]
+   ],
+   "villain": "Jason Voorhees (Derek Mears)",
+   "boxOffice": "$92.7M worldwide on $19M budget",
+   "notes": [
+    "Reboot and twelfth installment of the franchise",
+    "Jason's mask recreated from a mold of the Friday the 13th Part III (1982) mask",
+    "Uses some Harry Manfredini score from earlier films",
+    "Released Feb 13, 2009",
+    "Second-highest-grossing film in the franchise after Freddy vs. Jason (2003)"
+   ],
+   "sources": [
+    "wp:Friday_the_13th_(2009_film)"
+   ]
+  },
+  {
+   "title": "The Human Centipede (First Sequence)",
+   "altTitles": [
+    "The Human Centipede"
+   ],
+   "year": 2009,
+   "yearNote": "Premiered Aug 2009 at FrightFest",
+   "tier": 1,
+   "genreNote": "body horror",
+   "director": "Tom Six",
+   "writers": "Tom Six",
+   "basedOn": "",
+   "distributor": "IFC Films",
+   "setting": "",
+   "cast": [
+    [
+     "Dieter Laser",
+     "Josef Heiter"
+    ],
+    [
+     "Ashley C. Williams",
+     "Lindsay"
+    ],
+    [
+     "Ashlynn Yennie",
+     "Jenny"
+    ],
+    [
+     "Akihiro Kitamura",
+     "Katsuro"
+    ],
+    [
+     "Andreas Leupold",
+     "Detective Kranz"
+    ],
+    [
+     "Peter Blankenstein",
+     "Detective Voller"
+    ]
+   ],
+   "villain": "Dr. Josef Heiter, a retired surgeon who sews victims mouth-to-anus",
+   "boxOffice": "$352,161 gross on $1.6M budget",
+   "notes": [
+    "Dutch production; premiered at London FrightFest Aug 30, 2009",
+    "US limited release April 30, 2010",
+    "Inspired partly by Nazi medical experiments such as Mengele's",
+    "Sequels: Full Sequence (2011) and Final Sequence (2015)",
+    "Combined trilogy cut Complete Sequence (2016)"
+   ],
+   "sources": [
+    "wp:The_Human_Centipede_(First_Sequence)"
+   ]
+  },
+  {
+   "title": "Quarantine",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "found-footage zombie film / REC remake",
+   "director": "John Erick Dowdle",
+   "writers": "John Erick Dowdle and Drew Dowdle",
+   "basedOn": "Remake of the 2007 Spanish film Rec",
+   "distributor": "Sony Pictures Releasing (Screen Gems)",
+   "setting": "Apartment building, Los Angeles",
+   "cast": [
+    [
+     "Jennifer Carpenter",
+     "Angela Vidal"
+    ],
+    [
+     "Steve Harris",
+     "Scott Percival"
+    ],
+    [
+     "Jay Hernandez",
+     "Jake"
+    ],
+    [
+     "Johnathon Schaech",
+     "George Fletcher"
+    ]
+   ],
+   "villain": "Residents infected with a mutated strain of rabies",
+   "boxOffice": "$41.3M worldwide on $12M budget",
+   "notes": [
+    "Remake of Spain's Rec",
+    "No musical score, only sound effects",
+    "Released Oct 10, 2008",
+    "Sequel Quarantine 2: Terminal (2011)"
+   ],
+   "sources": [
+    "wp:Quarantine_(2008_film)"
+   ]
+  },
+  {
+   "title": "Martyrs",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "New French Extremity psychological horror",
+   "director": "Pascal Laugier",
+   "writers": "Pascal Laugier",
+   "basedOn": "",
+   "distributor": "Wild Bunch",
+   "setting": "France, 1986",
+   "cast": [
+    [
+     "Morjana Alaoui",
+     "Anna Assaoui"
+    ],
+    [
+     "Mylène Jampanoï",
+     "Lucie Jurin"
+    ],
+    [
+     "Catherine Bégin",
+     "Mademoiselle"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$1.1M gross on €2.8M budget",
+   "notes": [
+    "French-Canadian co-production; shooting began in Montreal in 2007",
+    "Caused audience walkouts at the May 2008 Marché du Film",
+    "French rating cut from 18+ to 16+ after the Culture Minister overturned it on appeal",
+    "Cited as part of New French Extremity, which Laugier denounced",
+    "Released in France Sept 3, 2008"
+   ],
+   "sources": [
+    "wp:Martyrs_(2008_film)"
+   ]
+  },
+  {
+   "title": "Eden Lake",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "British horror thriller",
+   "director": "James Watkins",
+   "writers": "James Watkins",
+   "basedOn": "",
+   "distributor": "Optimum Releasing (UK); Pathé (international)",
+   "setting": "Remote lake in England",
+   "cast": [
+    [
+     "Kelly Reilly",
+     "Jenny Greengrass"
+    ],
+    [
+     "Michael Fassbender",
+     "Steve Taylor"
+    ],
+    [
+     "Jack O'Connell",
+     "Brett"
+    ],
+    [
+     "Thomas Turgoose",
+     "Cooper"
+    ]
+   ],
+   "villain": "A gang of hostile local youths",
+   "boxOffice": "$3.9-4.3M gross on $2M budget",
+   "notes": [
+    "James Watkins' directorial debut",
+    "Premiered at Fantasy Filmfest Aug 12, 2008",
+    "UK release Sept 12, 2008",
+    "Seen as part of a 'Broken Britain'/'hoodies' cycle of films"
+   ],
+   "sources": [
+    "wp:Eden_Lake"
+   ]
+  },
+  {
+   "title": "Pontypool",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "Canadian psychological horror thriller",
+   "director": "Bruce McDonald",
+   "writers": "Tony Burgess",
+   "basedOn": "Pontypool Changes Everything (1995 novel) by Tony Burgess",
+   "distributor": "Maple Pictures",
+   "setting": "",
+   "cast": [
+    [
+     "Stephen McHattie",
+     "Grant Mazzy"
+    ],
+    [
+     "Lisa Houle",
+     "Sydney Briar"
+    ],
+    [
+     "Georgina Reilly",
+     "Laurel-Ann Drummond"
+    ],
+    [
+     "Hrant Alianak",
+     "Dr. Jon Mendez"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$32,118 gross",
+   "notes": [
+    "Premiered at TIFF Sept 6, 2008; Canadian release March 6, 2009",
+    "Spin-off Dreamland released 2019",
+    "Franchise trilogy films Pontypool Changes and Pontypool Changes Everything in development since 2016"
+   ],
+   "sources": [
+    "wp:Pontypool_(film)"
+   ]
+  },
+  {
+   "title": "Saw V",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "torture-horror sequel",
+   "director": "David Hackl",
+   "writers": "Patrick Melton and Marcus Dunstan",
+   "basedOn": "",
+   "distributor": "Lionsgate Films",
+   "setting": "",
+   "cast": [
+    [
+     "Tobin Bell",
+     "Jigsaw / John Kramer"
+    ],
+    [
+     "Costas Mandylor",
+     "Mark Hoffman"
+    ],
+    [
+     "Scott Patterson",
+     "Agent Peter Strahm"
+    ],
+    [
+     "Betsy Russell",
+     "Jill"
+    ],
+    [
+     "Julie Benz",
+     "Brit"
+    ],
+    [
+     "Meagan Good",
+     "Luba"
+    ]
+   ],
+   "villain": "Mark Hoffman, Jigsaw's accomplice and successor",
+   "boxOffice": "$118.2M worldwide on $10.8M budget",
+   "notes": [
+    "David Hackl's directorial debut",
+    "Fifth Saw film; sequel to Saw IV (2007)",
+    "Released Oct 24, 2008",
+    "Followed by Saw VI (2009)"
+   ],
+   "sources": [
+    "wp:Saw_V"
+   ]
+  },
+  {
+   "title": "Saw VI",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "torture-horror sequel",
+   "director": "Kevin Greutert",
+   "writers": "Patrick Melton and Marcus Dunstan",
+   "basedOn": "",
+   "distributor": "Lionsgate Films",
+   "setting": "",
+   "cast": [
+    [
+     "Tobin Bell",
+     "Jigsaw / John Kramer"
+    ],
+    [
+     "Costas Mandylor",
+     "Hoffman"
+    ],
+    [
+     "Betsy Russell",
+     "Jill"
+    ],
+    [
+     "Mark Rolston",
+     "Erickson"
+    ],
+    [
+     "Peter Outerbridge",
+     "William Easton"
+    ],
+    [
+     "Shawnee Smith",
+     "Amanda"
+    ]
+   ],
+   "villain": "Mark Hoffman; Jigsaw's posthumous traps",
+   "boxOffice": "$69.8M worldwide on $11M budget",
+   "notes": [
+    "Kevin Greutert's directorial debut",
+    "Sixth Saw film; sequel to Saw V (2008)",
+    "Plot follows insurance executive William Easton",
+    "Released Oct 23, 2009"
+   ],
+   "sources": [
+    "wp:Saw_VI"
+   ]
+  },
+  {
+   "title": "The Last House on the Left",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "rape-revenge horror remake",
+   "director": "Dennis Iliadis",
+   "writers": "Adam Alleca and Carl Ellsworth",
+   "basedOn": "Remake of the 1972 film The Last House on the Left",
+   "distributor": "Universal Pictures",
+   "setting": "Collingwood family summer home",
+   "cast": [
+    [
+     "Tony Goldwyn",
+     "Dr. John Collingwood"
+    ],
+    [
+     "Monica Potter",
+     "Emma Collingwood"
+    ],
+    [
+     "Garret Dillahunt",
+     "Krug Stillo"
+    ],
+    [
+     "Aaron Paul",
+     "Francis Stillo"
+    ],
+    [
+     "Spencer Treat Clark",
+     "Justin Stillo"
+    ],
+    [
+     "Sara Paxton",
+     "Mari Collingwood"
+    ],
+    [
+     "Martha MacIsaac",
+     "Paige"
+    ]
+   ],
+   "villain": "Krug Stillo's family of violent fugitives",
+   "boxOffice": "$46M worldwide on $15M budget",
+   "notes": [
+    "Remake of the 1972 film",
+    "Alleca's original script had supernatural elements, so the studio brought in Ellsworth for rewrites",
+    "Released March 13, 2009"
+   ],
+   "sources": [
+    "wp:The_Last_House_on_the_Left_(2009_film)"
+   ]
+  },
+  {
+   "title": "My Bloody Valentine 3D",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "3D slasher remake",
+   "director": "Patrick Lussier",
+   "writers": "Todd Farmer and Zane Smith",
+   "basedOn": "Remake of the 1981 Canadian film My Bloody Valentine",
+   "distributor": "Lionsgate Films",
+   "setting": "Small mining town (shot in Pennsylvania)",
+   "cast": [
+    [
+     "Jensen Ackles",
+     "Tom Hanniger"
+    ],
+    [
+     "Jaime King",
+     "Sarah Mercer-Palmer"
+    ],
+    [
+     "Kerr Smith",
+     "Sheriff Axel Palmer"
+    ],
+    [
+     "Tom Atkins",
+     "Sheriff Jim Burke"
+    ]
+   ],
+   "villain": "Serial killer in mining gear who strikes on Valentine's Day",
+   "boxOffice": "$100.7M worldwide on $14M budget",
+   "notes": [
+    "First R-rated film projected in RealD 3D with a wide release (1,000 locations)",
+    "Remake of the 1981 film",
+    "Filmed on location in Pennsylvania",
+    "Released Jan 16, 2009"
+   ],
+   "sources": [
+    "wp:My_Bloody_Valentine_3D"
+   ]
+  },
+  {
+   "title": "Jennifer's Body",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "comedy horror",
+   "director": "Karyn Kusama",
+   "writers": "Diablo Cody",
+   "basedOn": "",
+   "distributor": "20th Century Fox",
+   "setting": "",
+   "cast": [
+    [
+     "Megan Fox",
+     "Jennifer Check"
+    ],
+    [
+     "Amanda Seyfried",
+     "Anita 'Needy' Lesnicki"
+    ],
+    [
+     "Adam Brody",
+     "Nikolai Wolf"
+    ],
+    [
+     "Johnny Simmons",
+     "Chip Dove"
+    ],
+    [
+     "J. K. Simmons",
+     "Mr. Wroblewski"
+    ],
+    [
+     "Amy Sedaris",
+     "Toni Lesnicki"
+    ]
+   ],
+   "villain": "Jennifer Check, a demonically possessed high-school student who devours boys",
+   "boxOffice": "$31.6M worldwide on $16M budget",
+   "notes": [
+    "Written by Diablo Cody, who had written Juno (2007) with Jason Reitman",
+    "Boom! Studios released a tie-in graphic novel in Aug 2009",
+    "Premiered at TIFF Sept 10, 2009"
+   ],
+   "sources": [
+    "wp:Jennifer's_Body"
+   ]
+  },
+  {
+   "title": "The Haunting in Connecticut",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "supernatural horror, 'true story'",
+   "director": "Peter Cornwell",
+   "writers": "Adam Simon and Tim Metcalfe",
+   "basedOn": "In a Dark Place (1992) by Ray Garton, on the Snedeker family",
+   "distributor": "Lionsgate (US); Maple Pictures (Canada)",
+   "setting": "Former funeral home, Southington, Connecticut",
+   "cast": [
+    [
+     "Virginia Madsen",
+     "Sara Campbell"
+    ],
+    [
+     "Kyle Gallner",
+     "Matt Campbell"
+    ],
+    [
+     "Elias Koteas",
+     "Reverend Nicholas Popescu"
+    ],
+    [
+     "Amanda Crew",
+     "Wendy"
+    ],
+    [
+     "Martin Donovan",
+     "Peter Campbell"
+    ]
+   ],
+   "villain": "Spirits haunting a former funeral home",
+   "boxOffice": "$78.8M gross",
+   "notes": [
+    "Peter Cornwell's feature directorial debut",
+    "Based on alleged experiences of Carmen Snedeker's family in the late 1980s",
+    "Author Ray Garton later distanced himself from the book's accuracy",
+    "Premiered at SXSW March 17, 2009; US release March 27, 2009"
+   ],
+   "sources": [
+    "wp:The_Haunting_in_Connecticut"
+   ]
+  },
+  {
+   "title": "Antichrist",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "art horror",
+   "director": "Lars von Trier",
+   "writers": "Lars von Trier",
+   "basedOn": "",
+   "distributor": "Nordisk Film Distribution (Denmark/Sweden); Les Films du Losange (France)",
+   "setting": "Cabin in the woods",
+   "cast": [
+    [
+     "Willem Dafoe",
+     "He"
+    ],
+    [
+     "Charlotte Gainsbourg",
+     "She"
+    ],
+    [
+     "Storm Acheche Sahlstrøm",
+     "Nic"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$7.4M gross on $5M budget",
+   "notes": [
+    "Written by von Trier in 2006 while hospitalised for depression",
+    "Premiered at Cannes May 18, 2009",
+    "Structured as prologue, four chapters and epilogue",
+    "Filmed mainly in Germany in late summer 2008",
+    "Danish production co-produced with France, Germany, Poland and Sweden"
+   ],
+   "sources": [
+    "wp:Antichrist_(film)"
+   ]
+  },
+  {
+   "title": "Triangle",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "time-loop psychological horror",
+   "director": "Christopher Smith",
+   "writers": "Christopher Smith",
+   "basedOn": "",
+   "distributor": "Icon Film Distribution",
+   "setting": "Yacht and derelict ocean liner",
+   "cast": [
+    [
+     "Melissa George",
+     "Jess"
+    ],
+    [
+     "Michael Dorman",
+     "Greg"
+    ],
+    [
+     "Rachael Carpani",
+     "Sally"
+    ],
+    [
+     "Henry Nixon",
+     "Downey"
+    ],
+    [
+     "Emma Lung",
+     "Heather"
+    ],
+    [
+     "Liam Hemsworth",
+     "Victor"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$1.3-1.6M gross on $12M budget",
+   "notes": [
+    "British-Australian co-production",
+    "Partly based on the myth of Sisyphus",
+    "Financed with £1.6M from the UK Film Council",
+    "Premiered at FrightFest Aug 27, 2009"
+   ],
+   "sources": [
+    "wp:Triangle_(2009_British_film)"
+   ]
+  },
+  {
+   "title": "Dead Snow",
+   "altTitles": [
+    "Død snø"
+   ],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "Norwegian Nazi-zombie horror comedy",
+   "director": "Tommy Wirkola",
+   "writers": "Tommy Wirkola and Stig Frode Henriksen",
+   "basedOn": "",
+   "distributor": "Euforia Film",
+   "setting": "Mountains of Norway",
+   "cast": [
+    [
+     "Vegar Hoel",
+     "Martin Hykkerud"
+    ],
+    [
+     "Stig Frode Henriksen",
+     "Roy Toivonen"
+    ],
+    [
+     "Charlotte Frogner",
+     "Hanna Delon"
+    ],
+    [
+     "Lasse Valdal",
+     "Vegard Rosten"
+    ],
+    [
+     "Evy Kasseth Røsten",
+     "Liv Beck"
+    ],
+    [
+     "Jeppe Laursen",
+     "Erlend Johnsen"
+    ],
+    [
+     "Jenny Skavlan",
+     "Chris Frogner"
+    ]
+   ],
+   "villain": "Nazi zombies",
+   "boxOffice": "$2.2M gross on $2M budget",
+   "notes": [
+    "Original Norwegian title Død snø",
+    "Released in Norway Jan 9, 2009",
+    "An English dub was produced by NYAV Post"
+   ],
+   "sources": [
+    "wp:Dead_Snow"
+   ]
+  },
+  {
+   "title": "Thirst",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "Korean vampire horror",
+   "director": "Park Chan-wook",
+   "writers": "Park Chan-wook",
+   "basedOn": "Thérèse Raquin (1867 novel) by Émile Zola",
+   "distributor": "Focus Features (US); CJ Entertainment (South Korea)",
+   "setting": "",
+   "cast": [
+    [
+     "Song Kang-ho",
+     "Sang-hyun"
+    ],
+    [
+     "Kim Ok-vin",
+     "Tae-ju"
+    ],
+    [
+     "Kim Hae-sook",
+     "Mrs. Ra"
+    ],
+    [
+     "Shin Ha-kyun",
+     "Kang-woo"
+    ]
+   ],
+   "villain": "Sang-hyun, a priest turned vampire after a failed medical experiment",
+   "boxOffice": "",
+   "notes": [
+    "Won the Jury Prize at Cannes 2009 and was nominated for the Palme d'Or",
+    "South Korea-US co-production",
+    "Released in South Korea April 30, 2009"
+   ],
+   "sources": [
+    "wp:Thirst_(2009_film)"
+   ]
+  },
+  {
+   "title": "[Rec] 2",
+   "altTitles": [
+    "REC 2",
+    "Rec 2"
+   ],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "Spanish found-footage horror sequel",
+   "director": "Jaume Balagueró and Paco Plaza",
+   "writers": "Jaume Balagueró, Paco Plaza, Manu Díez",
+   "basedOn": "",
+   "distributor": "Filmax",
+   "setting": "",
+   "cast": [
+    [
+     "Manuela Velasco",
+     "Ángela Vidal"
+    ],
+    [
+     "Jonathan Mellor",
+     "Dr. Owen"
+    ],
+    [
+     "Oscar Sánchez Zafra",
+     "Chief Fernández"
+    ],
+    [
+     "Ariel Casas",
+     "Larra"
+    ],
+    [
+     "Alejandro Casaseca",
+     "Martos"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$18.5M gross on $5.6M budget",
+   "notes": [
+    "Sequel to Rec (2007); story begins immediately after the first film",
+    "Follows soldiers escorting a scientist into the building",
+    "Followed by Rec 3: Genesis and Rec 4: Apocalypse",
+    "Released Oct 2, 2009"
+   ],
+   "sources": [
+    "wp:Rec_2"
+   ]
+  },
+  {
+   "title": "Mirrors",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "supernatural horror",
+   "director": "Alexandre Aja",
+   "writers": "",
+   "basedOn": "Loosely based on the 2003 Korean film Into the Mirror",
+   "distributor": "20th Century Fox",
+   "setting": "",
+   "cast": [
+    [
+     "Kiefer Sutherland",
+     "Ben Carson"
+    ],
+    [
+     "Paula Patton",
+     "Amy Carson"
+    ],
+    [
+     "Amy Smart",
+     "Angie Carson"
+    ],
+    [
+     "Mary Beth Peil",
+     "Anna Esseker"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$78.1M worldwide on $35M budget",
+   "notes": [
+    "First titled Into the Mirror",
+    "Filming began May 1, 2007",
+    "US release Aug 15, 2008",
+    "US-Romania-Germany co-production",
+    "Aja rewrote the Into the Mirror-based script into a largely new story"
+   ],
+   "sources": [
+    "wp:Mirrors_(2008_film)"
+   ]
+  },
+  {
+   "title": "The Ruins",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "natural horror",
+   "director": "Carter Smith",
+   "writers": "Scott B. Smith",
+   "basedOn": "The Ruins (2006 novel) by Scott B. Smith",
+   "distributor": "DreamWorks/Paramount",
+   "setting": "Remote Mayan ruin in Mexico",
+   "cast": [
+    [
+     "Jena Malone",
+     "Amy"
+    ],
+    [
+     "Jonathan Tucker",
+     "Jeff"
+    ],
+    [
+     "Shawn Ashmore",
+     "Eric"
+    ],
+    [
+     "Laura Ramsey",
+     "Stacy"
+    ],
+    [
+     "Joe Anderson",
+     "Mathias"
+    ]
+   ],
+   "villain": "Carnivorous vine growth",
+   "boxOffice": "$22.9M gross on $25M budget",
+   "notes": [
+    "Carter Smith's feature directorial debut",
+    "Ben Stiller was an executive producer",
+    "Released April 4, 2008",
+    "Box-office bomb"
+   ],
+   "sources": [
+    "wp:The_Ruins_(film)"
+   ]
+  },
+  {
+   "title": "Survival of the Dead",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "zombie film",
+   "director": "George A. Romero",
+   "writers": "George A. Romero",
+   "basedOn": "",
+   "distributor": "Entertainment One; Magnet Releasing",
+   "setting": "",
+   "cast": [
+    [
+     "Alan van Sprang",
+     "Sarge 'Nicotine' Crockett"
+    ],
+    [
+     "Kenneth Welsh",
+     "Patrick O'Flynn"
+    ],
+    [
+     "Kathleen Munroe",
+     "Janet O'Flynn"
+    ],
+    [
+     "Richard Fitzpatrick",
+     "Seamus Muldoon"
+    ]
+   ],
+   "villain": "The living dead",
+   "boxOffice": "$386,078 gross on $4M budget",
+   "notes": [
+    "Sixth entry in Romero's Night of the Living Dead series",
+    "Follows AWOL guardsmen from Diary of the Dead",
+    "Last film directed by Romero before his death in 2017",
+    "Premiered at Venice Sept 9, 2009"
+   ],
+   "sources": [
+    "wp:Survival_of_the_Dead"
+   ]
+  },
+  {
+   "title": "Splinter",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "creature horror",
+   "director": "Toby Wilkins",
+   "writers": "Kai Barry, Ian Shorr and Toby Wilkins",
+   "basedOn": "",
+   "distributor": "Magnet Releasing",
+   "setting": "",
+   "cast": [
+    [
+     "Paulo Costanzo",
+     "Seth Belzer"
+    ],
+    [
+     "Jill Wagner",
+     "Polly Watt"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$510,358 gross",
+   "notes": [
+    "Filmed near Oklahoma City",
+    "Limited release Oct 31, 2008; HDNet Movies aired it two days earlier"
+   ],
+   "sources": [
+    "wp:Splinter_(2008_film)"
+   ]
+  },
+  {
+   "title": "Daybreakers",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "Premiered Sept 2009 at TIFF",
+   "tier": 3,
+   "genreNote": "dystopian vampire sci-fi horror",
+   "director": "Michael and Peter Spierig",
+   "writers": "Michael and Peter Spierig",
+   "basedOn": "",
+   "distributor": "Lionsgate (US); Hoyts (Australia)",
+   "setting": "Futuristic world overrun by vampires",
+   "cast": [
+    [
+     "Ethan Hawke",
+     "Edward Dalton"
+    ],
+    [
+     "Willem Dafoe",
+     "Lionel 'Elvis' Cormac"
+    ]
+   ],
+   "villain": "Bromley Marks, a vampiric corporation farming humans (owner Charles Bromley, Sam Neill)",
+   "boxOffice": "$51.4M gross on $20M budget",
+   "notes": [
+    "Premiered at TIFF Sept 2009; UK release Jan 6, 2010 and North America Jan 8, 2010",
+    "US-Australia co-production"
+   ],
+   "sources": [
+    "wp:Daybreakers"
+   ]
+  },
+  {
+   "title": "Pandorum",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "sci-fi horror",
+   "director": "Christian Alvart",
+   "writers": "Travis Milloy (story by Milloy and Alvart)",
+   "basedOn": "",
+   "distributor": "Summit Entertainment (overseas); Constantin Film (Germany); Icon (UK)",
+   "setting": "",
+   "cast": [
+    [
+     "Dennis Quaid",
+     "Payton"
+    ],
+    [
+     "Ben Foster",
+     "Bower"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$20.6M gross on $33M budget",
+   "notes": [
+    "Produced by Robert Kulzer, Jeremy Bolt and Paul W. S. Anderson",
+    "Pandorum is a fictional psychosis from deep space",
+    "Released Sept 25, 2009 in the US; box-office flop"
+   ],
+   "sources": [
+    "wp:Pandorum"
+   ]
+  },
+  {
+   "title": "The Midnight Meat Train",
+   "altTitles": [
+    "Midnight Meat Train"
+   ],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "horror (Clive Barker adaptation)",
+   "director": "Ryuhei Kitamura",
+   "writers": "Jeff Buhler",
+   "basedOn": "The Midnight Meat Train (1984 short story) by Clive Barker",
+   "distributor": "Lionsgate",
+   "setting": "New York City subway",
+   "cast": [
+    [
+     "Bradley Cooper",
+     "Leon Kaufman"
+    ],
+    [
+     "Vinnie Jones",
+     "Mahogany"
+    ]
+   ],
+   "villain": "Mahogany, the 'Subway Butcher'",
+   "boxOffice": "$3.5M gross",
+   "notes": [
+    "Released Aug 1, 2008; premiered at Fantasia July 19, 2008",
+    "Also stars Brooke Shields, Leslie Bibb, Roger Bart and Ted Raimi"
+   ],
+   "sources": [
+    "wp:The_Midnight_Meat_Train"
+   ]
+  },
+  {
+   "title": "Sorority Row",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "slasher remake",
+   "director": "Stewart Hendler",
+   "writers": "Josh Stolberg and Pete Goldfinger",
+   "basedOn": "Remake of the 1982 film The House on Sorority Row",
+   "distributor": "Summit Entertainment",
+   "setting": "",
+   "cast": [
+    [
+     "Briana Evigan",
+     "Cassidy Tappan"
+    ],
+    [
+     "Leah Pipes",
+     "Jessica Pierson"
+    ]
+   ],
+   "villain": "A masked killer stalking sorority sisters who covered up a prank death",
+   "boxOffice": "$27.2M gross on $12.5M budget",
+   "notes": [
+    "Audrina Patridge's feature film debut",
+    "Carrie Fisher in cast",
+    "Released Sept 11, 2009"
+   ],
+   "sources": [
+    "wp:Sorority_Row"
+   ]
+  },
+  {
+   "title": "Case 39",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "First released in New Zealand Aug 2009; US release 2010",
+   "tier": 3,
+   "genreNote": "supernatural horror",
+   "director": "Christian Alvart",
+   "writers": "Ray Wright",
+   "basedOn": "",
+   "distributor": "Paramount Pictures",
+   "setting": "",
+   "cast": [
+    [
+     "Renée Zellweger",
+     "Emily Jenkins"
+    ],
+    [
+     "Jodelle Ferland",
+     "Lillith 'Lily' Sullivan"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$28.2M gross on $26M budget",
+   "notes": [
+    "Released in New Zealand Aug 13, 2009 and the US Oct 1, 2010",
+    "Also stars Ian McShane and Bradley Cooper"
+   ],
+   "sources": [
+    "wp:Case_39"
+   ]
+  },
+  {
+   "title": "The Collector",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "home-invasion trap horror",
+   "director": "Marcus Dunstan",
+   "writers": "Patrick Melton and Marcus Dunstan",
+   "basedOn": "",
+   "distributor": "Freestyle Releasing",
+   "setting": "",
+   "cast": [
+    [
+     "Josh Stewart",
+     "Arkin O'Brien"
+    ],
+    [
+     "Juan Fernández",
+     "The Collector"
+    ]
+   ],
+   "villain": "The Collector, who has rigged a house with traps",
+   "boxOffice": "$10.5M gross on $3M budget",
+   "notes": [
+    "Script originally titled The Midnight Man, once shopped as a Saw prequel",
+    "Released July 31, 2009"
+   ],
+   "sources": [
+    "wp:The_Collector_(2009_film)"
+   ]
+  },
+  {
+   "title": "Prom Night",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "slasher remake",
+   "director": "Nelson McCormick",
+   "writers": "J. S. Cardone",
+   "basedOn": "Remake of the 1980 film Prom Night",
+   "distributor": "Sony Pictures Releasing (Screen Gems)",
+   "setting": "",
+   "cast": [
+    [
+     "Brittany Snow",
+     "Donna Keppel"
+    ],
+    [
+     "Scott Porter",
+     "Bobby Jones"
+    ]
+   ],
+   "villain": "Richard Fenton (Johnathon Schaech), an escaped convict",
+   "boxOffice": "$57.2M gross on $20M budget",
+   "notes": [
+    "PG-13 rating was criticized by critics",
+    "Fifth and final Prom Night film",
+    "Released April 11, 2008",
+    "Idris Elba in cast"
+   ],
+   "sources": [
+    "wp:Prom_Night_(2008_film)"
+   ]
+  },
+  {
+   "title": "Dance of the Dead",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "zombie comedy",
+   "director": "Gregg Bishop",
+   "writers": "Joe Ballarini",
+   "basedOn": "",
+   "distributor": "Ghost House Underground",
+   "setting": "High school prom",
+   "cast": [
+    [
+     "Jared Kusnitz",
+     "Jimmy"
+    ],
+    [
+     "Greyson Chadwick",
+     "Lindsey"
+    ]
+   ],
+   "villain": "Reanimated dead",
+   "boxOffice": "",
+   "notes": [
+    "Premiered at SXSW March 9, 2008",
+    "Limited theatrical release Oct 13, 2008 at Mann's Chinese 6, Los Angeles",
+    "Lucas Till in cast"
+   ],
+   "sources": [
+    "wp:Dance_of_the_Dead_(film)"
+   ]
+  },
+  {
+   "title": "Tokyo Gore Police",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "Japanese splatter sci-fi horror",
+   "director": "Yoshihiro Nishimura",
+   "writers": "Kengo Kaji, Sayako Nakoshi, Y. Nishimura",
+   "basedOn": "",
+   "distributor": "Nikkatsu; Sony Pictures",
+   "setting": "Tokyo",
+   "cast": [
+    [
+     "Eihi Shiina",
+     "Ruka"
+    ],
+    [
+     "Itsuji Itao",
+     "Akino Miyama / The Key Man"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "",
+   "notes": [
+    "Eihi Shiina plays Ruka, a vengeful police officer",
+    "Released in Japan 2008 and played North American festivals"
+   ],
+   "sources": [
+    "wp:Tokyo_Gore_Police"
+   ]
+  },
+  {
+   "title": "Lake Mungo",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "Australian pseudo-documentary horror",
+   "director": "Joel Anderson",
+   "writers": "Joel Anderson",
+   "basedOn": "",
+   "distributor": "Arclight Films",
+   "setting": "",
+   "cast": [
+    [
+     "Talia Zucker",
+     "Alice Palmer"
+    ],
+    [
+     "Rosie Traynor",
+     "June Palmer"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$29,850 gross on $1.7M budget",
+   "notes": [
+    "Joel Anderson's only film",
+    "Premiered at Sydney Film Festival June 18, 2008",
+    "Cult following; ranked scariest found-footage film by Variety"
+   ],
+   "sources": [
+    "wp:Lake_Mungo_(film)"
+   ]
+  },
+  {
+   "title": "Sauna",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "Finnish horror",
+   "director": "Antti-Jussi Annila",
+   "writers": "Iiro Küttner",
+   "basedOn": "",
+   "distributor": "Sandrew Metronome",
+   "setting": "",
+   "cast": [
+    [
+     "Ville Virtanen",
+     "Eerik"
+    ],
+    [
+     "Tommi Eronen",
+     "Knut"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "",
+   "notes": [
+    "Also known as Filth and Evil Rising",
+    "Won three Jussi Awards in 2009 (sound design, scenography, costumes)",
+    "Premiered at TIFF Sept 5, 2008"
+   ],
+   "sources": [
+    "wp:Sauna_(2008_film)"
+   ]
+  },
+  {
+   "title": "The Children",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "British horror thriller",
+   "director": "Tom Shankland",
+   "writers": "",
+   "basedOn": "Story by Paul Andrew Williams",
+   "distributor": "Vertigo Films",
+   "setting": "Winter holiday",
+   "cast": [
+    [
+     "Eva Birthistle",
+     "Elaine"
+    ],
+    [
+     "Hannah Tointon",
+     "Casey"
+    ]
+   ],
+   "villain": "Children turned bloodthirsty by a virus",
+   "boxOffice": "",
+   "notes": [
+    "Released Dec 5, 2008",
+    "US release via Lionsgate and Ghost House Underground"
+   ],
+   "sources": [
+    "wp:The_Children_(2008_film)"
+   ]
+  },
+  {
+   "title": "Doghouse",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "British comedy horror",
+   "director": "Jake West",
+   "writers": "Dan Schaffer",
+   "basedOn": "",
+   "distributor": "Sony Pictures Entertainment",
+   "setting": "Remote town in England",
+   "cast": [
+    [
+     "Stephen Graham",
+     "Vince"
+    ],
+    [
+     "Danny Dyer",
+     "Neil"
+    ]
+   ],
+   "villain": "Women turned into man-eaters",
+   "boxOffice": "£165,544 domestic gross on $4M budget (est.)",
+   "notes": [
+    "Released June 12, 2009",
+    "Noel Clarke, Danny Dyer and Stephen Graham star"
+   ],
+   "sources": [
+    "wp:Doghouse_(film)"
+   ]
+  },
+  {
+   "title": "The Loved Ones",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "Premiered Sept 2009 at TIFF",
+   "tier": 3,
+   "genreNote": "Australian horror",
+   "director": "Sean Byrne",
+   "writers": "Sean Byrne",
+   "basedOn": "",
+   "distributor": "Madman Films (Australia); Paramount Pictures (international)",
+   "setting": "",
+   "cast": [
+    [
+     "Xavier Samuel",
+     "Brent"
+    ],
+    [
+     "Robin McLeavy",
+     "Lola"
+    ]
+   ],
+   "villain": "A classmate (Lola) who holds a demented party for a boy who turned her down",
+   "boxOffice": "$358,399 gross on $4M budget",
+   "notes": [
+    "Sean Byrne's feature directorial debut",
+    "Premiered at TIFF Sept 2009"
+   ],
+   "sources": [
+    "wp:The_Loved_Ones_(film)"
+   ]
+  },
+  {
+   "title": "Mutants",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "French post-apocalyptic horror",
+   "director": "David Morlet",
+   "writers": "Louis-Paul Desanges and David Morlet",
+   "basedOn": "",
+   "distributor": "CTV International",
+   "setting": "",
+   "cast": [
+    [
+     "Hélène de Fougerolles",
+     "Sonia"
+    ],
+    [
+     "Francis Renaud",
+     "Marco"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "",
+   "notes": [
+    "Released Jan 31, 2009"
+   ],
+   "sources": [
+    "wp:Mutants_(2009_film)"
+   ]
+  },
+  {
+   "title": "Carriers",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "post-apocalyptic pandemic horror",
+   "director": "Àlex and David Pastor",
+   "writers": "Àlex and David Pastor",
+   "basedOn": "",
+   "distributor": "Paramount Pictures",
+   "setting": "",
+   "cast": [
+    [
+     "Lou Taylor Pucci",
+     "Danny"
+    ],
+    [
+     "Chris Pine",
+     "Brian"
+    ],
+    [
+     "Piper Perabo",
+     "Bobby"
+    ],
+    [
+     "Emily VanCamp",
+     "Kate"
+    ]
+   ],
+   "villain": "A viral pandemic",
+   "boxOffice": "$5.8M gross",
+   "notes": [
+    "Filmed in 2006; limited release Sept 4, 2009 after Chris Pine's Star Trek breakout"
+   ],
+   "sources": [
+    "wp:Carriers_(film)"
+   ]
+  },
+  {
+   "title": "Dread",
+   "altTitles": [],
+   "year": 2009,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "British horror (Clive Barker adaptation)",
+   "director": "Anthony DiBlasi",
+   "writers": "Anthony DiBlasi",
+   "basedOn": "Dread (1984 short story) by Clive Barker",
+   "distributor": "After Dark Films (US)",
+   "setting": "",
+   "cast": [
+    [
+     "Jackson Rathbone",
+     "Stephen Grace"
+    ],
+    [
+     "Shaun Evans",
+     "Quaid"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "",
+   "notes": [
+    "Premiered at Fantasia July 14, 2009",
+    "From Barker's Books of Blood"
+   ],
+   "sources": [
+    "wp:Dread_(film)"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "wp:Antichrist_(film)",
+   "url": "https://en.wikipedia.org/wiki/Antichrist_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Carriers_(film)",
+   "url": "https://en.wikipedia.org/wiki/Carriers_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Case_39",
+   "url": "https://en.wikipedia.org/wiki/Case_39",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Cloverfield",
+   "url": "https://en.wikipedia.org/wiki/Cloverfield",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Dance_of_the_Dead_(film)",
+   "url": "https://en.wikipedia.org/wiki/Dance_of_the_Dead_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Daybreakers",
+   "url": "https://en.wikipedia.org/wiki/Daybreakers",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Dead_Snow",
+   "url": "https://en.wikipedia.org/wiki/Dead_Snow",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Doghouse_(film)",
+   "url": "https://en.wikipedia.org/wiki/Doghouse_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Drag_Me_to_Hell",
+   "url": "https://en.wikipedia.org/wiki/Drag_Me_to_Hell",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Dread_(film)",
+   "url": "https://en.wikipedia.org/wiki/Dread_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Eden_Lake",
+   "url": "https://en.wikipedia.org/wiki/Eden_Lake",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Friday_the_13th_(2009_film)",
+   "url": "https://en.wikipedia.org/wiki/Friday_the_13th_(2009_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Jennifer's_Body",
+   "url": "https://en.wikipedia.org/wiki/Jennifer's_Body",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Lake_Mungo_(film)",
+   "url": "https://en.wikipedia.org/wiki/Lake_Mungo_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Let_the_Right_One_In_(film)",
+   "url": "https://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Martyrs_(2008_film)",
+   "url": "https://en.wikipedia.org/wiki/Martyrs_(2008_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Mirrors_(2008_film)",
+   "url": "https://en.wikipedia.org/wiki/Mirrors_(2008_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Mutants_(2009_film)",
+   "url": "https://en.wikipedia.org/wiki/Mutants_(2009_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:My_Bloody_Valentine_3D",
+   "url": "https://en.wikipedia.org/wiki/My_Bloody_Valentine_3D",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Orphan_(2009_film)",
+   "url": "https://en.wikipedia.org/wiki/Orphan_(2009_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Pandorum",
+   "url": "https://en.wikipedia.org/wiki/Pandorum",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Pontypool_(film)",
+   "url": "https://en.wikipedia.org/wiki/Pontypool_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Prom_Night_(2008_film)",
+   "url": "https://en.wikipedia.org/wiki/Prom_Night_(2008_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Quarantine_(2008_film)",
+   "url": "https://en.wikipedia.org/wiki/Quarantine_(2008_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Rec_2",
+   "url": "https://en.wikipedia.org/wiki/Rec_2",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Sauna_(2008_film)",
+   "url": "https://en.wikipedia.org/wiki/Sauna_(2008_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Saw_V",
+   "url": "https://en.wikipedia.org/wiki/Saw_V",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Saw_VI",
+   "url": "https://en.wikipedia.org/wiki/Saw_VI",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Sorority_Row",
+   "url": "https://en.wikipedia.org/wiki/Sorority_Row",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Splinter_(2008_film)",
+   "url": "https://en.wikipedia.org/wiki/Splinter_(2008_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Survival_of_the_Dead",
+   "url": "https://en.wikipedia.org/wiki/Survival_of_the_Dead",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Children_(2008_film)",
+   "url": "https://en.wikipedia.org/wiki/The_Children_(2008_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Collector_(2009_film)",
+   "url": "https://en.wikipedia.org/wiki/The_Collector_(2009_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Haunting_in_Connecticut",
+   "url": "https://en.wikipedia.org/wiki/The_Haunting_in_Connecticut",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Human_Centipede_(First_Sequence)",
+   "url": "https://en.wikipedia.org/wiki/The_Human_Centipede_(First_Sequence)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Last_House_on_the_Left_(2009_film)",
+   "url": "https://en.wikipedia.org/wiki/The_Last_House_on_the_Left_(2009_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Loved_Ones_(film)",
+   "url": "https://en.wikipedia.org/wiki/The_Loved_Ones_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Midnight_Meat_Train",
+   "url": "https://en.wikipedia.org/wiki/The_Midnight_Meat_Train",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Ruins_(film)",
+   "url": "https://en.wikipedia.org/wiki/The_Ruins_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Strangers_(2008_film)",
+   "url": "https://en.wikipedia.org/wiki/The_Strangers_(2008_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Thirst_(2009_film)",
+   "url": "https://en.wikipedia.org/wiki/Thirst_(2009_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Tokyo_Gore_Police",
+   "url": "https://en.wikipedia.org/wiki/Tokyo_Gore_Police",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Triangle_(2009_British_film)",
+   "url": "https://en.wikipedia.org/wiki/Triangle_(2009_British_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Twilight_(2008_film)",
+   "url": "https://en.wikipedia.org/wiki/Twilight_(2008_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Zombieland",
+   "url": "https://en.wikipedia.org/wiki/Zombieland",
+   "verifiedOn": "2026-10-10"
+  }
+ ],
+ "unverified": [
+  "Facts were read from the raw MediaWiki wikitext (infobox, lead, cast) of each English Wikipedia article, not full articles; plot/production sections were not read, so notes are limited to lead/infobox facts.",
+  "Skipped by the year rule: Paranormal Activity (article says 2007), Trick 'r Treat (2007 premiere), Funny Games US remake (2007), Mulberry Street (2006), Wrong Turn 2 (2007).",
+  "Settings/villains left blank where the lead did not state them (Orphan, Pontypool, Rec 2, Mirrors, Martyrs, Thirst setting, etc.).",
+  "Tokyo Gore Police setting 'Tokyo' and Dead Snow setting 'Mountains of Norway' inferred from title/lead.",
+  "Case 39: year 2009 based on New Zealand release Aug 13, 2009 (US release was 2010). Daybreakers/Loved Ones/Human Centipede/Triangle: festival premiere in 2009 used as first release.",
+  "Dead Snow, Rec 2, Mirrors: Mirrors writers left blank (not in text read); Rec 2 first-release date taken from infobox only.",
+  "Mirrors basedOn is paraphrased: article says script was a remake of Into the Mirror before being rewritten."
+ ]
+}

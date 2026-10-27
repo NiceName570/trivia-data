@@ -1,0 +1,1986 @@
+{
+  "season": 2026,
+  "snapshotAt": "2026-10-02T22:46:06.578Z",
+  "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=2026&seasontype=2&week=1&limit=100",
+    "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=2026&seasontype=2&week=2&limit=100",
+    "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=2026&seasontype=2&week=3&limit=100",
+    "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=2026&seasontype=2&week=4&limit=100"
+  ],
+  "games": [
+    {
+      "id": "401872656",
+      "week": 1,
+      "date": "2026-09-10T00:20Z",
+      "home": "Seattle Seahawks",
+      "away": "New England Patriots",
+      "homeAbbr": "SEA",
+      "awayAbbr": "NE",
+      "final": true,
+      "status": "Final",
+      "homeScore": 13,
+      "awayScore": 10,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Drew Lock",
+          "team": "SEA",
+          "stat": "16/22, 187 YDS, 1 TD",
+          "value": 187
+        },
+        {
+          "category": "Rush",
+          "name": "Jadarian Price",
+          "team": "SEA",
+          "stat": "10 CAR, 52 YDS",
+          "value": 52
+        },
+        {
+          "category": "Rec",
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "stat": "8 REC, 122 YDS, 1 TD",
+          "value": 122
+        }
+      ]
+    },
+    {
+      "id": "401872657",
+      "week": 1,
+      "date": "2026-09-11T00:35Z",
+      "home": "Los Angeles Rams",
+      "away": "San Francisco 49ers",
+      "homeAbbr": "LAR",
+      "awayAbbr": "SF",
+      "final": true,
+      "status": "Final",
+      "homeScore": 7,
+      "awayScore": 27,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Brock Purdy",
+          "team": "SF",
+          "stat": "25/34, 205 YDS, 3 TD, 1 INT",
+          "value": 205
+        },
+        {
+          "category": "Rush",
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "stat": "10 CAR, 68 YDS",
+          "value": 68
+        },
+        {
+          "category": "Rec",
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "stat": "5 REC, 74 YDS",
+          "value": 74
+        }
+      ]
+    },
+    {
+      "id": "401872925",
+      "week": 1,
+      "date": "2026-09-13T17:00Z",
+      "home": "Cincinnati Bengals",
+      "away": "Tampa Bay Buccaneers",
+      "homeAbbr": "CIN",
+      "awayAbbr": "TB",
+      "final": true,
+      "status": "Final",
+      "homeScore": 33,
+      "awayScore": 27,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Joe Burrow",
+          "team": "CIN",
+          "stat": "25/35, 254 YDS, 1 TD, 1 INT",
+          "value": 254
+        },
+        {
+          "category": "Rush",
+          "name": "Chase Brown",
+          "team": "CIN",
+          "stat": "16 CAR, 56 YDS, 1 TD",
+          "value": 56
+        },
+        {
+          "category": "Rec",
+          "name": "Mike Gesicki",
+          "team": "CIN",
+          "stat": "5 REC, 78 YDS, 1 TD",
+          "value": 78
+        }
+      ]
+    },
+    {
+      "id": "401872923",
+      "week": 1,
+      "date": "2026-09-13T17:00Z",
+      "home": "Detroit Lions",
+      "away": "New Orleans Saints",
+      "homeAbbr": "DET",
+      "awayAbbr": "NO",
+      "final": true,
+      "status": "Final/OT",
+      "homeScore": 31,
+      "awayScore": 30,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Tyler Shough",
+          "team": "NO",
+          "stat": "35/56, 410 YDS, 3 TD, 2 INT",
+          "value": 410
+        },
+        {
+          "category": "Rush",
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "stat": "29 CAR, 156 YDS, 2 TD",
+          "value": 156
+        },
+        {
+          "category": "Rec",
+          "name": "Chris Olave",
+          "team": "NO",
+          "stat": "10 REC, 182 YDS",
+          "value": 182
+        }
+      ]
+    },
+    {
+      "id": "401872924",
+      "week": 1,
+      "date": "2026-09-13T17:00Z",
+      "home": "Tennessee Titans",
+      "away": "New York Jets",
+      "homeAbbr": "TEN",
+      "awayAbbr": "NYJ",
+      "final": true,
+      "status": "Final",
+      "homeScore": 10,
+      "awayScore": 23,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Geno Smith",
+          "team": "NYJ",
+          "stat": "19/24, 215 YDS",
+          "value": 215
+        },
+        {
+          "category": "Rush",
+          "name": "Breece Hall",
+          "team": "NYJ",
+          "stat": "22 CAR, 102 YDS, 1 TD",
+          "value": 102
+        },
+        {
+          "category": "Rec",
+          "name": "Garrett Wilson",
+          "team": "NYJ",
+          "stat": "6 REC, 79 YDS",
+          "value": 79
+        }
+      ]
+    },
+    {
+      "id": "401872659",
+      "week": 1,
+      "date": "2026-09-13T17:00Z",
+      "home": "Indianapolis Colts",
+      "away": "Baltimore Ravens",
+      "homeAbbr": "IND",
+      "awayAbbr": "BAL",
+      "final": true,
+      "status": "Final",
+      "homeScore": 23,
+      "awayScore": 41,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Lamar Jackson",
+          "team": "BAL",
+          "stat": "17/25, 324 YDS, 1 TD",
+          "value": 324
+        },
+        {
+          "category": "Rush",
+          "name": "Derrick Henry",
+          "team": "BAL",
+          "stat": "24 CAR, 144 YDS, 3 TD",
+          "value": 144
+        },
+        {
+          "category": "Rec",
+          "name": "Zay Flowers",
+          "team": "BAL",
+          "stat": "5 REC, 150 YDS, 1 TD",
+          "value": 150
+        }
+      ]
+    },
+    {
+      "id": "401872658",
+      "week": 1,
+      "date": "2026-09-13T17:00Z",
+      "home": "Pittsburgh Steelers",
+      "away": "Atlanta Falcons",
+      "homeAbbr": "PIT",
+      "awayAbbr": "ATL",
+      "final": true,
+      "status": "Final",
+      "homeScore": 20,
+      "awayScore": 13,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Aaron Rodgers",
+          "team": "PIT",
+          "stat": "24/40, 221 YDS, 1 TD",
+          "value": 221
+        },
+        {
+          "category": "Rush",
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "stat": "21 CAR, 83 YDS",
+          "value": 83
+        },
+        {
+          "category": "Rec",
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "stat": "8 REC, 90 YDS, 1 TD",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "id": "401872661",
+      "week": 1,
+      "date": "2026-09-13T17:00Z",
+      "home": "Carolina Panthers",
+      "away": "Chicago Bears",
+      "homeAbbr": "CAR",
+      "awayAbbr": "CHI",
+      "final": true,
+      "status": "Final",
+      "homeScore": 37,
+      "awayScore": 59,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Bryce Young",
+          "team": "CAR",
+          "stat": "23/37, 361 YDS, 3 TD, 1 INT",
+          "value": 361
+        },
+        {
+          "category": "Rush",
+          "name": "D'Andre Swift",
+          "team": "CHI",
+          "stat": "18 CAR, 124 YDS, 3 TD",
+          "value": 124
+        },
+        {
+          "category": "Rec",
+          "name": "Jalen Coker",
+          "team": "CAR",
+          "stat": "8 REC, 138 YDS, 2 TD",
+          "value": 138
+        }
+      ]
+    },
+    {
+      "id": "401872922",
+      "week": 1,
+      "date": "2026-09-13T17:00Z",
+      "home": "Jacksonville Jaguars",
+      "away": "Cleveland Browns",
+      "homeAbbr": "JAX",
+      "awayAbbr": "CLE",
+      "final": true,
+      "status": "Final",
+      "homeScore": 34,
+      "awayScore": 10,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Trevor Lawrence",
+          "team": "JAX",
+          "stat": "18/23, 245 YDS, 4 TD",
+          "value": 245
+        },
+        {
+          "category": "Rush",
+          "name": "Bhayshul Tuten",
+          "team": "JAX",
+          "stat": "15 CAR, 66 YDS",
+          "value": 66
+        },
+        {
+          "category": "Rec",
+          "name": "Parker Washington",
+          "team": "JAX",
+          "stat": "5 REC, 83 YDS, 1 TD",
+          "value": 83
+        }
+      ]
+    },
+    {
+      "id": "401872660",
+      "week": 1,
+      "date": "2026-09-13T17:00Z",
+      "home": "Houston Texans",
+      "away": "Buffalo Bills",
+      "homeAbbr": "HOU",
+      "awayAbbr": "BUF",
+      "final": true,
+      "status": "Final",
+      "homeScore": 31,
+      "awayScore": 36,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Josh Allen",
+          "team": "BUF",
+          "stat": "20/29, 334 YDS, 2 TD",
+          "value": 334
+        },
+        {
+          "category": "Rush",
+          "name": "David Montgomery",
+          "team": "HOU",
+          "stat": "20 CAR, 60 YDS, 2 TD",
+          "value": 60
+        },
+        {
+          "category": "Rec",
+          "name": "Dalton Kincaid",
+          "team": "BUF",
+          "stat": "5 REC, 130 YDS",
+          "value": 130
+        }
+      ]
+    },
+    {
+      "id": "401872928",
+      "week": 1,
+      "date": "2026-09-13T20:25Z",
+      "home": "Las Vegas Raiders",
+      "away": "Miami Dolphins",
+      "homeAbbr": "LV",
+      "awayAbbr": "MIA",
+      "final": true,
+      "status": "Final",
+      "homeScore": 27,
+      "awayScore": 13,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Malik Willis",
+          "team": "MIA",
+          "stat": "15/27, 220 YDS, 1 INT",
+          "value": 220
+        },
+        {
+          "category": "Rush",
+          "name": "Ashton Jeanty",
+          "team": "LV",
+          "stat": "23 CAR, 102 YDS",
+          "value": 102
+        },
+        {
+          "category": "Rec",
+          "name": "Caleb Douglas",
+          "team": "MIA",
+          "stat": "5 REC, 94 YDS",
+          "value": 94
+        }
+      ]
+    },
+    {
+      "id": "401872927",
+      "week": 1,
+      "date": "2026-09-13T20:25Z",
+      "home": "Minnesota Vikings",
+      "away": "Green Bay Packers",
+      "homeAbbr": "MIN",
+      "awayAbbr": "GB",
+      "final": true,
+      "status": "Final",
+      "homeScore": 39,
+      "awayScore": 22,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Jordan Love",
+          "team": "GB",
+          "stat": "21/42, 387 YDS, 2 TD, 1 INT",
+          "value": 387
+        },
+        {
+          "category": "Rush",
+          "name": "Jordan Mason",
+          "team": "MIN",
+          "stat": "15 CAR, 59 YDS, 1 TD",
+          "value": 59
+        },
+        {
+          "category": "Rec",
+          "name": "Christian Watson",
+          "team": "GB",
+          "stat": "6 REC, 147 YDS, 2 TD",
+          "value": 147
+        }
+      ]
+    },
+    {
+      "id": "401872929",
+      "week": 1,
+      "date": "2026-09-13T20:25Z",
+      "home": "Philadelphia Eagles",
+      "away": "Washington Commanders",
+      "homeAbbr": "PHI",
+      "awayAbbr": "WSH",
+      "final": true,
+      "status": "Final",
+      "homeScore": 24,
+      "awayScore": 22,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Jalen Hurts",
+          "team": "PHI",
+          "stat": "14/25, 203 YDS, 3 TD",
+          "value": 203
+        },
+        {
+          "category": "Rush",
+          "name": "Saquon Barkley",
+          "team": "PHI",
+          "stat": "15 CAR, 83 YDS",
+          "value": 83
+        },
+        {
+          "category": "Rec",
+          "name": "Dallas Goedert",
+          "team": "PHI",
+          "stat": "4 REC, 77 YDS, 2 TD",
+          "value": 77
+        }
+      ]
+    },
+    {
+      "id": "401872926",
+      "week": 1,
+      "date": "2026-09-13T20:25Z",
+      "home": "Los Angeles Chargers",
+      "away": "Arizona Cardinals",
+      "homeAbbr": "LAC",
+      "awayAbbr": "ARI",
+      "final": true,
+      "status": "Final",
+      "homeScore": 14,
+      "awayScore": 26,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Jacoby Brissett",
+          "team": "ARI",
+          "stat": "27/37, 277 YDS, 1 TD",
+          "value": 277
+        },
+        {
+          "category": "Rush",
+          "name": "Tyler Allgeier",
+          "team": "ARI",
+          "stat": "17 CAR, 61 YDS",
+          "value": 61
+        },
+        {
+          "category": "Rec",
+          "name": "Trey McBride",
+          "team": "ARI",
+          "stat": "9 REC, 95 YDS, 1 TD",
+          "value": 95
+        }
+      ]
+    },
+    {
+      "id": "401872930",
+      "week": 1,
+      "date": "2026-09-14T00:20Z",
+      "home": "New York Giants",
+      "away": "Dallas Cowboys",
+      "homeAbbr": "NYG",
+      "awayAbbr": "DAL",
+      "final": true,
+      "status": "Final",
+      "homeScore": 28,
+      "awayScore": 20,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Jaxson Dart",
+          "team": "NYG",
+          "stat": "23/29, 230 YDS, 3 TD",
+          "value": 230
+        },
+        {
+          "category": "Rush",
+          "name": "Cam Skattebo",
+          "team": "NYG",
+          "stat": "18 CAR, 81 YDS, 1 TD",
+          "value": 81
+        },
+        {
+          "category": "Rec",
+          "name": "Isaiah Likely",
+          "team": "NYG",
+          "stat": "8 REC, 78 YDS, 2 TD",
+          "value": 78
+        }
+      ]
+    },
+    {
+      "id": "401872931",
+      "week": 1,
+      "date": "2026-09-15T00:15Z",
+      "home": "Kansas City Chiefs",
+      "away": "Denver Broncos",
+      "homeAbbr": "KC",
+      "awayAbbr": "DEN",
+      "final": true,
+      "status": "Final",
+      "homeScore": 31,
+      "awayScore": 10,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Patrick Mahomes",
+          "team": "KC",
+          "stat": "15/27, 184 YDS, 2 TD, 1 INT",
+          "value": 184
+        },
+        {
+          "category": "Rush",
+          "name": "Kenneth Walker III",
+          "team": "KC",
+          "stat": "23 CAR, 173 YDS, 1 TD",
+          "value": 173
+        },
+        {
+          "category": "Rec",
+          "name": "Travis Kelce",
+          "team": "KC",
+          "stat": "3 REC, 71 YDS",
+          "value": 71
+        }
+      ]
+    },
+    {
+      "id": "401872932",
+      "week": 2,
+      "date": "2026-09-18T00:15Z",
+      "home": "Buffalo Bills",
+      "away": "Detroit Lions",
+      "homeAbbr": "BUF",
+      "awayAbbr": "DET",
+      "final": true,
+      "status": "Final",
+      "homeScore": 41,
+      "awayScore": 31,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Jared Goff",
+          "team": "DET",
+          "stat": "26/38, 327 YDS, 4 TD",
+          "value": 327
+        },
+        {
+          "category": "Rush",
+          "name": "James Cook III",
+          "team": "BUF",
+          "stat": "21 CAR, 135 YDS, 1 TD",
+          "value": 135
+        },
+        {
+          "category": "Rec",
+          "name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "stat": "9 REC, 142 YDS, 2 TD",
+          "value": 142
+        }
+      ]
+    },
+    {
+      "id": "401872933",
+      "week": 2,
+      "date": "2026-09-20T17:00Z",
+      "home": "Atlanta Falcons",
+      "away": "Carolina Panthers",
+      "homeAbbr": "ATL",
+      "awayAbbr": "CAR",
+      "final": true,
+      "status": "Final",
+      "homeScore": 3,
+      "awayScore": 34,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Bryce Young",
+          "team": "CAR",
+          "stat": "23/36, 287 YDS, 3 TD",
+          "value": 287
+        },
+        {
+          "category": "Rush",
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "stat": "16 CAR, 72 YDS",
+          "value": 72
+        },
+        {
+          "category": "Rec",
+          "name": "Tetairoa McMillan",
+          "team": "CAR",
+          "stat": "5 REC, 101 YDS",
+          "value": 101
+        }
+      ]
+    },
+    {
+      "id": "401872937",
+      "week": 2,
+      "date": "2026-09-20T17:00Z",
+      "home": "Chicago Bears",
+      "away": "Minnesota Vikings",
+      "homeAbbr": "CHI",
+      "awayAbbr": "MIN",
+      "final": true,
+      "status": "Final",
+      "homeScore": 3,
+      "awayScore": 9,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Carson Wentz",
+          "team": "MIN",
+          "stat": "11/20, 143 YDS",
+          "value": 143
+        },
+        {
+          "category": "Rush",
+          "name": "Aaron Jones Sr.",
+          "team": "MIN",
+          "stat": "23 CAR, 105 YDS",
+          "value": 105
+        },
+        {
+          "category": "Rec",
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "stat": "3 REC, 55 YDS",
+          "value": 55
+        }
+      ]
+    },
+    {
+      "id": "401872939",
+      "week": 2,
+      "date": "2026-09-20T17:00Z",
+      "home": "Tennessee Titans",
+      "away": "Philadelphia Eagles",
+      "homeAbbr": "TEN",
+      "awayAbbr": "PHI",
+      "final": true,
+      "status": "Final",
+      "homeScore": 20,
+      "awayScore": 24,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Jalen Hurts",
+          "team": "PHI",
+          "stat": "26/37, 264 YDS, 2 TD, 2 INT",
+          "value": 264
+        },
+        {
+          "category": "Rush",
+          "name": "Tony Pollard",
+          "team": "TEN",
+          "stat": "14 CAR, 64 YDS",
+          "value": 64
+        },
+        {
+          "category": "Rec",
+          "name": "DeVonta Smith",
+          "team": "PHI",
+          "stat": "10 REC, 117 YDS, 1 TD",
+          "value": 117
+        }
+      ]
+    },
+    {
+      "id": "401872946",
+      "week": 2,
+      "date": "2026-09-20T17:00Z",
+      "home": "New England Patriots",
+      "away": "Pittsburgh Steelers",
+      "homeAbbr": "NE",
+      "awayAbbr": "PIT",
+      "final": true,
+      "status": "Final",
+      "homeScore": 20,
+      "awayScore": 3,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Drake Maye",
+          "team": "NE",
+          "stat": "14/22, 208 YDS, 1 INT",
+          "value": 208
+        },
+        {
+          "category": "Rush",
+          "name": "TreVeyon Henderson",
+          "team": "NE",
+          "stat": "16 CAR, 76 YDS, 1 TD",
+          "value": 76
+        },
+        {
+          "category": "Rec",
+          "name": "Romeo Doubs",
+          "team": "NE",
+          "stat": "3 REC, 96 YDS",
+          "value": 96
+        }
+      ]
+    },
+    {
+      "id": "401872936",
+      "week": 2,
+      "date": "2026-09-20T17:00Z",
+      "home": "New York Jets",
+      "away": "Green Bay Packers",
+      "homeAbbr": "NYJ",
+      "awayAbbr": "GB",
+      "final": true,
+      "status": "Final/OT",
+      "homeScore": 17,
+      "awayScore": 20,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Geno Smith",
+          "team": "NYJ",
+          "stat": "27/41, 247 YDS, 1 TD",
+          "value": 247
+        },
+        {
+          "category": "Rush",
+          "name": "Kaleb Johnson",
+          "team": "GB",
+          "stat": "8 CAR, 32 YDS",
+          "value": 32
+        },
+        {
+          "category": "Rec",
+          "name": "Breece Hall",
+          "team": "NYJ",
+          "stat": "5 REC, 63 YDS",
+          "value": 63
+        }
+      ]
+    },
+    {
+      "id": "401872935",
+      "week": 2,
+      "date": "2026-09-20T17:00Z",
+      "home": "Tampa Bay Buccaneers",
+      "away": "Cleveland Browns",
+      "homeAbbr": "TB",
+      "awayAbbr": "CLE",
+      "final": true,
+      "status": "Final",
+      "homeScore": 19,
+      "awayScore": 23,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Deshaun Watson",
+          "team": "CLE",
+          "stat": "24/30, 238 YDS, 2 TD",
+          "value": 238
+        },
+        {
+          "category": "Rush",
+          "name": "Bucky Irving",
+          "team": "TB",
+          "stat": "17 CAR, 89 YDS",
+          "value": 89
+        },
+        {
+          "category": "Rec",
+          "name": "Denzel Boston",
+          "team": "CLE",
+          "stat": "5 REC, 95 YDS, 1 TD",
+          "value": 95
+        }
+      ]
+    },
+    {
+      "id": "401872938",
+      "week": 2,
+      "date": "2026-09-20T17:00Z",
+      "home": "Baltimore Ravens",
+      "away": "New Orleans Saints",
+      "homeAbbr": "BAL",
+      "awayAbbr": "NO",
+      "final": true,
+      "status": "Final",
+      "homeScore": 17,
+      "awayScore": 24,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Tyler Shough",
+          "team": "NO",
+          "stat": "27/34, 252 YDS, 1 TD",
+          "value": 252
+        },
+        {
+          "category": "Rush",
+          "name": "Derrick Henry",
+          "team": "BAL",
+          "stat": "16 CAR, 68 YDS, 1 TD",
+          "value": 68
+        },
+        {
+          "category": "Rec",
+          "name": "Rashod Bateman",
+          "team": "BAL",
+          "stat": "7 REC, 88 YDS, 1 TD",
+          "value": 88
+        }
+      ]
+    },
+    {
+      "id": "401872934",
+      "week": 2,
+      "date": "2026-09-20T17:00Z",
+      "home": "Houston Texans",
+      "away": "Cincinnati Bengals",
+      "homeAbbr": "HOU",
+      "awayAbbr": "CIN",
+      "final": true,
+      "status": "Final",
+      "homeScore": 6,
+      "awayScore": 20,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "C.J. Stroud",
+          "team": "HOU",
+          "stat": "30/55, 353 YDS",
+          "value": 353
+        },
+        {
+          "category": "Rush",
+          "name": "Chase Brown",
+          "team": "CIN",
+          "stat": "20 CAR, 80 YDS",
+          "value": 80
+        },
+        {
+          "category": "Rec",
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "stat": "12 REC, 140 YDS",
+          "value": 140
+        }
+      ]
+    },
+    {
+      "id": "401872940",
+      "week": 2,
+      "date": "2026-09-20T20:05Z",
+      "home": "Denver Broncos",
+      "away": "Jacksonville Jaguars",
+      "homeAbbr": "DEN",
+      "awayAbbr": "JAX",
+      "final": true,
+      "status": "Final",
+      "homeScore": 20,
+      "awayScore": 13,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Bo Nix",
+          "team": "DEN",
+          "stat": "22/31, 288 YDS, 1 TD, 1 INT",
+          "value": 288
+        },
+        {
+          "category": "Rush",
+          "name": "Bhayshul Tuten",
+          "team": "JAX",
+          "stat": "13 CAR, 65 YDS, 1 TD",
+          "value": 65
+        },
+        {
+          "category": "Rec",
+          "name": "Jaylen Waddle",
+          "team": "DEN",
+          "stat": "8 REC, 138 YDS",
+          "value": 138
+        }
+      ]
+    },
+    {
+      "id": "401872941",
+      "week": 2,
+      "date": "2026-09-20T20:05Z",
+      "home": "Los Angeles Chargers",
+      "away": "Las Vegas Raiders",
+      "homeAbbr": "LAC",
+      "awayAbbr": "LV",
+      "final": true,
+      "status": "Final",
+      "homeScore": 14,
+      "awayScore": 26,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Kirk Cousins",
+          "team": "LV",
+          "stat": "19/29, 253 YDS, 3 TD, 1 INT",
+          "value": 253
+        },
+        {
+          "category": "Rush",
+          "name": "Omarion Hampton",
+          "team": "LAC",
+          "stat": "23 CAR, 94 YDS, 1 TD",
+          "value": 94
+        },
+        {
+          "category": "Rec",
+          "name": "Tre Tucker",
+          "team": "LV",
+          "stat": "5 REC, 119 YDS, 1 TD",
+          "value": 119
+        }
+      ]
+    },
+    {
+      "id": "401872944",
+      "week": 2,
+      "date": "2026-09-20T20:25Z",
+      "home": "Dallas Cowboys",
+      "away": "Washington Commanders",
+      "homeAbbr": "DAL",
+      "awayAbbr": "WSH",
+      "final": true,
+      "status": "Final",
+      "homeScore": 37,
+      "awayScore": 20,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "stat": "26/31, 279 YDS, 4 TD",
+          "value": 279
+        },
+        {
+          "category": "Rush",
+          "name": "Jayden Daniels",
+          "team": "WSH",
+          "stat": "7 CAR, 69 YDS",
+          "value": 69
+        },
+        {
+          "category": "Rec",
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "stat": "8 REC, 153 YDS, 2 TD",
+          "value": 153
+        }
+      ]
+    },
+    {
+      "id": "401872943",
+      "week": 2,
+      "date": "2026-09-20T20:25Z",
+      "home": "Arizona Cardinals",
+      "away": "Seattle Seahawks",
+      "homeAbbr": "ARI",
+      "awayAbbr": "SEA",
+      "final": true,
+      "status": "Final",
+      "homeScore": 7,
+      "awayScore": 31,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Drew Lock",
+          "team": "SEA",
+          "stat": "19/26, 235 YDS, 3 TD",
+          "value": 235
+        },
+        {
+          "category": "Rush",
+          "name": "Emanuel Wilson",
+          "team": "SEA",
+          "stat": "21 CAR, 92 YDS",
+          "value": 92
+        },
+        {
+          "category": "Rec",
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "stat": "9 REC, 155 YDS, 3 TD",
+          "value": 155
+        }
+      ]
+    },
+    {
+      "id": "401872942",
+      "week": 2,
+      "date": "2026-09-20T20:25Z",
+      "home": "San Francisco 49ers",
+      "away": "Miami Dolphins",
+      "homeAbbr": "SF",
+      "awayAbbr": "MIA",
+      "final": true,
+      "status": "Final",
+      "homeScore": 35,
+      "awayScore": 13,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Brock Purdy",
+          "team": "SF",
+          "stat": "20/22, 287 YDS, 2 TD",
+          "value": 287
+        },
+        {
+          "category": "Rush",
+          "name": "De'Von Achane",
+          "team": "MIA",
+          "stat": "20 CAR, 74 YDS",
+          "value": 74
+        },
+        {
+          "category": "Rec",
+          "name": "George Kittle",
+          "team": "SF",
+          "stat": "4 REC, 80 YDS, 1 TD",
+          "value": 80
+        }
+      ]
+    },
+    {
+      "id": "401872945",
+      "week": 2,
+      "date": "2026-09-21T00:20Z",
+      "home": "Kansas City Chiefs",
+      "away": "Indianapolis Colts",
+      "homeAbbr": "KC",
+      "awayAbbr": "IND",
+      "final": true,
+      "status": "Final/OT",
+      "homeScore": 33,
+      "awayScore": 30,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Patrick Mahomes",
+          "team": "KC",
+          "stat": "32/47, 382 YDS, 3 TD",
+          "value": 382
+        },
+        {
+          "category": "Rush",
+          "name": "Kenneth Walker III",
+          "team": "KC",
+          "stat": "24 CAR, 117 YDS",
+          "value": 117
+        },
+        {
+          "category": "Rec",
+          "name": "Travis Kelce",
+          "team": "KC",
+          "stat": "9 REC, 101 YDS, 1 TD",
+          "value": 101
+        }
+      ]
+    },
+    {
+      "id": "401872947",
+      "week": 2,
+      "date": "2026-09-22T00:15Z",
+      "home": "Los Angeles Rams",
+      "away": "New York Giants",
+      "homeAbbr": "LAR",
+      "awayAbbr": "NYG",
+      "final": true,
+      "status": "Final",
+      "homeScore": 28,
+      "awayScore": 6,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Matthew Stafford",
+          "team": "LAR",
+          "stat": "22/31, 327 YDS, 4 TD, 1 INT",
+          "value": 327
+        },
+        {
+          "category": "Rush",
+          "name": "Kyren Williams",
+          "team": "LAR",
+          "stat": "12 CAR, 85 YDS",
+          "value": 85
+        },
+        {
+          "category": "Rec",
+          "name": "Davante Adams",
+          "team": "LAR",
+          "stat": "8 REC, 195 YDS, 2 TD",
+          "value": 195
+        }
+      ]
+    },
+    {
+      "id": "401872948",
+      "week": 3,
+      "date": "2026-09-25T00:15Z",
+      "home": "Green Bay Packers",
+      "away": "Atlanta Falcons",
+      "homeAbbr": "GB",
+      "awayAbbr": "ATL",
+      "final": true,
+      "status": "Final",
+      "homeScore": 14,
+      "awayScore": 35,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Jordan Love",
+          "team": "GB",
+          "stat": "28/53, 312 YDS, 2 TD, 1 INT",
+          "value": 312
+        },
+        {
+          "category": "Rush",
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "stat": "29 CAR, 194 YDS, 2 TD",
+          "value": 194
+        },
+        {
+          "category": "Rec",
+          "name": "Drake London",
+          "team": "ATL",
+          "stat": "9 REC, 194 YDS",
+          "value": 194
+        }
+      ]
+    },
+    {
+      "id": "401872953",
+      "week": 3,
+      "date": "2026-09-27T17:00Z",
+      "home": "Buffalo Bills",
+      "away": "Los Angeles Chargers",
+      "homeAbbr": "BUF",
+      "awayAbbr": "LAC",
+      "final": true,
+      "status": "Final",
+      "homeScore": 24,
+      "awayScore": 16,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Justin Herbert",
+          "team": "LAC",
+          "stat": "20/34, 226 YDS, 1 TD, 1 INT",
+          "value": 226
+        },
+        {
+          "category": "Rush",
+          "name": "James Cook III",
+          "team": "BUF",
+          "stat": "24 CAR, 154 YDS, 1 TD",
+          "value": 154
+        },
+        {
+          "category": "Rec",
+          "name": "Tre' Harris",
+          "team": "LAC",
+          "stat": "6 REC, 76 YDS",
+          "value": 76
+        }
+      ]
+    },
+    {
+      "id": "401872949",
+      "week": 3,
+      "date": "2026-09-27T17:00Z",
+      "home": "Cleveland Browns",
+      "away": "Carolina Panthers",
+      "homeAbbr": "CLE",
+      "awayAbbr": "CAR",
+      "final": true,
+      "status": "Final",
+      "homeScore": 21,
+      "awayScore": 18,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Bryce Young",
+          "team": "CAR",
+          "stat": "26/48, 291 YDS, 1 TD, 1 INT",
+          "value": 291
+        },
+        {
+          "category": "Rush",
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "stat": "19 CAR, 82 YDS",
+          "value": 82
+        },
+        {
+          "category": "Rec",
+          "name": "Brycen Tremayne",
+          "team": "CAR",
+          "stat": "4 REC, 83 YDS",
+          "value": 83
+        }
+      ]
+    },
+    {
+      "id": "401872954",
+      "week": 3,
+      "date": "2026-09-27T17:00Z",
+      "home": "Detroit Lions",
+      "away": "New York Jets",
+      "homeAbbr": "DET",
+      "awayAbbr": "NYJ",
+      "final": true,
+      "status": "Final",
+      "homeScore": 31,
+      "awayScore": 24,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Geno Smith",
+          "team": "NYJ",
+          "stat": "31/37, 321 YDS, 3 TD",
+          "value": 321
+        },
+        {
+          "category": "Rush",
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "stat": "20 CAR, 99 YDS, 2 TD",
+          "value": 99
+        },
+        {
+          "category": "Rec",
+          "name": "Garrett Wilson",
+          "team": "NYJ",
+          "stat": "10 REC, 107 YDS, 1 TD",
+          "value": 107
+        }
+      ]
+    },
+    {
+      "id": "401872951",
+      "week": 3,
+      "date": "2026-09-27T17:00Z",
+      "home": "Indianapolis Colts",
+      "away": "Houston Texans",
+      "homeAbbr": "IND",
+      "awayAbbr": "HOU",
+      "final": true,
+      "status": "Final",
+      "homeScore": 19,
+      "awayScore": 17,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Daniel Jones",
+          "team": "IND",
+          "stat": "24/36, 235 YDS, 1 TD, 1 INT",
+          "value": 235
+        },
+        {
+          "category": "Rush",
+          "name": "Jonathan Taylor",
+          "team": "IND",
+          "stat": "23 CAR, 68 YDS",
+          "value": 68
+        },
+        {
+          "category": "Rec",
+          "name": "Josh Downs",
+          "team": "IND",
+          "stat": "5 REC, 77 YDS",
+          "value": 77
+        }
+      ]
+    },
+    {
+      "id": "401872952",
+      "week": 3,
+      "date": "2026-09-27T17:00Z",
+      "home": "Miami Dolphins",
+      "away": "Kansas City Chiefs",
+      "homeAbbr": "MIA",
+      "awayAbbr": "KC",
+      "final": true,
+      "status": "Final",
+      "homeScore": 10,
+      "awayScore": 24,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Patrick Mahomes",
+          "team": "KC",
+          "stat": "20/24, 246 YDS, 2 TD, 1 INT",
+          "value": 246
+        },
+        {
+          "category": "Rush",
+          "name": "Kenneth Walker III",
+          "team": "KC",
+          "stat": "18 CAR, 70 YDS, 1 TD",
+          "value": 70
+        },
+        {
+          "category": "Rec",
+          "name": "Rashee Rice",
+          "team": "KC",
+          "stat": "7 REC, 88 YDS",
+          "value": 88
+        }
+      ]
+    },
+    {
+      "id": "401872956",
+      "week": 3,
+      "date": "2026-09-27T17:00Z",
+      "home": "New York Giants",
+      "away": "Tennessee Titans",
+      "homeAbbr": "NYG",
+      "awayAbbr": "TEN",
+      "final": true,
+      "status": "Final",
+      "homeScore": 12,
+      "awayScore": 7,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Cam Ward",
+          "team": "TEN",
+          "stat": "23/36, 181 YDS, 1 TD, 1 INT",
+          "value": 181
+        },
+        {
+          "category": "Rush",
+          "name": "Tony Pollard",
+          "team": "TEN",
+          "stat": "17 CAR, 74 YDS",
+          "value": 74
+        },
+        {
+          "category": "Rec",
+          "name": "Carnell Tate",
+          "team": "TEN",
+          "stat": "6 REC, 58 YDS",
+          "value": 58
+        }
+      ]
+    },
+    {
+      "id": "401872950",
+      "week": 3,
+      "date": "2026-09-27T17:00Z",
+      "home": "Pittsburgh Steelers",
+      "away": "Cincinnati Bengals",
+      "homeAbbr": "PIT",
+      "awayAbbr": "CIN",
+      "final": true,
+      "status": "Final",
+      "homeScore": 30,
+      "awayScore": 27,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Aaron Rodgers",
+          "team": "PIT",
+          "stat": "19/34, 292 YDS, 3 TD, 1 INT",
+          "value": 292
+        },
+        {
+          "category": "Rush",
+          "name": "Jaylen Warren",
+          "team": "PIT",
+          "stat": "17 CAR, 127 YDS",
+          "value": 127
+        },
+        {
+          "category": "Rec",
+          "name": "Ja'Marr Chase",
+          "team": "CIN",
+          "stat": "9 REC, 98 YDS, 1 TD",
+          "value": 98
+        }
+      ]
+    },
+    {
+      "id": "401872955",
+      "week": 3,
+      "date": "2026-09-27T17:00Z",
+      "home": "Washington Commanders",
+      "away": "Seattle Seahawks",
+      "homeAbbr": "WSH",
+      "awayAbbr": "SEA",
+      "final": true,
+      "status": "Final",
+      "homeScore": 33,
+      "awayScore": 31,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Sam Darnold",
+          "team": "SEA",
+          "stat": "31/45, 379 YDS, 4 TD, 2 INT",
+          "value": 379
+        },
+        {
+          "category": "Rush",
+          "name": "Jacory Croskey-Merritt",
+          "team": "WSH",
+          "stat": "19 CAR, 36 YDS",
+          "value": 36
+        },
+        {
+          "category": "Rec",
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "stat": "10 REC, 128 YDS, 2 TD",
+          "value": 128
+        }
+      ]
+    },
+    {
+      "id": "401872957",
+      "week": 3,
+      "date": "2026-09-27T17:00Z",
+      "home": "Jacksonville Jaguars",
+      "away": "New England Patriots",
+      "homeAbbr": "JAX",
+      "awayAbbr": "NE",
+      "final": true,
+      "status": "Final",
+      "homeScore": 35,
+      "awayScore": 6,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Drake Maye",
+          "team": "NE",
+          "stat": "14/25, 199 YDS, 2 INT",
+          "value": 199
+        },
+        {
+          "category": "Rush",
+          "name": "Bhayshul Tuten",
+          "team": "JAX",
+          "stat": "15 CAR, 73 YDS, 1 TD",
+          "value": 73
+        },
+        {
+          "category": "Rec",
+          "name": "Mack Hollins",
+          "team": "NE",
+          "stat": "6 REC, 87 YDS",
+          "value": 87
+        }
+      ]
+    },
+    {
+      "id": "401872958",
+      "week": 3,
+      "date": "2026-09-27T20:05Z",
+      "home": "San Francisco 49ers",
+      "away": "Arizona Cardinals",
+      "homeAbbr": "SF",
+      "awayAbbr": "ARI",
+      "final": true,
+      "status": "Final",
+      "homeScore": 36,
+      "awayScore": 30,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Brock Purdy",
+          "team": "SF",
+          "stat": "15/27, 297 YDS, 4 TD",
+          "value": 297
+        },
+        {
+          "category": "Rush",
+          "name": "Jeremiyah Love",
+          "team": "ARI",
+          "stat": "21 CAR, 90 YDS",
+          "value": 90
+        },
+        {
+          "category": "Rec",
+          "name": "Michael Wilson",
+          "team": "ARI",
+          "stat": "11 REC, 89 YDS, 1 TD",
+          "value": 89
+        }
+      ]
+    },
+    {
+      "id": "401872959",
+      "week": 3,
+      "date": "2026-09-27T20:05Z",
+      "home": "Tampa Bay Buccaneers",
+      "away": "Minnesota Vikings",
+      "homeAbbr": "TB",
+      "awayAbbr": "MIN",
+      "final": true,
+      "status": "Final",
+      "homeScore": 16,
+      "awayScore": 23,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Baker Mayfield",
+          "team": "TB",
+          "stat": "17/34, 217 YDS, 1 TD, 1 INT",
+          "value": 217
+        },
+        {
+          "category": "Rush",
+          "name": "Aaron Jones Sr.",
+          "team": "MIN",
+          "stat": "17 CAR, 58 YDS",
+          "value": 58
+        },
+        {
+          "category": "Rec",
+          "name": "Jordan Addison",
+          "team": "MIN",
+          "stat": "5 REC, 90 YDS, 1 TD",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "id": "401872960",
+      "week": 3,
+      "date": "2026-09-27T20:25Z",
+      "home": "Dallas Cowboys",
+      "away": "Baltimore Ravens",
+      "homeAbbr": "DAL",
+      "awayAbbr": "BAL",
+      "final": true,
+      "status": "Final",
+      "homeScore": 31,
+      "awayScore": 34,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "stat": "25/40, 276 YDS, 1 TD",
+          "value": 276
+        },
+        {
+          "category": "Rush",
+          "name": "Javonte Williams",
+          "team": "DAL",
+          "stat": "19 CAR, 98 YDS, 1 TD",
+          "value": 98
+        },
+        {
+          "category": "Rec",
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "stat": "7 REC, 112 YDS",
+          "value": 112
+        }
+      ]
+    },
+    {
+      "id": "401872961",
+      "week": 3,
+      "date": "2026-09-27T20:25Z",
+      "home": "New Orleans Saints",
+      "away": "Las Vegas Raiders",
+      "homeAbbr": "NO",
+      "awayAbbr": "LV",
+      "final": true,
+      "status": "Final",
+      "homeScore": 27,
+      "awayScore": 35,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Tyler Shough",
+          "team": "NO",
+          "stat": "29/42, 255 YDS, 4 TD, 1 INT",
+          "value": 255
+        },
+        {
+          "category": "Rush",
+          "name": "Travis Etienne Jr.",
+          "team": "NO",
+          "stat": "13 CAR, 57 YDS",
+          "value": 57
+        },
+        {
+          "category": "Rec",
+          "name": "Brock Bowers",
+          "team": "LV",
+          "stat": "10 REC, 116 YDS, 1 TD",
+          "value": 116
+        }
+      ]
+    },
+    {
+      "id": "401872962",
+      "week": 3,
+      "date": "2026-09-28T00:20Z",
+      "home": "Denver Broncos",
+      "away": "Los Angeles Rams",
+      "homeAbbr": "DEN",
+      "awayAbbr": "LAR",
+      "final": true,
+      "status": "Final",
+      "homeScore": 30,
+      "awayScore": 26,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Matthew Stafford",
+          "team": "LAR",
+          "stat": "30/55, 390 YDS, 2 TD, 2 INT",
+          "value": 390
+        },
+        {
+          "category": "Rush",
+          "name": "Kyren Williams",
+          "team": "LAR",
+          "stat": "15 CAR, 88 YDS",
+          "value": 88
+        },
+        {
+          "category": "Rec",
+          "name": "Davante Adams",
+          "team": "LAR",
+          "stat": "7 REC, 137 YDS",
+          "value": 137
+        }
+      ]
+    },
+    {
+      "id": "401872963",
+      "week": 3,
+      "date": "2026-09-29T00:15Z",
+      "home": "Chicago Bears",
+      "away": "Philadelphia Eagles",
+      "homeAbbr": "CHI",
+      "awayAbbr": "PHI",
+      "final": true,
+      "status": "Final",
+      "homeScore": 27,
+      "awayScore": 7,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Case Keenum",
+          "team": "CHI",
+          "stat": "24/34, 247 YDS, 2 TD",
+          "value": 247
+        },
+        {
+          "category": "Rush",
+          "name": "D'Andre Swift",
+          "team": "CHI",
+          "stat": "20 CAR, 84 YDS",
+          "value": 84
+        },
+        {
+          "category": "Rec",
+          "name": "Kalif Raymond",
+          "team": "CHI",
+          "stat": "6 REC, 90 YDS, 1 TD",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "id": "401872964",
+      "week": 4,
+      "date": "2026-10-02T00:15Z",
+      "home": "Cleveland Browns",
+      "away": "Pittsburgh Steelers",
+      "homeAbbr": "CLE",
+      "awayAbbr": "PIT",
+      "final": true,
+      "status": "Final",
+      "homeScore": 27,
+      "awayScore": 24,
+      "leaders": [
+        {
+          "category": "Pass",
+          "name": "Aaron Rodgers",
+          "team": "PIT",
+          "stat": "22/40, 299 YDS, 3 TD, 2 INT",
+          "value": 299
+        },
+        {
+          "category": "Rush",
+          "name": "Jaylen Warren",
+          "team": "PIT",
+          "stat": "17 CAR, 93 YDS",
+          "value": 93
+        },
+        {
+          "category": "Rec",
+          "name": "DK Metcalf",
+          "team": "PIT",
+          "stat": "5 REC, 115 YDS",
+          "value": 115
+        }
+      ]
+    },
+    {
+      "id": "401872965",
+      "week": 4,
+      "date": "2026-10-04T13:30Z",
+      "home": "Washington Commanders",
+      "away": "Indianapolis Colts",
+      "homeAbbr": "WSH",
+      "awayAbbr": "IND",
+      "final": false,
+      "status": "10/4 - 9:30 AM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872971",
+      "week": 4,
+      "date": "2026-10-04T17:00Z",
+      "home": "Buffalo Bills",
+      "away": "New England Patriots",
+      "homeAbbr": "BUF",
+      "awayAbbr": "NE",
+      "final": false,
+      "status": "10/4 - 1:00 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872972",
+      "week": 4,
+      "date": "2026-10-04T17:00Z",
+      "home": "Chicago Bears",
+      "away": "New York Jets",
+      "homeAbbr": "CHI",
+      "awayAbbr": "NYJ",
+      "final": false,
+      "status": "10/4 - 1:00 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872969",
+      "week": 4,
+      "date": "2026-10-04T17:00Z",
+      "home": "Cincinnati Bengals",
+      "away": "Jacksonville Jaguars",
+      "homeAbbr": "CIN",
+      "awayAbbr": "JAX",
+      "final": false,
+      "status": "10/4 - 1:00 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872966",
+      "week": 4,
+      "date": "2026-10-04T17:00Z",
+      "home": "New York Giants",
+      "away": "Arizona Cardinals",
+      "homeAbbr": "NYG",
+      "awayAbbr": "ARI",
+      "final": false,
+      "status": "10/4 - 1:00 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872970",
+      "week": 4,
+      "date": "2026-10-04T17:00Z",
+      "home": "Philadelphia Eagles",
+      "away": "Los Angeles Rams",
+      "homeAbbr": "PHI",
+      "awayAbbr": "LAR",
+      "final": false,
+      "status": "10/4 - 1:00 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872968",
+      "week": 4,
+      "date": "2026-10-04T17:00Z",
+      "home": "Tampa Bay Buccaneers",
+      "away": "Green Bay Packers",
+      "homeAbbr": "TB",
+      "awayAbbr": "GB",
+      "final": false,
+      "status": "10/4 - 1:00 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872973",
+      "week": 4,
+      "date": "2026-10-04T17:00Z",
+      "home": "Baltimore Ravens",
+      "away": "Tennessee Titans",
+      "homeAbbr": "BAL",
+      "awayAbbr": "TEN",
+      "final": false,
+      "status": "10/4 - 1:00 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872967",
+      "week": 4,
+      "date": "2026-10-04T17:00Z",
+      "home": "Houston Texans",
+      "away": "Dallas Cowboys",
+      "homeAbbr": "HOU",
+      "awayAbbr": "DAL",
+      "final": false,
+      "status": "10/4 - 1:00 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872974",
+      "week": 4,
+      "date": "2026-10-04T20:05Z",
+      "home": "Minnesota Vikings",
+      "away": "Miami Dolphins",
+      "homeAbbr": "MIN",
+      "awayAbbr": "MIA",
+      "final": false,
+      "status": "10/4 - 4:05 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872976",
+      "week": 4,
+      "date": "2026-10-04T20:25Z",
+      "home": "Las Vegas Raiders",
+      "away": "Kansas City Chiefs",
+      "homeAbbr": "LV",
+      "awayAbbr": "KC",
+      "final": false,
+      "status": "10/4 - 4:25 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872975",
+      "week": 4,
+      "date": "2026-10-04T20:25Z",
+      "home": "San Francisco 49ers",
+      "away": "Denver Broncos",
+      "homeAbbr": "SF",
+      "awayAbbr": "DEN",
+      "final": false,
+      "status": "10/4 - 4:25 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872977",
+      "week": 4,
+      "date": "2026-10-04T20:25Z",
+      "home": "Seattle Seahawks",
+      "away": "Los Angeles Chargers",
+      "homeAbbr": "SEA",
+      "awayAbbr": "LAC",
+      "final": false,
+      "status": "10/4 - 4:25 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872978",
+      "week": 4,
+      "date": "2026-10-05T00:20Z",
+      "home": "Carolina Panthers",
+      "away": "Detroit Lions",
+      "homeAbbr": "CAR",
+      "awayAbbr": "DET",
+      "final": false,
+      "status": "10/4 - 8:20 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    },
+    {
+      "id": "401872979",
+      "week": 4,
+      "date": "2026-10-06T00:15Z",
+      "home": "New Orleans Saints",
+      "away": "Atlanta Falcons",
+      "homeAbbr": "NO",
+      "awayAbbr": "ATL",
+      "final": false,
+      "status": "10/5 - 8:15 PM EDT",
+      "homeScore": null,
+      "awayScore": null,
+      "leaders": []
+    }
+  ]
+}

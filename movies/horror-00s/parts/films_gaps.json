@@ -1,0 +1,590 @@
+{
+ "films": [
+  {
+   "title": "Paranormal Activity",
+   "altTitles": [],
+   "year": 2007,
+   "yearNote": "Festival premiere at Screamfest Oct 14, 2007; limited US release Sept 25, 2009; nationwide Oct 16, 2009",
+   "tier": 1,
+   "genreNote": "supernatural found-footage horror",
+   "director": "Oren Peli",
+   "writers": "Oren Peli",
+   "basedOn": "",
+   "distributor": "Paramount Pictures",
+   "setting": "San Diego home",
+   "cast": [
+    [
+     "Katie Featherston",
+     "Katie (fictionalized version of herself)"
+    ],
+    [
+     "Micah Sloat",
+     "Micah (fictionalized version of himself)"
+    ],
+    [
+     "Mark Fredrichs",
+     "Dr. Fredrichs"
+    ],
+    [
+     "Amber Armstrong",
+     "Katie's friend"
+    ]
+   ],
+   "villain": "Unseen demonic presence that has haunted Katie since childhood and feeds on negative energy",
+   "boxOffice": "$194.2M worldwide on $15,000-$450,000 budget",
+   "notes": [
+    "Produced, written, directed, photographed and edited by Oren Peli",
+    "Shot for $15,000 on a home video camera, mostly on a tripod",
+    "Acquired by DreamWorks (then a Paramount subsidiary); new ending cost an additional $200,000",
+    "Original ending shown only at 2007 Screamfest; two new endings developed after the acquisition",
+    "~$108M US and ~$85M international",
+    "Often cited as most profitable film by return on investment, though hard to verify; first of the series"
+   ],
+   "sources": [
+    "wp:Paranormal_Activity"
+   ]
+  },
+  {
+   "title": "Hellboy",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "superhero / supernatural action",
+   "director": "Guillermo del Toro",
+   "writers": "del Toro (story: del Toro, Peter Briggs)",
+   "basedOn": "Hellboy comic by Mike Mignola (Dark Horse Comics)",
+   "distributor": "Columbia Pictures (Sony Pictures Releasing)",
+   "setting": "",
+   "cast": [
+    [
+     "Ron Perlman",
+     "Hellboy"
+    ],
+    [
+     "Selma Blair",
+     "Liz Sherman"
+    ],
+    [
+     "Jeffrey Tambor",
+     "Tom Manning"
+    ],
+    [
+     "John Hurt",
+     "Trevor \"Broom\" Bruttenholm"
+    ]
+   ],
+   "villain": "Grigori Rasputin, resurrected by Ilsa von Haupstein and Kroenen to trigger the apocalypse via Hellboy",
+   "boxOffice": "$99.8M on $60-66M budget",
+   "notes": [
+    "Premiered March 30, 2004 at Mann Village Theater; US release April 2, 2004",
+    "Draws on the comic Hellboy: Seed of Destruction",
+    "Karel Roden plays Rasputin; Doug Jones plays Abe Sapien (voiced uncredited by David Hyde Pierce)",
+    "Hellboy works for the Bureau of Paranormal Research and Defense",
+    "Followed by Hellboy II: The Golden Army (2008)"
+   ],
+   "sources": [
+    "wp:Hellboy_(2004_film)"
+   ]
+  },
+  {
+   "title": "Red Eye",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "psychological thriller",
+   "director": "Wes Craven",
+   "writers": "Carl Ellsworth (story: Ellsworth, Dan Foos)",
+   "basedOn": "",
+   "distributor": "DreamWorks Pictures",
+   "setting": "Red-eye flight Texas to Miami",
+   "cast": [
+    [
+     "Rachel McAdams",
+     "Lisa Reisert"
+    ],
+    [
+     "Cillian Murphy",
+     "Jackson Rippner"
+    ],
+    [
+     "Brian Cox",
+     "Joe Reisert"
+    ],
+    [
+     "Jayma Mays",
+     "Cynthia"
+    ]
+   ],
+   "villain": "Jackson Rippner, operative of a domestic terrorist group plotting to assassinate a Homeland Security official",
+   "boxOffice": "$96.2M on $26M budget",
+   "notes": [
+    "Described by trades as Phone Booth on a plane when DreamWorks bought the script in March 2004",
+    "Score by Marco Beltrami",
+    "Released August 19, 2005",
+    "Lisa stabs Jackson in the throat with a ballpoint pen",
+    "Extended version broadcast on ABC"
+   ],
+   "sources": [
+    "wp:Red_Eye_(2005_American_film)"
+   ]
+  },
+  {
+   "title": "The Mummy Returns",
+   "altTitles": [],
+   "year": 2001,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "fantasy action-adventure",
+   "director": "Stephen Sommers",
+   "writers": "Stephen Sommers",
+   "basedOn": "Characters by Sommers, Lloyd Fonvielle, Kevin Jarre",
+   "distributor": "Universal Pictures",
+   "setting": "Egypt and London, 1933",
+   "cast": [
+    [
+     "Brendan Fraser",
+     "Rick O'Connell"
+    ],
+    [
+     "Rachel Weisz",
+     "Evelyn O'Connell"
+    ]
+   ],
+   "villain": "Imhotep (Arnold Vosloo), resurrected by a cult led by Baltus Hafez; the Scorpion King",
+   "boxOffice": "$444.1M on $98M budget",
+   "notes": [
+    "Sequel to The Mummy (1999)",
+    "Dwayne Johnson (as The Rock) makes his film acting debut as the Scorpion King",
+    "Released May 4, 2001",
+    "Seventh-highest-grossing film of 2001; highest-grossing of the series",
+    "Followed by prequel The Scorpion King (2002)"
+   ],
+   "sources": [
+    "wp:The_Mummy_Returns"
+   ]
+  },
+  {
+   "title": "Dagon",
+   "altTitles": [
+    "Dagon, la secta del mar"
+   ],
+   "year": 2001,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "Lovecraftian horror",
+   "director": "Stuart Gordon",
+   "writers": "Dennis Paoli",
+   "basedOn": "H. P. Lovecraft's Dagon and The Shadow Over Innsmouth",
+   "distributor": "Filmax International",
+   "setting": "Imboca, Spanish fishing town",
+   "cast": [
+    [
+     "Ezra Godden",
+     "Paul Marsh"
+    ],
+    [
+     "Francisco Rabal",
+     "Ezequiel"
+    ]
+   ],
+   "villain": "Half-fish villagers of Imboca who worship Dagon, led by cult founder Captain Orpheus Cambarro",
+   "boxOffice": "€212,699 (Spain)",
+   "notes": [
+    "Spanish production in English, Galician and Spanish",
+    "Final Stuart Gordon / Dennis Paoli film collaboration",
+    "Imboca is the Spanish version of Lovecraft's Innsmouth",
+    "Francisco Rabal's final role; he died two months before release",
+    "Premiered at Sitges Film Festival Oct 12, 2001"
+   ],
+   "sources": [
+    "wp:Dagon_(film)"
+   ]
+  },
+  {
+   "title": "Funny Games",
+   "altTitles": [
+    "Funny Games U.S."
+   ],
+   "year": 2007,
+   "yearNote": "London Film Festival premiere Oct 20, 2007; US release March 14, 2008",
+   "tier": 3,
+   "genreNote": "psychological thriller / home-invasion",
+   "director": "Michael Haneke",
+   "writers": "Michael Haneke",
+   "basedOn": "Funny Games (1997 film) by Michael Haneke",
+   "distributor": "Warner Independent Pictures (US)",
+   "setting": "Farber family lake house",
+   "cast": [
+    [
+     "Naomi Watts",
+     "Ann Farber"
+    ],
+    [
+     "Tim Roth",
+     "George Farber"
+    ]
+   ],
+   "villain": "Paul (Michael Pitt) and Peter (Brady Corbet), two young men who take a family hostage and torture them",
+   "boxOffice": "$8.2M on $15M budget",
+   "notes": [
+    "Shot-for-shot English-language remake of Haneke's own 1997 film",
+    "Also titled Funny Games U.S.",
+    "Exterior scenes filmed on Long Island",
+    "Only Haneke film not to premiere at Cannes",
+    "Mixed reviews and a commercial failure"
+   ],
+   "sources": [
+    "wp:Funny_Games_(2007_film)"
+   ]
+  },
+  {
+   "title": "Mulberry Street",
+   "altTitles": [
+    "Zombie Virus on Mulberry Street"
+   ],
+   "year": 2006,
+   "yearNote": "Festival premiere Nov 16, 2006; US theatrical Nov 9, 2007; direct-to-video March 18, 2008",
+   "tier": 3,
+   "genreNote": "zombie / infection horror",
+   "director": "Jim Mickle",
+   "writers": "Nick Damici and Jim Mickle",
+   "basedOn": "",
+   "distributor": "After Dark Films",
+   "setting": "Mulberry Street, Manhattan",
+   "cast": [
+    [
+     "Nick Damici",
+     "Clutch"
+    ],
+    [
+     "Kim Blair",
+     "Casey"
+    ]
+   ],
+   "villain": "Rat-like zombie creatures created by a rat-borne infection spreading through Manhattan",
+   "boxOffice": "",
+   "notes": [
+    "Made on a $60,000 budget; shot in three and a half weeks",
+    "Premiered at Stockholm International Film Festival Nov 16, 2006",
+    "Released by After Dark Films in the 8 Films to Die For lineup, Nov 9, 2007",
+    "Direct-to-video March 18, 2008",
+    "Also released as Zombie Virus on Mulberry Street",
+    "Creators wanted the title to emphasize gentrification"
+   ],
+   "sources": [
+    "wp:Mulberry_Street_(film)"
+   ]
+  },
+  {
+   "title": "Wrong Turn 2: Dead End",
+   "altTitles": [],
+   "year": 2007,
+   "yearNote": "FrightFest premiere Aug 25, 2007; US DVD release Oct 9, 2007",
+   "tier": 3,
+   "genreNote": "slasher",
+   "director": "Joe Lynch",
+   "writers": "Turi Meyer and Al Septien",
+   "basedOn": "Characters by Alan B. McElroy",
+   "distributor": "20th Century Fox Home Entertainment",
+   "setting": "West Virginia forest",
+   "cast": [
+    [
+     "Erica Leerhsen",
+     "Nina Papas"
+    ],
+    [
+     "Henry Rollins",
+     "Dale Murphy"
+    ]
+   ],
+   "villain": "Family of deformed cannibals that hunt reality-show contestants",
+   "boxOffice": "",
+   "notes": [
+    "Sequel to Wrong Turn (2003)",
+    "Premiered at FrightFest Aug 25, 2007; US DVD release Oct 9, 2007",
+    "Budget $4 million; $9.2M in home video sales",
+    "Best-reviewed film in the Wrong Turn series",
+    "Score by Bear McCreary",
+    "Followed by Wrong Turn 3: Left for Dead (2009)"
+   ],
+   "sources": [
+    "wp:Wrong_Turn_2:_Dead_End"
+   ]
+  },
+  {
+   "title": "Taking Lives",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "psychological thriller",
+   "director": "D. J. Caruso",
+   "writers": "Jon Bokenkamp",
+   "basedOn": "Taking Lives (1999 novel) by Michael Pye",
+   "distributor": "Warner Bros. Pictures",
+   "setting": "Montreal",
+   "cast": [
+    [
+     "Angelina Jolie",
+     "FBI Agent Illeana Scott"
+    ],
+    [
+     "Ethan Hawke",
+     "James Costa"
+    ]
+   ],
+   "villain": "Martin Asher, serial killer who assumes his victims' identities (revealed as art dealer James Costa)",
+   "boxOffice": "$65.4M on $45M budget",
+   "notes": [
+    "Loosely adapted from the 1999 novel",
+    "Released March 19, 2004",
+    "Score by Philip Glass",
+    "Generally negative reviews; moderate commercial success",
+    "Paul Dano plays young Martin Asher"
+   ],
+   "sources": [
+    "wp:Taking_Lives_(film)"
+   ]
+  },
+  {
+   "title": "The Happening",
+   "altTitles": [],
+   "year": 2008,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "science fiction thriller",
+   "director": "M. Night Shyamalan",
+   "writers": "M. Night Shyamalan",
+   "basedOn": "",
+   "distributor": "20th Century Fox",
+   "setting": "Northeastern United States",
+   "cast": [
+    [
+     "Mark Wahlberg",
+     "Elliot Moore"
+    ],
+    [
+     "Zooey Deschanel",
+     "Alma Moore"
+    ],
+    [
+     "John Leguizamo",
+     "Julian"
+    ],
+    [
+     "Betty Buckley",
+     "Mrs. Jones"
+    ]
+   ],
+   "villain": "Unexplained airborne toxin (theorized to come from plants) that drives people to mass suicide",
+   "boxOffice": "$163.4M on $48-60M budget",
+   "notes": [
+    "Shyamalan's first R-rated film",
+    "Premiered in New York City June 10, 2008; US release June 13",
+    "Half the budget financed by India's UTV Motion Pictures",
+    "Production began August 2007 in Philadelphia",
+    "Shyamalan described it as a 1960s paranoia film like The Birds and Invasion of the Body Snatchers",
+    "Negative reviews on release; later reappraised as a B movie"
+   ],
+   "sources": [
+    "wp:The_Happening_(2008_film)"
+   ]
+  },
+  {
+   "title": "The Amityville Horror",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "supernatural horror / remake",
+   "director": "Andrew Douglas",
+   "writers": "Scott Kosar",
+   "basedOn": "The Amityville Horror (novel) by Jay Anson",
+   "distributor": "MGM Distribution Co. / Dimension Films",
+   "setting": "412 Ocean Avenue, Amityville, NY",
+   "cast": [
+    [
+     "Ryan Reynolds",
+     "George Lutz"
+    ],
+    [
+     "Melissa George",
+     "Kathy Lutz"
+    ],
+    [
+     "Philip Baker Hall",
+     "Father Callaway"
+    ],
+    [
+     "Chloë Grace Moretz",
+     "Chelsea Lutz"
+    ]
+   ],
+   "villain": "Haunted house possessing George Lutz; spirit of cult preacher Reverend Jeremiah Ketcham",
+   "boxOffice": "$107.5M on $19M budget",
+   "notes": [
+    "Remake of the 1979 film; ninth film in the Amityville Horror series",
+    "Chloë Grace Moretz's film debut",
+    "Released April 15, 2005",
+    "Produced by Michael Bay, Andrew Form and Brad Fuller",
+    "Set on Long Island but shot in Illinois and Wisconsin",
+    "Negative reviews, commercial success"
+   ],
+   "sources": [
+    "wp:The_Amityville_Horror_(2005_film)"
+   ]
+  },
+  {
+   "title": "Hellraiser: Inferno",
+   "altTitles": [
+    "Hellraiser V: Inferno"
+   ],
+   "year": 2000,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "supernatural horror",
+   "director": "Scott Derrickson",
+   "writers": "Paul Harris Boardman and Scott Derrickson",
+   "basedOn": "Characters by Clive Barker",
+   "distributor": "Buena Vista Home Entertainment",
+   "setting": "Denver",
+   "cast": [
+    [
+     "Craig Sheffer",
+     "Det. Joseph Thorne"
+    ],
+    [
+     "Doug Bradley",
+     "Pinhead"
+    ]
+   ],
+   "villain": "Pinhead (Doug Bradley), posing as psychiatrist Dr. Paul Gregory (James Remar)",
+   "boxOffice": "",
+   "notes": [
+    "Fifth Hellraiser film and first released direct-to-video",
+    "Scott Derrickson's feature directorial debut",
+    "Released October 3, 2000",
+    "Thorne is a corrupt Denver detective who solves the puzzle box"
+   ],
+   "sources": [
+    "wp:Hellraiser:_Inferno"
+   ]
+  },
+  {
+   "title": "Darkness",
+   "altTitles": [],
+   "year": 2002,
+   "yearNote": "Sitges premiere Oct 3, 2002; Spain Oct 11, 2002; US Dec 25, 2004",
+   "tier": 3,
+   "genreNote": "supernatural horror",
+   "director": "Jaume Balagueró",
+   "writers": "Jaume Balagueró and Fernando de Felipe",
+   "basedOn": "",
+   "distributor": "Filmax (Spain) / Miramax Films (US)",
+   "setting": "House outside Barcelona, Spain",
+   "cast": [
+    [
+     "Anna Paquin",
+     "Regina Rua"
+    ],
+    [
+     "Lena Olin",
+     "Maria Rua"
+    ]
+   ],
+   "villain": "Satanic cult, including grandfather Albert, seeking to complete an eclipse ritual sacrificing children",
+   "boxOffice": "$34.4M worldwide on $10.6-11M budget",
+   "notes": [
+    "Spain/US co-production by Filmax and Dimension Films",
+    "Shot in Barcelona starting April 26, 2001",
+    "Premiered at Sitges Oct 3, 2002; released in Spain Oct 11, 2002",
+    "US release Dec 25, 2004 in an edited PG-13 cut (88 min vs 102 min)",
+    "Widely panned by critics but a commercial success"
+   ],
+   "sources": [
+    "wp:Darkness_(2002_film)"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "wp:Paranormal_Activity",
+   "url": "https://en.wikipedia.org/wiki/Paranormal_Activity",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Hellboy_(2004_film)",
+   "url": "https://en.wikipedia.org/wiki/Hellboy_(2004_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Red_Eye_(2005_American_film)",
+   "url": "https://en.wikipedia.org/wiki/Red_Eye_(2005_American_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Mummy_Returns",
+   "url": "https://en.wikipedia.org/wiki/The_Mummy_Returns",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Dagon_(film)",
+   "url": "https://en.wikipedia.org/wiki/Dagon_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Funny_Games_(2007_film)",
+   "url": "https://en.wikipedia.org/wiki/Funny_Games_(2007_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Mulberry_Street_(film)",
+   "url": "https://en.wikipedia.org/wiki/Mulberry_Street_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Wrong_Turn_2:_Dead_End",
+   "url": "https://en.wikipedia.org/wiki/Wrong_Turn_2:_Dead_End",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Taking_Lives_(film)",
+   "url": "https://en.wikipedia.org/wiki/Taking_Lives_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Happening_(2008_film)",
+   "url": "https://en.wikipedia.org/wiki/The_Happening_(2008_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Amityville_Horror_(2005_film)",
+   "url": "https://en.wikipedia.org/wiki/The_Amityville_Horror_(2005_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Hellraiser:_Inferno",
+   "url": "https://en.wikipedia.org/wiki/Hellraiser:_Inferno",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Darkness_(2002_film)",
+   "url": "https://en.wikipedia.org/wiki/Darkness_(2002_film)",
+   "verifiedOn": "2026-10-10"
+  }
+ ],
+ "unverified": [
+  "Paranormal Activity: article's Cast section lists only 4 names, so tier-1 cast has 4 entries, not 5+.",
+  "Paranormal Activity: year 2007 = first release (Screamfest, Oct 14, 2007) per article; limited US release 2009.",
+  "Hellboy: setting left empty (plot spans 1944 and present; no single location stated).",
+  "Slugs: Red_Eye_(2005_American_film) (Red_Eye_(2005_film) does not exist); Hellboy_(2004_film) (Hellboy_(film) is a disambiguation page).",
+  "Mummy Returns villain pairing (Imhotep + Scorpion King) from plot/cast text; Dagon box office is Spain-only (EUR 212,699).",
+  "Funny Games: setting 'Farber family lake house' from plot (location not named; exteriors filmed on Long Island).",
+  "Taking Lives: killer reveal (James Costa = Martin Asher) taken from the article plot text.",
+  "Box office left empty for Mulberry Street, Wrong Turn 2 (only $9.2M home-video sales, in notes) and Hellraiser: Inferno - not stated in infobox.",
+  "Articles were read via cleaned extracts; production sections only partly read for some films, so notes are limited to facts seen.",
+  "No films skipped: all 13 articles fall within 2000-2009. Saw VI not added as instructed."
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "checked": 42,
+ "clean": 39,
+ "corrections": [
+  {
+   "title": "Signs",
+   "year": 2002,
+   "field": "cast",
+   "current": "Cherry Jones / Officer Caroline Paske",
+   "correct": "Cherry Jones / Officer Caroline Paski (credited as 'Officer Paski')",
+   "source": "https://en.wikipedia.org/wiki/Signs_(film) ; https://www.imdb.com/title/tt0286106/fullcredits/",
+   "confidence": "high"
+  },
+  {
+   "title": "Resident Evil",
+   "year": 2002,
+   "field": "yearNote",
+   "current": "First released in Germany on March 12, 2002",
+   "correct": "German release was March 21, 2002 (Wikipedia body text says March 12 but its own infobox says March 21; IMDb and German FFA 2002 hit list both give 21.03.2002). Year 2002 unaffected.",
+   "source": "https://www.imdb.com/title/tt0120804/releaseinfo/ ; https://www.ffa.de/files/dokumentenverwaltung/filmhitlisten/Nationale-Jahresliste%20(bis%202008)/jahresfilmhitliste-national-2002.pdf",
+   "confidence": "high"
+  },
+  {
+   "title": "Ju-On: The Grudge",
+   "year": 2002,
+   "field": "yearNote",
+   "current": "Premiered at Screamfest October 18, 2002; Japan release August 23, 2003",
+   "correct": "Japan theatrical release was January 25, 2003 (August 23, 2003 is the date of Ju-On: The Grudge 2). The record copies an apparently erroneous Wikipedia infobox date. Year 2002 (Screamfest premiere) unaffected.",
+   "source": "https://www.imdb.com/title/tt0364385/releaseinfo/ ; https://letterboxd.com/film/ju-on-the-grudge/ ; https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6349",
+   "confidence": "high"
+  }
+ ],
+ "couldNotVerify": [
+  {
+   "title": "(all films)",
+   "field": "boxOffice",
+   "reason": "Box office/budget figures matched the English Wikipedia infobox for all 42 films; no independent source (Box Office Mojo/The Numbers) was fetched, so they are Wikipedia-only."
+  },
+  {
+   "title": "Frailty",
+   "field": "yearNote",
+   "reason": "Deep Ellum Film Festival premiere on Nov 7, 2001 confirmed only on Wikipedia; no independent source found."
+  },
+  {
+   "title": "Dog Soldiers",
+   "field": "year",
+   "reason": "Brussels premiere 22 March 2002 only on Wikipedia; year 2002 consistent with all other sources."
+  }
+ ]
+}

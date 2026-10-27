@@ -1,0 +1,52 @@
+{
+  "name": "Casino · SugarHouse Games",
+  "verifiedOn": "2026-10-10",
+  "targetCharacters": 46000,
+  "sources": [
+    {"id": "lobby", "url": "https://pa.playsugarhouse.com/?page=all-games", "note": "PlaySugarHouse PA lobby API, 44 game categories, snapshot 2026-10-10 (data/casino-sugarhouse/catalog.json)"},
+    {"id": "lnw-press", "url": "https://explore.lnw.com/media/iqmnaomk/g2e-asia-2025-press-release.pdf", "note": "Light & Wonder press release: Lion Link launched with Wealth of the Dragon and Prosperous Rooster"},
+    {"id": "playzido", "url": "https://www.playzido.com/", "note": "Playzido is now Light & Wonder Spark"},
+    {"id": "slotcatalog-rooster", "url": "https://slotcatalog.com/en/slots/lion-link-prosperous-rooster", "note": "Prosperous Rooster release 2026-01-17"},
+    {"id": "slotsmate-horse", "url": "https://www.slotsmate.com/software/light-and-wonder/lion-link-horse", "note": "Lion Link Horse release 2026-08-07, Light & Wonder"},
+    {"id": "reelplay-hypernova", "url": "https://www.slotsmate.com/software/reelplay", "note": "Hypernova Megaways by ReelPlay (space theme)"},
+    {"id": "playtech-goal", "url": "https://www.nj.com/online-casinos/2026/06/use-the-betparx-casino-promo-code-njcom-to-play-goal-goal-goal-collect-em.html", "note": "Goal Goal Goal Collect 'Em: Playtech, football/soccer-themed slot"},
+    {"id": "huffnpuff", "url": "https://www.hardrock.bet/news", "note": "Huff N' Puff: Light & Wonder, Three Little Pigs construction theme, started 2018 in the Lock-it-Link series"},
+    {"id": "evolution", "url": "https://www.evolution.com/", "note": "Crazy Time: Evolution Money Wheel game show, launched July 2020"},
+    {"id": "igt-cash-eruption", "url": "https://www.alc.ca/content/dam/alc/images/casino/cash-eruption/Cash%20Eruption%20-%20How%20to%20Play%20-%20English.pdf", "note": "Cash Eruption How to Play (IGT): 6+ Fireball scatters trigger the Cash Eruption Bonus; 3 Volcano scatters trigger Free Spins"},
+    {"id": "mummy-it-up", "url": "https://www.borgataonline.com/en/blog/mummy-it-up-slot-borgata-review/", "note": "Mummy It Up (Inspired): symbols Pharaoh, Anubis, Horus, Bastet (cat), A/K/Q/J/10; scarab Cash symbols; mummy Collect on reel 5"},
+    {"id": "capture", "url": "local://Downloads/cursor-lens-captures/2026-09-26", "note": "Live King Cash Royal Court trivia questions captured 2026-09-26; answers cross-checked against sources above"}
+  ],
+  "guide": [
+    "Royal Court trivia asks 10 multiple-choice questions about the casino games on this site. When choices are visible answer with the exact choice text; otherwise give the shortest name. Question frames seen: which provider made SLOT; which series features X; space/animal/themed slot named in the question; which Evolution live game has a big wheel; what a jackpot type is called; finish the slot title; which sport is in SLOT; poker hand ranking; most popular casino card game; game mechanics (bonus trigger counts, symbol lists).",
+    "Provider labels below are the lobby's own codes; the real brand follows in parentheses. In a quiz, SG or SG Digital means Light & Wonder (Scientific Games), and Playzido is Light & Wonder Spark. Games with provider NYX run on Light & Wonder's NYX OpenGaming platform; Huff N Puff and Lion Link titles are Light & Wonder."
+  ],
+  "providerNames": {
+    "IGT": "IGT", "NETENT": "NetEnt", "RED_TIGER": "Red Tiger", "REEL_PLAY": "ReelPlay", "PLAYTECH": "Playtech",
+    "HACKSAW": "Hacksaw Gaming", "PLAYNGO": "Play'n GO", "EVOLUTION": "Evolution", "SG_DIGITAL": "Light & Wonder / SG",
+    "PLAYZIDO": "Light & Wonder Spark", "KONAMI": "Konami", "ARISTOCRAT": "Aristocrat", "RELAX": "Relax Gaming",
+    "WAZDAN": "Wazdan", "NOLIMCITY": "Nolimit City", "PARIPLAY": "Pariplay", "BTGEVO": "Big Time Gaming",
+    "GREENTUBE": "Greentube", "GAMEGLOBAL": "Games Global", "AGS": "AGS", "INSPIRED": "Inspired",
+    "H5G": "High 5 Games", "EVERI": "Everi", "RUBYPLAY": "RubyPlay", "RS_DIGITAL": "Rush Street Digital"
+  },
+  "series": [
+    {"title": "LION LINK (Light & Wonder hold-and-spin series)", "sources": ["lobby", "lnw-press", "slotcatalog-rooster", "slotsmate-horse"], "text": "Six on the site, lobby order today: Lion Link Fortune Bat, Prosperous Rooster, Wealth of the Dragon, Zhen Chan, Horse, Panda. The series launched with Wealth of the Dragon and Prosperous Rooster. Release dates found: Prosperous Rooster Jan 2026, Horse Aug 2026. Animal themes: Bat, Rooster, Horse, Panda."},
+    {"title": "HUFF N PUFF (Light & Wonder, Three Little Pigs / Bacon Bros Building Company)", "sources": ["lobby", "huffnpuff"], "text": "13 on the site: Haunted Mansion, Xtra Puff, Lots of Goals, Even More Puff Grand, Money Mansion, High Rise, More Puff, Lots of Puff, Even More Puff, and High Limit versions of More Puff, Lots Of Puff, Even More Puff, Money Mansion. Hard hats trigger the bonus. Original released 2018."},
+    {"title": "LIGHTNING LINK (Aristocrat)", "sources": ["lobby"], "text": "Tiki Fire and High Stakes. Other Aristocrat link games: Cash Express, Jackpot Carnival, Mo' Mummy."},
+    {"title": "SUGARHOUSE / BETRIVERS BRANDED", "sources": ["lobby"], "text": "House-branded titles: BetRivers Goal Goal Goal Collect Em (Playtech), BetRivers Hypernova Megaways (ReelPlay), BetRivers RWB Gems and BetRivers Philly Big Kick LuckyTap (DWG), BetRivers Strike (Red Tiger), BetRivers Jewel Strike Hotstepper, BetRivers Philly Blackjack and Roulette (Evolution). Eagles lobby tab: Philly Big Kick LuckyTap, Philly Blackjack, BetRivers Strike, Gridiron Goal Philly, Philly Roulette."}
+  ],
+  "live": [
+    "LIVE CASINO (Evolution unless noted): Crazy Time is the Evolution Money Wheel game show (launched July 2020, bonus rounds Coin Flip, Cash Hunt, Pachinko, Crazy Time; dealer Elektra on this site). Lobby game shows: Crazy Time, Red Door Roulette, Lightning Dice, Crazy Coin Flip, Stock Market, Race Track, Football Studio Live (Evolution); Buffalo Blitz Live Slot and Spin A Win Philly (Playtech). Also Lightning Roulette, Speed Baccarat, Live Dealer Craps, Infinite Blackjack, Infinite Free Bet Blackjack, BetRivers Blackjack 1, Mega Fire Blaze Roulette Live (Playtech)."
+  ],
+  "terms": [
+    "TERMS: Progressive jackpot = prize that grows with every bet placed. RTP = percent returned to players over time. Hold & Spin = special symbols lock while respins continue. Megaways = Big Time Gaming mechanic with changing reels, up to 117,649 ways. Slingo = slots plus bingo. LuckyTap = instant-win game format. Bonus Buy = pay to trigger the feature. Wild substitutes; Scatter triggers free spins."
+  ],
+  "tables": [
+    "TABLE GAMES: Blackjack natural pays 3 to 2; blackjack is the most popular casino card game in North America. Roulette American wheel has 38 pockets (0 and 00); straight 35:1, split 17:1, street 11:1, corner 8:1, six-line 5:1. Baccarat banker bet pays 1:1 minus 5% commission, tie pays 8:1. Craps pass line wins on 7/11 and loses on 2/3/12. Poker ranks high to low: royal flush, straight flush, four of a kind, full house, flush, straight, three of a kind, two pair, pair, high card."
+  ],
+  "frames": [
+    "CHECKED EXAMPLES: Cleopatra is by IGT. Parthenon: Quest for Immortality is by NetEnt. Hypernova Megaways is the ReelPlay space slot (stellar explosion). Goal Goal Goal Collect Em is a Playtech slot about football (soccer). Crazy Time is the Evolution wheel game show. Cash Eruption is IGT. Divine Fortune is NetEnt (also Gold, Black, Megaways). Capital Gains and Rakin' Bacon are AGS. Lion Link Horse is the newest Lion Link with a known date (Aug 2026).",
+    "GAME MECHANICS: Cash Eruption (IGT): 6 or more Fireball scatter symbols in the base game trigger the Cash Eruption Bonus (fill all 15 positions for the Grand Treasure); 3 or more Volcano scatters trigger Free Spins.",
+    "GAME MECHANICS: Mummy It Up (Inspired): paytable symbols are Pharaoh, Anubis, Horus and Bastet (the cat) plus A/K/Q/J/10; Cash symbols are blue scarabs collected by the mummy Collect symbol on reel 5; Sarcophagus and Crook and Flail are not paytable symbols of this game."
+  ],
+  "boost": ["Cleopatra", "Divine Fortune", "Divine Fortune Gold", "Crazy Time", "Cash Eruption", "Capital Gains", "Parthenon: Quest for Immortality", "Hypernova Megaways", "Huff N Puff Haunted Mansion", "Wheel of Fortune Triple Extreme Spin", "Gonzo's Quest", "Starburst", "Mega Moolah", "Monopoly Live", "Lightning Roulette", "Rakin' Bacon", "Quick Hit Link Gems", "Lightning Link Tiki Fire", "Lightning Link High Stakes", "Golden Goddess", "Wolf Run", "Siberian Storm", "Buffalo Gold", "88 Fortunes", "Jumanji", "Bonanza"]
+}

@@ -1,0 +1,138 @@
+MLB POSTSEASON 2026. Snapshot 2026-10-10T14:04:26.983Z; facts checked 2026-10-10. Use only games marked FINAL. PENDING games have no result yet.
+Game line format: Round Game# date: away score at home score, FINAL; W winning pitcher, L losing pitcher, SV save; top = top hitter. Series results are in SERIES RESULTS.
+PLAYOFF TEAMS (league+seed, 2026 regular-season record). Seeds 1-2 per league get a bye past the best-of-3 Wild Card Series; DS best-of-5; LCS and World Series best-of-7.
+AL1 Tampa Bay Rays (TB) 98-64
+AL2 Cleveland Guardians (CLE) 85-77
+AL3 Houston Astros (HOU) 81-81
+AL4 New York Yankees (NYY) 93-68
+AL5 Boston Red Sox (BOS) 87-75
+AL6 Chicago White Sox (CWS) 84-78
+NL1 Milwaukee Brewers (MIL) 103-59
+NL2 Los Angeles Dodgers (LAD) 100-62
+NL3 Atlanta Braves (ATL) 94-68
+NL4 San Diego Padres (SD) 91-71
+NL5 Chicago Cubs (CHC) 89-73
+NL6 Philadelphia Phillies (PHI) 88-74
+Defending champion: Los Angeles Dodgers over Toronto Blue Jays 4-3 in the 2025 World Series; MVP Yoshinobu Yamamoto (LAD).
+SERIES RESULTS (latest standing)
+ALWCS: Houston Astros vs Chicago White Sox - complete; White Sox won 2-0.
+ALWCS: New York Yankees vs Boston Red Sox - complete; Yankees won 2-0.
+NLWCS: Atlanta Braves vs Philadelphia Phillies - complete; Braves won 2-1.
+NLWCS: San Diego Padres vs Chicago Cubs - complete; Padres won 2-0.
+ALDS: Tampa Bay Rays vs New York Yankees - complete; Rays won 3-0.
+ALDS: Cleveland Guardians vs Chicago White Sox - in progress - tied 2-2, decisive Game 5 Sat Oct 10 8:00 pm ET at Progressive Field; Tied 2-2.
+NLDS: Milwaukee Brewers vs San Diego Padres - complete; Brewers won 3-1.
+NLDS: Los Angeles Dodgers vs Atlanta Braves - complete; Dodgers won 3-1.
+ALCS: Tampa Bay Rays vs winner of CLE/CWS ALDS - scheduled (opponent TBD pending ALDS G5); Not started. Schedule: G1 Oct 12, G2 Oct 13 at TB; G3 Oct 15, G4 Oct 16 at opponent; G5 Oct 17*, G6 Oct 19*, G7 Oct 20* (*if necessary).
+NLCS: Milwaukee Brewers vs Los Angeles Dodgers - scheduled; Not started. G1 Oct 11, G2 Oct 12 at MIL; G3 Oct 14, G4 Oct 15, G5 Oct 16* at LAD; G6 Oct 18*, G7 Oct 19* at MIL. Dodgers won all 3 prior postseason meetings (2018, 2020, 2025).
+World Series: AL champion vs NL champion - scheduled; Begins Oct 23; Game 7 (if needed) Oct 31.
+GAME RESULTS 2026 POSTSEASON (ESPN)
+NL Wild Card G1 09/29: PHI 3 at ATL 5, FINAL; W Dylan Lee, L Jhoan Duran, SV Raisel Iglesias; top: Austin Riley 1-3, HR, 3 RBI, R; Truist Park.
+AL Wild Card G1 09/29: CHW 6 at HOU 3, FINAL; W Jordan Hicks, L AJ Blubaugh; top: Nelson Velazquez 1-3, HR, 2 RBI, R, K; Daikin Park.
+AL Wild Card G1 09/29: BOS 0 at NYY 9, FINAL; W Cam Schlittler, L Payton Tolle; top: Ben Rice 4-5, 2 HR, 2B, 6 RBI, 2 R, K; Yankee Stadium.
+NL Wild Card G1 09/29: CHC 0 at SD 8, FINAL; W Michael King, L Matthew Boyd; top: Michael King 7.0 IP, 0 ER, H, 8 K, 3 BB; Petco Park.
+NL Wild Card G2 09/30: PHI 4 at ATL 3 (10 inn), FINAL; W Andrew Painter, L Didier Fuentes; top: Bryce Harper 2-5, HR, 2 RBI, R, K; Truist Park.
+AL Wild Card G2 09/30: CHW 7 at HOU 3, FINAL; W Anthony Kay, L Hunter Brown; top: Chase Meidroth 2-3, HR, 3 RBI, R, BB; Daikin Park.
+AL Wild Card G2 09/30: BOS 2 at NYY 9, FINAL; W Max Fried, L Sonny Gray; top: Cody Bellinger 2-5, HR, 4 RBI, R, K; Yankee Stadium.
+NL Wild Card G2 09/30: CHC 1 at SD 4, FINAL; W Bradgley Rodriguez, L Kevin Gausman, SV Mason Miller; top: Gavin Sheets 1-1, HR, 2 RBI, R; Petco Park.
+NL Wild Card G3 10/01: PHI 2 at ATL 6, FINAL; W Grant Holmes, L Aaron Nola; top: Michael Harris II 1-3, HR, 3 RBI, R, K; Truist Park.
+ALDS G1 10/03: CHW 3 at CLE 0, FINAL; W Bryan Hudson, L Parker Messick, SV Grant Taylor; top: Munetaka Murakami 2-4, HR, 2 RBI, R, 2 K; Progressive Field.
+NLDS G1 10/03: ATL 3 at LAD 5, FINAL; W Tarik Skubal, L Victor Mederos, SV Evan Phillips; top: Teoscar Hernandez 2-4, HR, 2 RBI, 2 R, 2 K; Dodger Stadium.
+ALDS G1 10/03: NYY 0 at TB 1, FINAL; W Drew Rasmussen, L Gerrit Cole, SV Bryan Baker; top: Drew Rasmussen 8.0 IP, 0 ER, H, 10 K, 2 BB; Tropicana Field.
+NLDS G1 10/03: SD 2 at MIL 3, FINAL; W DL Hall, L Adrian Morejon, SV Trevor Megill; top: Jackson Chourio 1-4, HR, 2 RBI, R; American Family Field.
+NLDS G2 10/04: SD 3 at MIL 4, FINAL; W Trevor Megill, L Mason Miller; top: Ty France 2-3, 2 RBI, K; American Family Field.
+NLDS G2 10/04: ATL 3 at LAD 2, FINAL; W Dylan Lee, L Kris Bubic, SV Raisel Iglesias; top: Michael Harris II 3-5, 3B, 2B, RBI, R; Dodger Stadium.
+ALDS G2 10/05: CHW 4 at CLE 3, FINAL; W Sean Burke, L Erik Sabrowski, SV Grant Taylor; top: Braden Montgomery 1-4, 2B, 2 RBI, R, 2 K; Progressive Field.
+ALDS G2 10/05: NYY 2 at TB 5, FINAL; W Cam Booser, L Cam Schlittler, SV Bryan Baker; top: Ben Rice 2-3, 2 HR, 2 RBI, 2 R, BB; Tropicana Field.
+NLDS G3 10/06: LAD 3 at ATL 1, FINAL; W Yoshinobu Yamamoto, L Chris Sale, SV Edwin Diaz; top: Yoshinobu Yamamoto 7.0 IP, ER, 4 H, 10 K, BB; Truist Park.
+NLDS G3 10/06: MIL 3 at SD 4, FINAL; W Yuki Matsui, L JoJo Romero, SV Michael King; top: William Contreras 3-4, HR, RBI, 2 R, BB; Petco Park.
+ALDS G3 10/07: CLE 9 at CHW 3, FINAL; W Foster Griffin, L Bryan Hudson; top: Jose Ramirez 2-4, 3B, 2B, 2 RBI, 2 R, BB, SB; Rate Field.
+NLDS G4 10/07: LAD 4 at ATL 1, FINAL; W Edgardo Henriquez, L Tyler Mahle, SV Edwin Diaz; top: Max Muncy 1-4, HR, RBI, R; Truist Park.
+ALDS G3 10/07: TB 4 at NYY 3, FINAL; W Ian Seymour, L Max Fried, SV Bryan Baker; top: Ryan Vilade 1-2, HR, RBI, R; Yankee Stadium.
+NLDS G4 10/07: MIL 3 at SD 1, FINAL; W Aaron Ashby, L Robbie Ray, SV Trevor Megill; top: Garrett Mitchell 2-4, 3B, RBI, R; Petco Park.
+ALDS G4 10/08: CLE 9 at CHW 5, FINAL; W Erik Sabrowski, L Anthony Kay; top: Jose Ramirez 2-5, HR, 3 RBI, 2 R; Rate Field.
+NEXT GAMES
+ALDS G5 10/10: CHW at CLE; PENDING (no result).
+NLCS G1 10/11: LAD at MIL; PENDING (no result).
+NLCS G2 10/12: LAD at MIL; PENDING (no result).
+ALCS G1 10/12: CLE/CHW at TB; PENDING (no result).
+ALCS G2 10/13: CLE/CHW at TB; PENDING (no result).
+NLCS G3 10/14: MIL at LAD; PENDING (no result).
+ALCS G3 10/15: TB at CLE/CHW; PENDING (no result).
+NLCS G4 10/15: MIL at LAD; PENDING (no result).
+2026 STORYLINES (most recent rounds kept first)
+NL Wild Card (Oct 1): Atlanta's series win was its first postseason series victory since the 2021 World Series and the first time it beat the Phillies in four postseason meetings; it was the only 2026 Wild Card series not decided by a sweep.
+NL Wild Card Game 1 (Sep 29): The Padres blanked the Cubs 8–0 at Petco Park, with Michael King throwing seven shutout innings.
+NL Wild Card Game 2 (Sep 30): The Padres beat the Cubs 4–1 on an RBI single by Xander Bogaerts, a sacrifice fly by Ethan Salas and a two-run homer by Gavin Sheets, completing the sweep; Cubs pitcher Daniel Palencia then hit Jake Cronenworth with his next pitch, drawing shouts from Padres players.
+ALDS Game 1 (Oct 3): The Rays beat the Yankees 1–0 at Tropicana Field as Drew Rasmussen threw eight shutout innings with 10 strikeouts on 101 pitches; Austin Wells' two-out double in the eighth broke up a no-hit bid, and Jonathan Aranda's solo homer off Gerrit Cole was the only run.
+ALDS Game 1 (Oct 3): Holding the Yankees to one hit or fewer was a first in franchise postseason history for New York; Bryan Baker closed the game by striking out Giancarlo Stanton.
+ALDS Game 2 (Oct 5): The Rays beat the Yankees 5–2 after New York committed three errors in the bottom of the first inning; Cam Schlittler was chased in the fifth, and Ben Rice homered twice for the Yankees.
+ALDS Game 3 (Oct 7): The Rays completed a 3–0 sweep with a 4–3 win at Yankee Stadium; Víctor Mesa Jr. hit a go-ahead two-run homer in the sixth and Bryan Baker earned his third save of the series.
+ALDS Game 3 (Oct 7): Anthony Volpe's apparent game-tying home run off Griffin Jax in the bottom of the sixth was overturned to a double on review for fan interference, keeping Tampa Bay ahead 4–3.
+ALDS (Oct 7): The Yankees' sweep was the first time they were ever swept in a postseason series outside the ALCS or World Series; the Rays reached the ALCS for the first time since 2020 and won their first series since that 2020 pennant.
+ALDS Game 1 (Oct 3): The White Sox beat the Guardians 3–0 at Progressive Field on Munetaka Murakami's two-run homer; Grant Taylor struck out the final four batters, and it was Chicago's first postseason shutout win since Game 4 of the 2005 World Series.
+ALDS Game 2 (Oct 5): The White Sox beat the Guardians 4–3, taking a 2–0 series lead; Sean Burke pitched 5⅓ innings of one-hit ball, while Gavin Williams struck out 11 over five innings for Cleveland.
+ALDS Game 3 (Oct 7): The Guardians beat the White Sox 9–3 at Rate Field as Jo Adell's bases-clearing triple in the third made it 4–1; Cleveland did not homer until Game 4, when catcher Patrick Bailey hit its first home run of the 2026 postseason.
+ALDS Game 4 (Oct 8): The Guardians beat the White Sox 9–5 to force Game 5, scoring six runs in the sixth inning after a José Ramírez go-ahead two-run homer in the fifth; the White Sox missed their first chance to clinch a postseason series at home since 1906.
+NLDS Game 1 (Oct 3): The Brewers beat the Padres 3–2 at American Family Field on Jackson Chourio's two-run homer and William Contreras' solo homer in the seventh; Ty France's ninth-inning drive hit the roof and was caught, and Pat Murphy joked about thanking Bob Uecker.
+NLDS Game 2 (Oct 4): The Brewers walked off the Padres 4–3 when Jackson Chourio hit a two-out, two-run single in the bottom of the ninth off closer Mason Miller to take a 2–0 series lead.
+NLDS Game 3 (Oct 6): The Padres beat the Brewers 4–3 at Petco Park on Jake Cronenworth's go-ahead solo homer in the fifth inning, with Michael King earning the save; it extended Milwaukee's postseason road losing streak to 12, matching the MLB record held by the Senators/Twins franchise.
+NLDS Game 4 (Oct 7): The Brewers beat the Padres 3–1 to clinch the series 3–1 and reach their third NLCS since 2018 (2018, 2025, 2026); Garrett Mitchell robbed Manny Machado of a potential game-tying homer in the eighth, and the win snapped Milwaukee's 12-game road postseason losing streak.
+NLDS (Oct 7): No team led by more than two runs at any point in the Brewers–Padres series, only the second postseason series in MLB history to do that, after the 1915 World Series.
+NLDS Game 1 (Oct 3): The Dodgers beat the Braves 5–3 in 100°F heat, the second-hottest MLB postseason game on record; Tarik Skubal won with six innings and seven strikeouts, and Max Muncy's homer set a franchise record of 17 postseason home runs.
+NLDS Game 2 (Oct 4): The Braves beat the Dodgers 3–2 at Dodger Stadium, with Michael Harris II going 3-for-5, to even the series; Max Muncy homered in the ninth to make it 3–2.
+NLDS Game 3 (Oct 6): The Dodgers beat the Braves 3–1 at Truist Park as Yoshinobu Yamamoto allowed one run over seven innings with 10 strikeouts; Enrique (Kiké) Hernández hit a two-run homer and Freddie Freeman homered off Chris Sale, both in the fourth.
+NLDS Game 4 (Oct 7): The Dodgers beat the Braves 4–1 to win the series 3–1; Andy Pages hit a go-ahead two-run single in the seventh, Max Muncy homered in the ninth (his third of the series), and Edwin Díaz earned the save.
+NLDS Game 4 (Oct 7): Dave Roberts earned his 72nd postseason win as a manager, passing Tony La Russa for second-most in MLB history; the Dodgers reached their third straight NLCS.
+NLCS preview (Oct 7): The Brewers and Dodgers meet in the NLCS for the fourth postseason meeting (2018, 2020 and 2025 all won by the Dodgers); Milwaukee holds home-field advantage as the No. 1 seed.
+Still alive (Oct 10): Rays (AL) are in the ALCS awaiting the Guardians–White Sox winner; Brewers and Dodgers are set for the NLCS. Eliminated: Astros, Red Sox, Yankees (AL); Cubs, Phillies, Padres, Braves (NL).
+WORLD SERIES WINNERS (year champion series score runner-up)
+1903 Americans 5-3 Pirates; 1905 Giants 4-1 Athletics; 1906 White Sox 4-2 Cubs; 1907 Cubs 4-0-1 Tigers; 1908 Cubs 4-1 Tigers; 1909 Pirates 4-3 Tigers; 1910 Athletics 4-1 Cubs; 1911 Athletics 4-2 Giants; 1912 Red Sox 4-3-1 Giants; 1913 Athletics 4-1 Giants; 1914 Braves 4-0 Athletics; 1915 Red Sox 4-1 Phillies; 1916 Red Sox 4-1 Robins; 1917 White Sox 4-2 Giants; 1918 Red Sox 4-2 Cubs; 1919 Reds 5-3 White Sox; 1920 Indians 5-2 Robins; 1921 Giants 5-3 Yankees; 1922 Giants 4-0-1 Yankees; 1923 Yankees 4-2 Giants; 1924 Senators 4-3 Giants; 1925 Pirates 4-3 Senators; 1926 Cardinals 4-3 Yankees; 1927 Yankees 4-0 Pirates; 1928 Yankees 4-0 Cardinals; 1929 Athletics 4-1 Cubs; 1930 Athletics 4-2 Cardinals; 1931 Cardinals 4-3 Athletics; 1932 Yankees 4-0 Cubs; 1933 Giants 4-1 Senators; 1934 Cardinals 4-3 Tigers; 1935 Tigers 4-2 Cubs; 1936 Yankees 4-2 Giants; 1937 Yankees 4-1 Giants; 1938 Yankees 4-0 Cubs; 1939 Yankees 4-0 Reds; 1940 Reds 4-3 Tigers; 1941 Yankees 4-1 Dodgers; 1942 Cardinals 4-1 Yankees; 1943 Yankees 4-1 Cardinals; 1944 Cardinals 4-2 Browns; 1945 Tigers 4-3 Cubs; 1946 Cardinals 4-3 Red Sox; 1947 Yankees 4-3 Dodgers; 1948 Indians 4-2 Braves; 1949 Yankees 4-1 Dodgers; 1950 Yankees 4-0 Phillies; 1951 Yankees 4-2 Giants; 1952 Yankees 4-3 Dodgers; 1953 Yankees 4-2 Dodgers; 1954 Giants 4-0 Indians; 1955 Dodgers 4-3 Yankees; 1956 Yankees 4-3 Dodgers; 1957 Braves 4-3 Yankees; 1958 Yankees 4-3 Braves; 1959 Dodgers 4-2 White Sox; 1960 Pirates 4-3 Yankees; 1961 Yankees 4-1 Reds; 1962 Yankees 4-3 Giants; 1963 Dodgers 4-0 Yankees; 1964 Cardinals 4-3 Yankees; 1965 Dodgers 4-3 Twins; 1966 Orioles 4-0 Dodgers; 1967 Cardinals 4-3 Red Sox; 1968 Tigers 4-3 Cardinals; 1969 Mets 4-1 Orioles; 1970 Orioles 4-1 Reds; 1971 Pirates 4-3 Orioles; 1972 Athletics 4-3 Reds; 1973 Athletics 4-3 Mets; 1974 Athletics 4-1 Dodgers; 1975 Reds 4-3 Red Sox; 1976 Reds 4-0 Yankees; 1977 Yankees 4-2 Dodgers; 1978 Yankees 4-2 Dodgers; 1979 Pirates 4-3 Orioles; 1980 Phillies 4-2 Royals; 1981 Dodgers 4-2 Yankees; 1982 Cardinals 4-3 Brewers; 1983 Orioles 4-1 Phillies; 1984 Tigers 4-1 Padres; 1985 Royals 4-3 Cardinals; 1986 Mets 4-3 Red Sox; 1987 Twins 4-3 Cardinals; 1988 Dodgers 4-1 Athletics; 1989 Athletics 4-0 Giants; 1990 Reds 4-0 Athletics; 1991 Twins 4-3 Braves; 1992 Blue Jays 4-2 Braves; 1993 Blue Jays 4-2 Phillies; 1995 Braves 4-2 Indians; 1996 Yankees 4-2 Braves; 1997 Marlins 4-3 Indians; 1998 Yankees 4-0 Padres; 1999 Yankees 4-0 Braves; 2000 Yankees 4-1 Mets; 2001 Diamondbacks 4-3 Yankees; 2002 Angels 4-3 Giants; 2003 Marlins 4-2 Yankees; 2004 Red Sox 4-0 Cardinals; 2005 White Sox 4-0 Astros; 2006 Cardinals 4-1 Tigers; 2007 Red Sox 4-0 Rockies; 2008 Phillies 4-1 Rays; 2009 Yankees 4-2 Phillies; 2010 Giants 4-1 Rangers; 2011 Cardinals 4-3 Rangers; 2012 Giants 4-0 Tigers; 2013 Red Sox 4-2 Cardinals; 2014 Giants 4-3 Royals; 2015 Royals 4-1 Mets; 2016 Cubs 4-3 Indians; 2017 Astros 4-3 Dodgers; 2018 Red Sox 4-1 Dodgers; 2019 Nationals 4-3 Astros; 2020 Dodgers 4-2 Rays; 2021 Braves 4-2 Astros; 2022 Astros 4-2 Phillies; 2023 Rangers 4-1 Diamondbacks; 2024 Dodgers 4-1 Yankees; 2025 Dodgers 4-3 Blue Jays.
+WORLD SERIES MVPs
+1955 Johnny Podres (Dodgers); 1956 Don Larsen (Yankees); 1957 Lew Burdette (Braves); 1958 Bob Turley (Yankees); 1959 Larry Sherry (Dodgers); 1960 Bobby Richardson (Yankees); 1961 Whitey Ford (Yankees); 1962 Ralph Terry (Yankees); 1963 Sandy Koufax (Dodgers); 1964 Bob Gibson (Cardinals); 1965 Sandy Koufax (Dodgers); 1966 Frank Robinson (Orioles); 1967 Bob Gibson (Cardinals); 1968 Mickey Lolich (Tigers); 1969 Donn Clendenon (Mets); 1970 Brooks Robinson (Orioles); 1971 Roberto Clemente (Pirates); 1972 Gene Tenace (Athletics); 1973 Reggie Jackson (Athletics); 1974 Rollie Fingers (Athletics); 1975 Pete Rose (Reds); 1976 Johnny Bench (Reds); 1977 Reggie Jackson (Yankees); 1978 Bucky Dent (Yankees); 1979 Willie Stargell (Pirates); 1980 Mike Schmidt (Phillies); 1981 Ron Cey, Pedro Guerrero & Steve Yeager (co-MVPs, Dodgers); 1982 Darrell Porter (Cardinals); 1983 Rick Dempsey (Orioles); 1984 Alan Trammell (Tigers); 1985 Bret Saberhagen (Royals); 1986 Ray Knight (Mets); 1987 Frank Viola (Twins); 1988 Orel Hershiser (Dodgers); 1989 Dave Stewart (Athletics); 1990 José Rijo (Reds); 1991 Jack Morris (Twins); 1992 Pat Borders (Blue Jays); 1993 Paul Molitor (Blue Jays); 1995 Tom Glavine (Braves); 1996 John Wetteland (Yankees); 1997 Liván Hernández (Marlins); 1998 Scott Brosius (Yankees); 1999 Mariano Rivera (Yankees); 2000 Derek Jeter (Yankees); 2001 Randy Johnson & Curt Schilling (co-MVPs, Diamondbacks); 2002 Troy Glaus (Angels); 2003 Josh Beckett (Marlins); 2004 Manny Ramirez (Red Sox); 2005 Jermaine Dye (White Sox); 2006 David Eckstein (Cardinals); 2007 Mike Lowell (Red Sox); 2008 Cole Hamels (Phillies); 2009 Hideki Matsui (Yankees); 2010 Edgar Rentería (Giants); 2011 David Freese (Cardinals); 2012 Pablo Sandoval (Giants); 2013 David Ortiz (Red Sox); 2014 Madison Bumgarner (Giants); 2015 Salvador Pérez (Royals); 2016 Ben Zobrist (Cubs); 2017 George Springer (Astros); 2018 Steve Pearce (Red Sox); 2019 Stephen Strasburg (Nationals); 2020 Corey Seager (Dodgers); 2021 Jorge Soler (Braves); 2022 Jeremy Peña (Astros); 2023 Corey Seager (Rangers); 2024 Freddie Freeman (Dodgers); 2025 Yoshinobu Yamamoto (Dodgers).
+WORLD SERIES TITLES BY FRANCHISE
+New York Yankees: 27 World Series titles (most recent 2009; first 1923)
+St. Louis Cardinals: 11 titles (most recent 2011; first 1926)
+Boston Red Sox (incl. Boston Americans): 9 titles (1903, 1912, 1915, 1916, 1918, 2004, 2007, 2013, 2018)
+Los Angeles Dodgers (incl. Brooklyn): 9 titles (1955, 1959, 1963, 1965, 1981, 1988, 2020, 2024, 2025)
+Oakland Athletics (incl. Philadelphia, Kansas City lineage): 9 titles (1910, 1911, 1913, 1929, 1930, 1972, 1973, 1974, 1989)
+San Francisco Giants (incl. New York): 8 titles (1905, 1921, 1922, 1933, 1954, 2010, 2012, 2014)
+Cincinnati Reds: 5 titles (1919, 1940, 1975, 1976, 1990)
+Pittsburgh Pirates: 5 titles (1909, 1925, 1960, 1971, 1979)
+Atlanta Braves (incl. Boston, Milwaukee): 4 titles (1914, 1957, 1995, 2021)
+Detroit Tigers: 4 titles (1935, 1945, 1968, 1984)
+Baltimore Orioles: 3 titles (1966, 1970, 1983)
+Chicago Cubs: 3 titles (1907, 1908, 2016)
+Chicago White Sox: 3 titles (1906, 1917, 2005)
+Minnesota Twins (incl. Washington Senators): 3 titles (1924, 1987, 1991)
+Cleveland Guardians/Indians: 2 titles (1920, 1948); no title since 1948 (last appearance read in list: 2016 loss)
+Houston Astros: 2 titles (2017, 2022); only franchise to appear as both NL (2005) and AL champion
+Kansas City Royals: 2 titles (1985, 2015)
+Miami (Florida) Marlins: 2 titles (1997, 2003), never lost a World Series appearance
+New York Mets: 2 titles (1969, 1986)
+Philadelphia Phillies: 2 titles (1980, 2008)
+Toronto Blue Jays: 2 titles (1992, 1993); only non-US franchise to win a World Series; lost 2025 WS 4-3 to Dodgers
+Arizona Diamondbacks: 1 title (2001)
+Los Angeles (Anaheim) Angels: 1 title (2002)
+Texas Rangers: 1 title (2023, first in franchise history)
+Washington Nationals: 1 title (2019, first in franchise history)
+Winless in World Series appearances (per list): San Diego Padres 0-2, Tampa Bay Rays 0-2, Colorado Rockies 0-1, Milwaukee Brewers 0-1 (1982)
+Droughts: Cubs 1908-2016; Red Sox 1918-2004 (86 years, "Curse of the Bambino"); White Sox 1917-2005 (88 years); Cleveland 1948-present; Astros first title 2017; Rangers first title 2023
+POSTSEASON HISTORY
+Don Larsen of the New York Yankees threw a perfect game in Game 5 of the 1956 World Series on October 8, 1956, beating the Brooklyn Dodgers 2-0 with Yogi Berra catching. It remains the only perfect game in World Series history; he struck out seven and was named Series MVP.
+Roy Halladay of the Phillies threw a no-hitter against the Cincinnati Reds in Game 1 of the 2010 NLDS on October 6, 2010 (4-0), and is the only pitcher with no-hitters in both the regular season (his May 29, 2010 perfect game) and postseason.
+Bill Mazeroski hit a ninth-inning home run in Game 7 of the 1960 World Series to give the Pittsburgh Pirates the title over the Yankees; it was the first World Series to end on a home run and the first winner-take-all World Series game to end that way.
+The 1960 Yankees outscored the Pirates but lost: they scored 55 runs, the most by any team in a World Series, yet Pittsburgh won 4-3. Bobby Richardson was MVP, the first non-pitcher MVP and the only MVP from a losing team.
+Carlton Fisk's walk-off home run won Game 6 of the 1975 World Series for the Red Sox in the 12th inning (7-6 over the Reds) at Fenway Park; the Reds then won Game 7 on a ninth-inning Joe Morgan single.
+Kirk Gibson, injured in both legs and not starting, hit a pinch-hit walk-off home run off Oakland closer Dennis Eckersley in Game 1 of the 1988 World Series; the Dodgers won in five games and Orel Hershiser was MVP.
+Orel Hershiser set the all-time scoreless-inning streak at 59 innings in the 1988 regular season, then won the Series MVP.
+Joe Carter hit a walk-off three-run home run in the bottom of the ninth of Game 6 of the 1993 World Series, with Toronto trailing the Phillies 6-5, to clinch the Blue Jays' second straight title. It was only the second World Series ended by a home run (after Mazeroski in 1960).
+In Game 6 of the 1986 World Series the Mets rallied with two outs and nobody on in the bottom of the 10th, won on an error by Red Sox first baseman Bill Buckner, with Boston twice one strike from the title; the Mets then won Game 7. The collapse became part of the Curse of the Bambino lore.
+David Freese hit a game-tying two-run triple in the ninth and a walk-off home run in the 11th of Game 6 of the 2011 World Series (Cardinals 10, Rangers 9); St. Louis twice came back from two runs down, each time with Texas one strike from a title. Freese was Series MVP and the Cardinals won in seven.
+Albert Pujols hit three home runs in Game 3 of the 2011 World Series, a feat previously done only by Reggie Jackson and Babe Ruth and later by Pablo Sandoval in 2012.
+Game 3 of the 2018 World Series lasted 18 innings and 7 hours 20 minutes, the longest World Series game by innings and time: Max Muncy homered in the bottom of the 18th to give the Dodgers a 3-2 win over the Red Sox (October 26, 2018). The Red Sox still won the Series 4-1.
+Game 3 of the 2025 World Series also went 18 innings: Freddie Freeman hit a walk-off home run off Brendon Little in the 18th for the Dodgers over the Blue Jays; it was the second-longest World Series game by time.
+The 2025 World Series: the Los Angeles Dodgers beat the Toronto Blue Jays 4-3, winning Game 7 in 11 innings (Miguel Rojas tied it with a two-out ninth-inning homer, Will Smith hit the go-ahead homer in the 11th). Yoshinobu Yamamoto was Series MVP. Dodgers were the first back-to-back champion since the 2000 Yankees.
+Reggie Jackson hit three consecutive home runs in the clinching Game 6 of the 1977 World Series at Yankee Stadium (five home runs in the Series) and was MVP; this is the root of his 'Mr. October' nickname.
+The Chicago Cubs won the 2016 World Series 4-3 over Cleveland, winning Game 7 8-7 in ten innings after a rain delay and coming back from a 3-1 deficit; it was their first title since 1908 and ended what Wikipedia calls the longest championship drought in North American pro sports history.
+The Curse of the Bambino was the superstition behind the Red Sox's 86-year drought (1918-2004), tied to Harry Frazee selling Babe Ruth to the Yankees; it ended with a 4-0 sweep of the Cardinals in 2004 after beating the Yankees in the ALCS following a 0-3 deficit.

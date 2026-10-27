@@ -1,0 +1,2560 @@
+{
+ "films": [
+  {
+   "title": "The Texas Chainsaw Massacre",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "slasher remake",
+   "director": "Marcus Nispel",
+   "writers": "Scott Kosar",
+   "basedOn": "Remake of The Texas Chain Saw Massacre (1974)",
+   "distributor": "New Line Cinema",
+   "setting": "rural Texas",
+   "cast": [
+    [
+     "Jessica Biel",
+     "Erin"
+    ],
+    [
+     "Jonathan Tucker",
+     "Morgan"
+    ],
+    [
+     "Erica Leerhsen",
+     "Pepper"
+    ],
+    [
+     "Mike Vogel",
+     "Andy"
+    ],
+    [
+     "Eric Balfour",
+     "Kemper"
+    ],
+    [
+     "R. Lee Ermey",
+     "Sheriff Winston Hoyt / Charlie Hewitt Jr."
+    ]
+   ],
+   "villain": "Leatherface and his family, the Hewitts",
+   "boxOffice": "$107.4M worldwide on $9.5M budget",
+   "notes": [
+    "Marcus Nispel's feature directorial debut",
+    "Produced by Michael Bay and Mike Fleiss",
+    "Fifth installment in the Texas Chainsaw Massacre franchise",
+    "Released October 17, 2003"
+   ],
+   "sources": [
+    "wp:The_Texas_Chainsaw_Massacre_(2003_film)"
+   ]
+  },
+  {
+   "title": "Freddy vs. Jason",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "crossover slasher",
+   "director": "Ronny Yu",
+   "writers": "Damian Shannon and Mark Swift",
+   "basedOn": "Characters created by Wes Craven and Victor Miller",
+   "distributor": "New Line Cinema",
+   "setting": "",
+   "cast": [
+    [
+     "Robert Englund",
+     "Freddy Krueger"
+    ],
+    [
+     "Ken Kirzinger",
+     "Jason Voorhees"
+    ],
+    [
+     "Monica Keena",
+     "Lori Campbell"
+    ],
+    [
+     "Kelly Rowland",
+     "Kia Waterson"
+    ],
+    [
+     "Jason Ritter",
+     "Will Rollins"
+    ],
+    [
+     "Christopher George Marquette",
+     "Charlie Linderman"
+    ]
+   ],
+   "villain": "Freddy Krueger and Jason Voorhees",
+   "boxOffice": "$117M worldwide on $30M budget",
+   "notes": [
+    "Crossover of the A Nightmare on Elm Street and Friday the 13th franchises",
+    "Eighth Nightmare on Elm Street film and eleventh Friday the 13th film",
+    "Ken Kirzinger played Jason; Robert Englund returned as Freddy",
+    "Evangeline Lilly had a walk-on role as a high school student",
+    "Studio chief Robert Shaye played the school principal (credited as L.E. Moko)",
+    "Released August 15, 2003"
+   ],
+   "sources": [
+    "wp:Freddy_vs._Jason"
+   ]
+  },
+  {
+   "title": "Saw",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "torture horror",
+   "director": "James Wan",
+   "writers": "Leigh Whannell (story by Wan and Whannell)",
+   "basedOn": "",
+   "distributor": "Lions Gate Films",
+   "setting": "a dilapidated bathroom",
+   "cast": [
+    [
+     "Leigh Whannell",
+     "Adam"
+    ],
+    [
+     "Cary Elwes",
+     "Dr. Lawrence Gordon"
+    ],
+    [
+     "Danny Glover",
+     "Detective David Tapp"
+    ],
+    [
+     "Ken Leung",
+     "Detective Steven Sing"
+    ],
+    [
+     "Monica Potter",
+     "Alison Gordon"
+    ],
+    [
+     "Tobin Bell",
+     "Jigsaw"
+    ]
+   ],
+   "villain": "Jigsaw Killer, who puts victims through deadly 'games'",
+   "boxOffice": "$104M worldwide on $1-1.2M budget",
+   "notes": [
+    "James Wan's feature directorial debut",
+    "Premiered at Sundance on January 19, 2004; released in North America October 29, 2004",
+    "Shot in 18 days",
+    "Based on a low-budget short film by Wan and Whannell; launched Twisted Pictures",
+    "Originally planned as straight-to-video",
+    "Launched the Saw franchise; Saw II followed in October 2005"
+   ],
+   "sources": [
+    "wp:Saw_(film)"
+   ]
+  },
+  {
+   "title": "Dawn of the Dead",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "zombie remake",
+   "director": "Zack Snyder",
+   "writers": "James Gunn",
+   "basedOn": "Remake of Dawn of the Dead (1978) by George A. Romero",
+   "distributor": "Universal Pictures",
+   "setting": "a shopping mall in Milwaukee, Wisconsin",
+   "cast": [
+    [
+     "Sarah Polley",
+     "Ana"
+    ],
+    [
+     "Ving Rhames",
+     "Kenneth"
+    ],
+    [
+     "Jake Weber",
+     "Michael"
+    ],
+    [
+     "Ty Burrell",
+     "Steve"
+    ],
+    [
+     "Mekhi Phifer",
+     "Andre"
+    ],
+    [
+     "Michael Kelly",
+     "CJ"
+    ]
+   ],
+   "villain": "Zombie apocalypse",
+   "boxOffice": "$102.3M worldwide on $26M budget",
+   "notes": [
+    "Zack Snyder's feature directorial debut",
+    "Scott Reiniger, Tom Savini and Ken Foree from the 1978 film have cameos",
+    "Filmed June-September 2003 at a Toronto mall slated for demolition",
+    "Released March 19, 2004",
+    "Romero disliked the remake"
+   ],
+   "sources": [
+    "wp:Dawn_of_the_Dead_(2004_film)"
+   ]
+  },
+  {
+   "title": "Shaun of the Dead",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "zombie comedy",
+   "director": "Edgar Wright",
+   "writers": "Simon Pegg and Edgar Wright",
+   "basedOn": "",
+   "distributor": "Universal Pictures (through United International Pictures)",
+   "setting": "London",
+   "cast": [
+    [
+     "Simon Pegg",
+     "Shaun"
+    ],
+    [
+     "Nick Frost",
+     "Ed"
+    ],
+    [
+     "Kate Ashfield",
+     "Liz"
+    ],
+    [
+     "Lucy Davis",
+     "Dianne"
+    ],
+    [
+     "Dylan Moran",
+     "David"
+    ],
+    [
+     "Bill Nighy",
+     "Philip"
+    ],
+    [
+     "Penelope Wilton",
+     "Barbara"
+    ]
+   ],
+   "villain": "Zombies",
+   "boxOffice": "$38.7M worldwide on £4M ($6M) budget",
+   "notes": [
+    "First film of the Three Flavours Cornetto trilogy (Hot Fuzz 2007, The World's End 2013)",
+    "Nick Frost's film debut",
+    "Premiered in London on March 29, 2004",
+    "Mark Gatiss and David Walliams voiced news reporters (uncredited)"
+   ],
+   "sources": [
+    "wp:Shaun_of_the_Dead"
+   ]
+  },
+  {
+   "title": "The Grudge",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "J-horror remake",
+   "director": "Takashi Shimizu",
+   "writers": "Stephen Susco",
+   "basedOn": "Remake of Ju-On: The Grudge (2002)",
+   "distributor": "Columbia Pictures",
+   "setting": "Tokyo",
+   "cast": [
+    [
+     "Sarah Michelle Gellar",
+     "Karen Davis"
+    ],
+    [
+     "Jason Behr",
+     "Doug"
+    ],
+    [
+     "KaDee Strickland",
+     "Susan Williams"
+    ],
+    [
+     "Clea DuVall",
+     "Jennifer Williams"
+    ],
+    [
+     "Bill Pullman",
+     "Peter Kirk"
+    ],
+    [
+     "Takako Fuji",
+     "Kayako Saeki"
+    ]
+   ],
+   "villain": "Kayako Saeki, Toshio Saeki and Takeo Saeki",
+   "boxOffice": "$187.3M worldwide on $10M budget",
+   "notes": [
+    "Remake of Shimizu's own 2002 film",
+    "Produced by Sam Raimi, Robert Tapert and Takashige Ichise",
+    "US-Japan co-production",
+    "First installment of The Grudge series",
+    "Told in a nonlinear sequence"
+   ],
+   "sources": [
+    "wp:The_Grudge"
+   ]
+  },
+  {
+   "title": "The Descent",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "creature horror",
+   "director": "Neil Marshall",
+   "writers": "Neil Marshall",
+   "basedOn": "",
+   "distributor": "Pathé Distribution",
+   "setting": "an uncharted cave system",
+   "cast": [
+    [
+     "Shauna Macdonald",
+     "Sarah"
+    ],
+    [
+     "Natalie Mendoza",
+     "Juno"
+    ],
+    [
+     "Alex Reid",
+     "Beth"
+    ],
+    [
+     "MyAnna Buring",
+     "Sam"
+    ],
+    [
+     "Saskia Mulder",
+     "Rebecca"
+    ],
+    [
+     "Nora-Jane Noone",
+     "Holly"
+    ]
+   ],
+   "villain": "Monstrous cave-dwelling creatures",
+   "boxOffice": "$57.1M worldwide on £3.5M budget",
+   "notes": [
+    "British film; opened in UK July 8, 2005, US August 4, 2006",
+    "Interior cave scenes filmed on sets at Pinewood Studios",
+    "Exteriors filmed at Ashridge Park, Hertfordshire, and in Scotland",
+    "Premiered at Sundance in 2006",
+    "Sequel The Descent Part 2 released in 2009"
+   ],
+   "sources": [
+    "wp:The_Descent"
+   ]
+  },
+  {
+   "title": "Hostel",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "Wikipedia titles it a 2005 film; US theatrical release was January 6, 2006",
+   "tier": 1,
+   "genreNote": "torture horror",
+   "director": "Eli Roth",
+   "writers": "Eli Roth",
+   "basedOn": "",
+   "distributor": "Lions Gate Films / Screen Gems",
+   "setting": "Slovakia",
+   "cast": [
+    [
+     "Jay Hernandez",
+     "Paxton Rodriguez"
+    ],
+    [
+     "Derek Richardson",
+     "Josh Brooks"
+    ],
+    [
+     "Eyþór Guðjónsson",
+     "Óli Eriksson"
+    ],
+    [
+     "Barbara Nedeljáková",
+     "Natalya"
+    ],
+    [
+     "Jan Vlasák",
+     "the Dutch businessman"
+    ],
+    [
+     "Jennifer Lim",
+     "Kana"
+    ]
+   ],
+   "villain": "The Elite Hunting Club, which lets clients torture and kill abducted tourists",
+   "boxOffice": "$82M worldwide on $4.8M budget",
+   "notes": [
+    "Quentin Tarantino was an executive producer",
+    "Released in the US January 6, 2006",
+    "Followed by Hostel: Part II (2007) and Hostel: Part III (2011)",
+    "Produced by Mike Fleiss, Eli Roth and Chris Briggs"
+   ],
+   "sources": [
+    "wp:Hostel_(2005_film)"
+   ]
+  },
+  {
+   "title": "Saw II",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 1,
+   "genreNote": "torture horror sequel",
+   "director": "Darren Lynn Bousman",
+   "writers": "Leigh Whannell and Darren Lynn Bousman",
+   "basedOn": "",
+   "distributor": "Lions Gate Films",
+   "setting": "",
+   "cast": [
+    [
+     "Tobin Bell",
+     "Jigsaw / John Kramer"
+    ],
+    [
+     "Shawnee Smith",
+     "Amanda Young"
+    ],
+    [
+     "Donnie Wahlberg",
+     "Eric Matthews"
+    ],
+    [
+     "Erik Knudsen",
+     "Daniel Matthews"
+    ],
+    [
+     "Franky G",
+     "Xavier"
+    ],
+    [
+     "Emmanuelle Vaugier",
+     "Addison"
+    ],
+    [
+     "Glenn Plummer",
+     "Jonas"
+    ],
+    [
+     "Beverley Mitchell",
+     "Laura"
+    ]
+   ],
+   "villain": "Jigsaw Killer (John Kramer)",
+   "boxOffice": "$152.9M worldwide on $4M budget",
+   "notes": [
+    "Darren Lynn Bousman's feature directorial debut",
+    "Sequel to Saw (2004); second Saw film",
+    "Released October 28, 2005"
+   ],
+   "sources": [
+    "wp:Saw_II"
+   ]
+  },
+  {
+   "title": "House of 1000 Corpses",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "black comedy horror",
+   "director": "Rob Zombie",
+   "writers": "Rob Zombie",
+   "basedOn": "",
+   "distributor": "Lions Gate Films",
+   "setting": "",
+   "cast": [
+    [
+     "Sid Haig",
+     "Captain Spaulding"
+    ],
+    [
+     "Bill Moseley",
+     "Otis Driftwood"
+    ],
+    [
+     "Sheri Moon",
+     "Baby Firefly"
+    ],
+    [
+     "Karen Black",
+     "Mother Firefly"
+    ]
+   ],
+   "villain": "The psychopathic Firefly family",
+   "boxOffice": "$16.8M worldwide on $7M budget",
+   "notes": [
+    "Rob Zombie's directorial debut",
+    "First film in the Firefly series; followed by The Devil's Rejects (2005)",
+    "Dennis Fimple's final role",
+    "Released April 11, 2003"
+   ],
+   "sources": [
+    "wp:House_of_1000_Corpses"
+   ]
+  },
+  {
+   "title": "Wrong Turn",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "slasher / backwoods horror",
+   "director": "Rob Schmidt",
+   "writers": "Alan B. McElroy",
+   "basedOn": "",
+   "distributor": "20th Century Fox",
+   "setting": "the woods of West Virginia",
+   "cast": [
+    [
+     "Desmond Harrington",
+     "Chris Flynn"
+    ],
+    [
+     "Eliza Dushku",
+     "Jessie Burlingame"
+    ],
+    [
+     "Emmanuelle Chriqui",
+     "Carly"
+    ],
+    [
+     "Jeremy Sisto",
+     "Scott"
+    ]
+   ],
+   "villain": "Deformed, inbred, cannibalistic mountain men (Saw Tooth, One Eye, Three Finger)",
+   "boxOffice": "$28.7M worldwide on $12.6M budget",
+   "notes": [
+    "First installment of the Wrong Turn film series",
+    "Released May 30, 2003"
+   ],
+   "sources": [
+    "wp:Wrong_Turn_(2003_film)"
+   ]
+  },
+  {
+   "title": "Final Destination 2",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "supernatural horror sequel",
+   "director": "David R. Ellis",
+   "writers": "J. Mackye Gruber and Eric Bress",
+   "basedOn": "",
+   "distributor": "New Line Cinema",
+   "setting": "",
+   "cast": [
+    [
+     "Ali Larter",
+     "Clear Rivers"
+    ],
+    [
+     "A. J. Cook",
+     "Kimberly Corman"
+    ],
+    [
+     "Michael Landes",
+     "Thomas Burke"
+    ],
+    [
+     "Tony Todd",
+     "William Bludworth"
+    ]
+   ],
+   "villain": "Death (unseen force)",
+   "boxOffice": "$90.9M worldwide on $26M budget",
+   "notes": [
+    "Sequel to Final Destination (2000); second film in the series",
+    "Story by Gruber, Bress and Jeffrey Reddick",
+    "Released January 31, 2003"
+   ],
+   "sources": [
+    "wp:Final_Destination_2"
+   ]
+  },
+  {
+   "title": "Underworld",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "action horror (vampires vs. werewolves)",
+   "director": "Len Wiseman",
+   "writers": "Danny McBride (story by Kevin Grevioux, Wiseman, McBride)",
+   "basedOn": "",
+   "distributor": "Sony Pictures Releasing",
+   "setting": "",
+   "cast": [
+    [
+     "Kate Beckinsale",
+     "Selene"
+    ],
+    [
+     "Scott Speedman",
+     "Michael Corvin"
+    ],
+    [
+     "Michael Sheen",
+     "Lucian"
+    ],
+    [
+     "Bill Nighy",
+     "Viktor"
+    ]
+   ],
+   "villain": "Lycans led by Lucian; vampire elder Viktor",
+   "boxOffice": "$95.7M worldwide on $22M budget",
+   "notes": [
+    "Len Wiseman's feature directorial debut",
+    "Story co-credited to Kevin Grevioux, who also plays Raze",
+    "US-UK-Germany-Hungary co-production"
+   ],
+   "sources": [
+    "wp:Underworld_(2003_film)"
+   ]
+  },
+  {
+   "title": "Gothika",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "psychological horror",
+   "director": "Mathieu Kassovitz",
+   "writers": "Sebastian Gutierrez",
+   "basedOn": "",
+   "distributor": "Warner Bros. Pictures / Columbia Pictures",
+   "setting": "a psychiatric penitentiary",
+   "cast": [
+    [
+     "Halle Berry",
+     "Dr. Miranda Grey"
+    ],
+    [
+     "Robert Downey Jr.",
+     "Dr. Pete Graham"
+    ],
+    [
+     "Penélope Cruz",
+     "Chloe Sava"
+    ],
+    [
+     "Charles S. Dutton",
+     "Dr. Douglas Grey"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$141.6M worldwide on $40M budget",
+   "notes": [
+    "Fourth film from Dark Castle Entertainment, following Ghost Ship (2002)",
+    "Co-produced by Joel Silver and Robert Zemeckis",
+    "Filmed in Quebec/Montreal in spring 2003",
+    "Released November 21, 2003"
+   ],
+   "sources": [
+    "wp:Gothika"
+   ]
+  },
+  {
+   "title": "High Tension",
+   "altTitles": [
+    "Haute tension",
+    "Switchblade Romance"
+   ],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "French slasher",
+   "director": "Alexandre Aja",
+   "writers": "Alexandre Aja and Grégory Levasseur",
+   "basedOn": "",
+   "distributor": "EuropaCorp Distribution",
+   "setting": "a secluded farmhouse",
+   "cast": [
+    [
+     "Cécile de France",
+     "Marie"
+    ],
+    [
+     "Maïwenn",
+     "Alexia Soral"
+    ],
+    [
+     "Philippe Nahon",
+     "The Killer"
+    ]
+   ],
+   "villain": "The Killer (Philippe Nahon)",
+   "boxOffice": "$6.8M worldwide on $2.5M budget",
+   "notes": [
+    "French title Haute tension; also known as Switchblade Romance",
+    "Released in France June 18, 2003",
+    "Screened at Toronto's Midnight Madness 2003, where Lionsgate acquired it",
+    "Lionsgate re-dubbed and re-edited it for a US release on June 10, 2005"
+   ],
+   "sources": [
+    "wp:High_Tension"
+   ]
+  },
+  {
+   "title": "A Tale of Two Sisters",
+   "altTitles": [
+    "Janghwa, Hongryeon"
+   ],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "Korean psychological horror",
+   "director": "Kim Jee-woon",
+   "writers": "Kim Jee-woon",
+   "basedOn": "Joseon-era folktale Janghwa Hongryeon jeon",
+   "distributor": "Cineclick Asia / Big Blue Film",
+   "setting": "",
+   "cast": [
+    [
+     "Im Soo-jung",
+     "Bae Su-mi"
+    ],
+    [
+     "Moon Geun-young",
+     "Bae Su-yeon"
+    ],
+    [
+     "Yum Jung-ah",
+     "Heo Eun-joo"
+    ],
+    [
+     "Kim Kap-soo",
+     "Bae Moo-hyeon"
+    ]
+   ],
+   "villain": "The unhinged stepmother Eun-joo",
+   "boxOffice": "$1M worldwide on $3.7M budget",
+   "notes": [
+    "Won Best Picture at the 2004 Fantasporto Film Festival",
+    "Highest-grossing South Korean horror film",
+    "First South Korean film screened in American theatres",
+    "Released June 13, 2003"
+   ],
+   "sources": [
+    "wp:A_Tale_of_Two_Sisters"
+   ]
+  },
+  {
+   "title": "Van Helsing",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "action horror",
+   "director": "Stephen Sommers",
+   "writers": "Stephen Sommers",
+   "basedOn": "Universal Horror monster films; Bram Stoker's Dracula",
+   "distributor": "Universal Pictures",
+   "setting": "",
+   "cast": [
+    [
+     "Hugh Jackman",
+     "Gabriel Van Helsing"
+    ],
+    [
+     "Kate Beckinsale",
+     "Anna Valerious"
+    ],
+    [
+     "Richard Roxburgh",
+     "Count Dracula"
+    ],
+    [
+     "David Wenham",
+     "Carl"
+    ]
+   ],
+   "villain": "Count Dracula",
+   "boxOffice": "$300.2M worldwide on $160-170M budget",
+   "notes": [
+    "Homage to the 1930s-40s Universal monster movies",
+    "Released May 7, 2004",
+    "Kevin J. O'Connor plays Igor"
+   ],
+   "sources": [
+    "wp:Van_Helsing_(film)"
+   ]
+  },
+  {
+   "title": "Resident Evil: Apocalypse",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "video game action horror",
+   "director": "Alexander Witt",
+   "writers": "Paul W. S. Anderson",
+   "basedOn": "Resident Evil video game series",
+   "distributor": "Sony Pictures Releasing",
+   "setting": "",
+   "cast": [
+    [
+     "Milla Jovovich",
+     "Alice"
+    ],
+    [
+     "Sienna Guillory",
+     "Jill Valentine"
+    ],
+    [
+     "Oded Fehr",
+     "Carlos Olivera"
+    ],
+    [
+     "Thomas Kretschmann",
+     "Major Cain"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$129.3M worldwide on $45M budget",
+   "notes": [
+    "Alexander Witt's feature directorial debut",
+    "Sequel to Resident Evil (2002)",
+    "Paul W. S. Anderson wrote and produced but did not direct"
+   ],
+   "sources": [
+    "wp:Resident_Evil:_Apocalypse"
+   ]
+  },
+  {
+   "title": "Wolf Creek",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "Australian outback slasher",
+   "director": "Greg McLean",
+   "writers": "Greg McLean",
+   "basedOn": "",
+   "distributor": "Roadshow Films / Dimension Films",
+   "setting": "the Australian outback",
+   "cast": [
+    [
+     "John Jarratt",
+     "Mick Taylor"
+    ],
+    [
+     "Nathan Phillips",
+     "Ben Mitchell"
+    ],
+    [
+     "Cassandra Magrath",
+     "Liz Hunter"
+    ],
+    [
+     "Kestie Morassi",
+     "Kristy Earl"
+    ]
+   ],
+   "villain": "Mick Taylor, a serial killer",
+   "boxOffice": "AU$47.8M (US$30.8M) on AU$1.4M budget",
+   "notes": [
+    "Set in 1999",
+    "Marketed as 'based on true events'; plot echoes Ivan Milat's backpacker murders",
+    "Premiered at Sundance Jan 24, 2005; Australian release Nov 3, 2005"
+   ],
+   "sources": [
+    "wp:Wolf_Creek_(film)"
+   ]
+  },
+  {
+   "title": "House of Wax",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "slasher remake",
+   "director": "Jaume Collet-Serra",
+   "writers": "Chad Hayes and Carey W. Hayes",
+   "basedOn": "Remake of House of Wax (1953), based on the story 'The Wax Works' by Charles S. Belden",
+   "distributor": "Warner Bros. Pictures",
+   "setting": "",
+   "cast": [
+    [
+     "Elisha Cuthbert",
+     "Carly Jones"
+    ],
+    [
+     "Chad Michael Murray",
+     "Nick Jones"
+    ],
+    [
+     "Brian Van Holt",
+     "Bo and Vincent Sinclair"
+    ],
+    [
+     "Paris Hilton",
+     "Paige Edwards"
+    ]
+   ],
+   "villain": "Bo and Vincent Sinclair (both played by Brian Van Holt)",
+   "boxOffice": "$70.1M worldwide on $40M budget",
+   "notes": [
+    "Jaume Collet-Serra's feature directorial debut",
+    "Premiered at Tribeca April 30, 2005; US release May 6, 2005",
+    "Remake of a 1953 film that was itself a remake of Mystery of the Wax Museum (1933)"
+   ],
+   "sources": [
+    "wp:House_of_Wax_(2005_film)"
+   ]
+  },
+  {
+   "title": "The Exorcism of Emily Rose",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "supernatural horror legal drama",
+   "director": "Scott Derrickson",
+   "writers": "Paul Harris Boardman and Scott Derrickson",
+   "basedOn": "",
+   "distributor": "Screen Gems",
+   "setting": "",
+   "cast": [
+    [
+     "Laura Linney",
+     "Erin Bruner"
+    ],
+    [
+     "Tom Wilkinson",
+     "Father Richard Moore"
+    ],
+    [
+     "Jennifer Carpenter",
+     "Emily Rose"
+    ],
+    [
+     "Campbell Scott",
+     "Ethan Thomas"
+    ]
+   ],
+   "villain": "Demonic possession of Emily Rose",
+   "boxOffice": "$145.2M worldwide on $19M budget",
+   "notes": [
+    "Priest is on trial for negligent homicide after an exorcism",
+    "Story loosely based on a real case",
+    "Released September 9, 2005"
+   ],
+   "sources": [
+    "wp:The_Exorcism_of_Emily_Rose"
+   ]
+  },
+  {
+   "title": "Land of the Dead",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "zombie horror",
+   "director": "George A. Romero",
+   "writers": "George A. Romero",
+   "basedOn": "",
+   "distributor": "Universal Pictures",
+   "setting": "",
+   "cast": [
+    [
+     "Simon Baker",
+     "Riley Denbo"
+    ],
+    [
+     "John Leguizamo",
+     "Cholo DeMora"
+    ],
+    [
+     "Dennis Hopper",
+     "Paul Kaufman"
+    ],
+    [
+     "Asia Argento",
+     "Slack"
+    ]
+   ],
+   "villain": "Zombies",
+   "boxOffice": "$47.1M worldwide on $15M budget",
+   "notes": [
+    "Fourth of Romero's six Living Dead films",
+    "Highest budget in Romero's Dead series",
+    "Simon Pegg and Edgar Wright cameo as zombies",
+    "Released June 24, 2005 in US/Canada"
+   ],
+   "sources": [
+    "wp:Land_of_the_Dead"
+   ]
+  },
+  {
+   "title": "Dark Water",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "J-horror remake",
+   "director": "Walter Salles",
+   "writers": "Rafael Yglesias",
+   "basedOn": "Short story 'Floating Water' by Koji Suzuki; remake of Dark Water (2002)",
+   "distributor": "Buena Vista Pictures Distribution",
+   "setting": "",
+   "cast": [
+    [
+     "Jennifer Connelly",
+     "Dahlia"
+    ],
+    [
+     "John C. Reilly",
+     "Mr. Murray"
+    ],
+    [
+     "Tim Roth",
+     "Jeff Platzer"
+    ],
+    [
+     "Dougray Scott",
+     "Kyle"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$49.5M worldwide on $30M budget",
+   "notes": [
+    "Remake of Hideo Nakata's 2002 Japanese film",
+    "Based on a story by Ring author Koji Suzuki",
+    "US-Japan co-production",
+    "Released July 8, 2005"
+   ],
+   "sources": [
+    "wp:Dark_Water_(2005_film)"
+   ]
+  },
+  {
+   "title": "The Ring Two",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "J-horror sequel",
+   "director": "Hideo Nakata",
+   "writers": "Ehren Kruger",
+   "basedOn": "Ring novel by Koji Suzuki",
+   "distributor": "DreamWorks Pictures",
+   "setting": "",
+   "cast": [
+    [
+     "Naomi Watts",
+     "Rachel Keller"
+    ],
+    [
+     "David Dorfman",
+     "Aidan"
+    ],
+    [
+     "Simon Baker",
+     "Max Rourke"
+    ],
+    [
+     "Sissy Spacek",
+     "Evelyn Borden"
+    ]
+   ],
+   "villain": "Samara Morgan",
+   "boxOffice": "$164M worldwide on $50M budget",
+   "notes": [
+    "Directed by Hideo Nakata, director of the original Japanese Ringu",
+    "Mary Elizabeth Winstead's feature film debut",
+    "Released March 18, 2005"
+   ],
+   "sources": [
+    "wp:The_Ring_Two"
+   ]
+  },
+  {
+   "title": "Constantine",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "superhero horror",
+   "director": "Francis Lawrence",
+   "writers": "Kevin Brodbin and Frank Cappello",
+   "basedOn": "Hellblazer comic book series",
+   "distributor": "Warner Bros. Pictures",
+   "setting": "Los Angeles",
+   "cast": [
+    [
+     "Keanu Reeves",
+     "John Constantine"
+    ],
+    [
+     "Rachel Weisz",
+     "Angela Dodson / Isabel Dodson"
+    ],
+    [
+     "Shia LaBeouf",
+     ""
+    ],
+    [
+     "Tilda Swinton",
+     ""
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$230.9M worldwide on $70-100M budget",
+   "notes": [
+    "Francis Lawrence's feature directorial debut",
+    "Loosely based on Hellblazer",
+    "Released February 18, 2005 in US"
+   ],
+   "sources": [
+    "wp:Constantine_(film)"
+   ]
+  },
+  {
+   "title": "The Devil's Rejects",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "black comedy horror",
+   "director": "Rob Zombie",
+   "writers": "Rob Zombie",
+   "basedOn": "",
+   "distributor": "Lions Gate Films",
+   "setting": "",
+   "cast": [
+    [
+     "Sid Haig",
+     "Captain Spaulding"
+    ],
+    [
+     "Bill Moseley",
+     "Otis Driftwood"
+    ],
+    [
+     "Sheri Moon Zombie",
+     "Baby Firefly"
+    ],
+    [
+     "William Forsythe",
+     "Sheriff John Quincey Wydell"
+    ]
+   ],
+   "villain": "The Firefly family; Sheriff Wydell",
+   "boxOffice": "$20.9M worldwide on $7M budget",
+   "notes": [
+    "Sequel to House of 1000 Corpses (2003)",
+    "Followed by 3 from Hell (2019)",
+    "Released July 22, 2005"
+   ],
+   "sources": [
+    "wp:The_Devil's_Rejects"
+   ]
+  },
+  {
+   "title": "Corpse Bride",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "stop-motion gothic fantasy",
+   "director": "Mike Johnson and Tim Burton",
+   "writers": "John August, Caroline Thompson and Pamela Pettler",
+   "basedOn": "",
+   "distributor": "Warner Bros. Pictures",
+   "setting": "an English village",
+   "cast": [
+    [
+     "Johnny Depp",
+     "Victor Van Dort"
+    ],
+    [
+     "Helena Bonham Carter",
+     "Emily"
+    ],
+    [
+     "Emily Watson",
+     "Victoria Everglot"
+    ],
+    [
+     "Richard E. Grant",
+     "Barkis Bittern"
+    ]
+   ],
+   "villain": "Barkis Bittern, a murderous con artist",
+   "boxOffice": "$118.1M worldwide on $40M budget",
+   "notes": [
+    "Stop-motion animated musical",
+    "Premiered at Venice September 7, 2005",
+    "Tim Burton co-directed with Mike Johnson",
+    "Michael Gough voiced Elder Gutknecht"
+   ],
+   "sources": [
+    "wp:Corpse_Bride"
+   ]
+  },
+  {
+   "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "animated horror comedy",
+   "director": "Nick Park and Steve Box",
+   "writers": "Steve Box, Nick Park, Mark Burton and Bob Baker",
+   "basedOn": "",
+   "distributor": "DreamWorks Pictures / United International Pictures",
+   "setting": "",
+   "cast": [
+    [
+     "Peter Sallis",
+     "Wallace"
+    ],
+    [
+     "Ralph Fiennes",
+     ""
+    ],
+    [
+     "Helena Bonham Carter",
+     ""
+    ],
+    [
+     "Peter Kay",
+     ""
+    ]
+   ],
+   "villain": "The Were-Rabbit",
+   "boxOffice": "$192.7M worldwide on $30M budget",
+   "notes": [
+    "Fourth Wallace & Gromit installment and the first feature-length one",
+    "Produced by DreamWorks Animation and Aardman",
+    "Parody of classic monster films"
+   ],
+   "sources": [
+    "wp:Wallace_&_Gromit:_The_Curse_of_the_Were-Rabbit"
+   ]
+  },
+  {
+   "title": "Seed of Chucky",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "black comedy slasher",
+   "director": "Don Mancini",
+   "writers": "Don Mancini",
+   "basedOn": "",
+   "distributor": "Rogue Pictures",
+   "setting": "",
+   "cast": [
+    [
+     "Brad Dourif",
+     "voice of Chucky"
+    ],
+    [
+     "Jennifer Tilly",
+     "herself / voice of Tiffany"
+    ],
+    [
+     "Billy Boyd",
+     "voice of Glen / Glenda"
+    ],
+    [
+     "Redman",
+     "himself"
+    ]
+   ],
+   "villain": "Chucky and Tiffany",
+   "boxOffice": "$24.8M worldwide on $12-29M budget",
+   "notes": [
+    "Don Mancini's directorial debut",
+    "Fifth Child's Play film; sequel to Bride of Chucky (1998)",
+    "Set six years after Bride of Chucky"
+   ],
+   "sources": [
+    "wp:Seed_of_Chucky"
+   ]
+  },
+  {
+   "title": "The Village",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "psychological horror thriller",
+   "director": "M. Night Shyamalan",
+   "writers": "M. Night Shyamalan",
+   "basedOn": "",
+   "distributor": "Buena Vista Pictures Distribution",
+   "setting": "a village surrounded by woods",
+   "cast": [
+    [
+     "Bryce Dallas Howard",
+     "Ivy Walker"
+    ],
+    [
+     "Joaquin Phoenix",
+     "Lucius Hunt"
+    ],
+    [
+     "Adrien Brody",
+     "Noah Percy"
+    ],
+    [
+     "William Hurt",
+     "Edward Walker"
+    ]
+   ],
+   "villain": "Creatures said to live in the woods",
+   "boxOffice": "$256.7M worldwide on $60-71.7M budget",
+   "notes": [
+    "Written, produced and directed by Shyamalan",
+    "Released July 30, 2004",
+    "Received mixed reviews"
+   ],
+   "sources": [
+    "wp:The_Village_(2004_film)"
+   ]
+  },
+  {
+   "title": "Boogeyman",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "supernatural horror",
+   "director": "Stephen Kay",
+   "writers": "Eric Kripke, Juliet Snowden and Stiles White",
+   "basedOn": "",
+   "distributor": "Screen Gems",
+   "setting": "",
+   "cast": [
+    [
+     "Barry Watson",
+     "Tim Jensen"
+    ],
+    [
+     "Emily Deschanel",
+     "Kate Houghton"
+    ],
+    [
+     "Skye McCole Bartusiak",
+     "Franny Roberts"
+    ],
+    [
+     "Lucy Lawless",
+     "Mary Jensen"
+    ]
+   ],
+   "villain": "The Boogeyman",
+   "boxOffice": "$67.2M worldwide on $20M budget",
+   "notes": [
+    "Story by Eric Kripke",
+    "Released February 4, 2005"
+   ],
+   "sources": [
+    "wp:Boogeyman_(film)"
+   ]
+  },
+  {
+   "title": "Identity",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "psychological slasher",
+   "director": "James Mangold",
+   "writers": "Michael Cooney",
+   "basedOn": "",
+   "distributor": "Sony Pictures Releasing",
+   "setting": "an isolated motel in the Nevada desert",
+   "cast": [
+    [
+     "John Cusack",
+     "Ed Dakota"
+    ],
+    [
+     "Ray Liotta",
+     "Samuel Rhodes"
+    ],
+    [
+     "Amanda Peet",
+     "Paris Nevada"
+    ],
+    [
+     "John Hawkes",
+     "Larry Washington"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$90.3M worldwide on $28M budget",
+   "notes": [
+    "Ten strangers stranded at a motel during a storm",
+    "Released April 25, 2003"
+   ],
+   "sources": [
+    "wp:Identity_(2003_film)"
+   ]
+  },
+  {
+   "title": "Alien vs. Predator",
+   "altTitles": [
+    "AVP: Alien vs. Predator"
+   ],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "sci-fi horror",
+   "director": "Paul W. S. Anderson",
+   "writers": "Paul W. S. Anderson",
+   "basedOn": "Alien and Predator franchises",
+   "distributor": "20th Century Fox",
+   "setting": "an ancient pyramid",
+   "cast": [
+    [
+     "Sanaa Lathan",
+     "Alexa 'Lex' Woods"
+    ],
+    [
+     "Raoul Bova",
+     "Professor Sebastian De Rosa"
+    ],
+    [
+     "Lance Henriksen",
+     "Charles Bishop Weyland"
+    ],
+    [
+     "Ewen Bremner",
+     ""
+    ]
+   ],
+   "villain": "Aliens and Predators",
+   "boxOffice": "$177M worldwide on $60-70M budget",
+   "notes": [
+    "First installment of the Alien vs. Predator franchise",
+    "Released August 13, 2004 in US"
+   ],
+   "sources": [
+    "wp:Alien_vs._Predator_(film)"
+   ]
+  },
+  {
+   "title": "Exorcist: The Beginning",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 2,
+   "genreNote": "supernatural horror prequel",
+   "director": "Renny Harlin",
+   "writers": "Alexi Hawley (story by William Wisher and Caleb Carr)",
+   "basedOn": "Prequel to The Exorcist (1973)",
+   "distributor": "Warner Bros. Pictures",
+   "setting": "",
+   "cast": [
+    [
+     "Stellan Skarsgård",
+     "Father Lankester Merrin"
+    ],
+    [
+     "Izabella Scorupco",
+     "Sarah"
+    ],
+    [
+     "James D'Arcy",
+     "Father Francis"
+    ],
+    [
+     "Remy Sweeney",
+     "Joseph"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$78.1M worldwide on $50M budget",
+   "notes": [
+    "Fourth Exorcist film",
+    "Alternative version Dominion: Prequel to the Exorcist (Paul Schrader) was released in 2005"
+   ],
+   "sources": [
+    "wp:Exorcist:_The_Beginning"
+   ]
+  },
+  {
+   "title": "Willard",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "killer animals / psychological horror",
+   "director": "Glen Morgan",
+   "writers": "Glen Morgan",
+   "basedOn": "Novel Ratman's Notebooks by Stephen Gilbert; Willard (1971)",
+   "distributor": "New Line Cinema",
+   "setting": "",
+   "cast": [
+    [
+     "Crispin Glover",
+     "Willard Stiles"
+    ],
+    [
+     "R. Lee Ermey",
+     "Frank Martin"
+    ]
+   ],
+   "villain": "Ben, a large rat",
+   "boxOffice": "$8.6M worldwide on $20M budget",
+   "notes": [
+    "Not billed as a remake of the 1971 film"
+   ],
+   "sources": [
+    "wp:Willard_(2003_film)"
+   ]
+  },
+  {
+   "title": "Jeepers Creepers 2",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "monster horror sequel",
+   "director": "Victor Salva",
+   "writers": "Victor Salva",
+   "basedOn": "",
+   "distributor": "MGM Distribution Co.",
+   "setting": "",
+   "cast": [
+    [
+     "Ray Wise",
+     "Jack Taggart"
+    ],
+    [
+     "Jonathan Breck",
+     "The Creeper"
+    ]
+   ],
+   "villain": "The Creeper",
+   "boxOffice": "$63.1M worldwide on $17M budget",
+   "notes": [
+    "Sequel to Jeepers Creepers (2001)",
+    "Francis Ford Coppola returned as executive producer",
+    "Released August 29, 2003"
+   ],
+   "sources": [
+    "wp:Jeepers_Creepers_2"
+   ]
+  },
+  {
+   "title": "Dreamcatcher",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "sci-fi horror",
+   "director": "Lawrence Kasdan",
+   "writers": "William Goldman and Lawrence Kasdan",
+   "basedOn": "Novel Dreamcatcher (2001) by Stephen King",
+   "distributor": "Warner Bros. Pictures",
+   "setting": "",
+   "cast": [
+    [
+     "Thomas Jane",
+     "Dr. Henry Devlin"
+    ],
+    [
+     "Damian Lewis",
+     "Gary 'Jonesy' Jones / Mr. Gray"
+    ]
+   ],
+   "villain": "Parasitic aliens",
+   "boxOffice": "$75.7M worldwide on $68M budget",
+   "notes": [
+    "Released March 21, 2003"
+   ],
+   "sources": [
+    "wp:Dreamcatcher_(2003_film)"
+   ]
+  },
+  {
+   "title": "Darkness Falls",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "supernatural horror",
+   "director": "Jonathan Liebesman",
+   "writers": "Joe Harris, James Vanderbilt and John Fasano",
+   "basedOn": "",
+   "distributor": "Sony Pictures Releasing",
+   "setting": "",
+   "cast": [
+    [
+     "Chaney Kley",
+     "Kyle Walsh"
+    ],
+    [
+     "Emma Caulfield",
+     "Caitlin Greene"
+    ]
+   ],
+   "villain": "Matilda Dixon",
+   "boxOffice": "$47.5M worldwide on $11M budget",
+   "notes": [
+    "Jonathan Liebesman's feature directorial debut",
+    "US-Australia co-production"
+   ],
+   "sources": [
+    "wp:Darkness_Falls_(2003_film)"
+   ]
+  },
+  {
+   "title": "Open Water",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "survival horror",
+   "director": "Chris Kentis",
+   "writers": "Chris Kentis",
+   "basedOn": "Loosely based on the disappearance of Tom and Eileen Lonergan",
+   "distributor": "Lions Gate Films",
+   "setting": "open sea (scuba diving trip)",
+   "cast": [
+    [
+     "Blanchard Ryan",
+     "Susan Watkins"
+    ],
+    [
+     "Daniel Travis",
+     "Daniel Kintner"
+    ]
+   ],
+   "villain": "Sharks",
+   "boxOffice": "$55.5M worldwide on $500K budget",
+   "notes": [
+    "Premiered at the Hamptons International Film Festival, Oct 26, 2003; general release August 6, 2004"
+   ],
+   "sources": [
+    "wp:Open_Water_(film)"
+   ]
+  },
+  {
+   "title": "Undead",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "zombie sci-fi comedy horror",
+   "director": "The Spierig Brothers",
+   "writers": "The Spierig Brothers",
+   "basedOn": "",
+   "distributor": "Lions Gate Films",
+   "setting": "Berkeley, a small Australian town",
+   "cast": [
+    [
+     "Felicity Mason",
+     "Rene"
+    ],
+    [
+     "Mungo McKay",
+     "Marion"
+    ]
+   ],
+   "villain": "Zombies created by meteorites",
+   "boxOffice": "US$229,250 on A$1M budget",
+   "notes": [
+    "Australian film by Michael and Peter Spierig"
+   ],
+   "sources": [
+    "wp:Undead_(film)"
+   ]
+  },
+  {
+   "title": "Dead End",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "French horror in English",
+   "director": "Jean-Baptiste Andrea and Fabrice Canepa",
+   "writers": "Jean-Baptiste Andrea and Fabrice Canepa",
+   "basedOn": "",
+   "distributor": "Lions Gate Films",
+   "setting": "a never-ending forest road",
+   "cast": [
+    [
+     "Ray Wise",
+     "Frank Harrington"
+    ],
+    [
+     "Lin Shaye",
+     "Laura Harrington"
+    ]
+   ],
+   "villain": "A mysterious Lady in White",
+   "boxOffice": "$800K on $900K budget",
+   "notes": [
+    "Premiered at Gérardmer Film Festival Jan 30, 2003"
+   ],
+   "sources": [
+    "wp:Dead_End_(2003_film)"
+   ]
+  },
+  {
+   "title": "Ju-On: The Grudge 2",
+   "altTitles": [],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "J-horror sequel",
+   "director": "Takashi Shimizu",
+   "writers": "Takashi Shimizu",
+   "basedOn": "",
+   "distributor": "",
+   "setting": "Nerima, Tokyo",
+   "cast": [
+    [
+     "Noriko Sakai",
+     ""
+    ],
+    [
+     "Chiharu Niiyama",
+     ""
+    ]
+   ],
+   "villain": "Kayako's curse",
+   "boxOffice": "$2.7M",
+   "notes": [
+    "Released in Japan August 23, 2003",
+    "Sequel to Ju-On: The Grudge"
+   ],
+   "sources": [
+    "wp:Ju-on:_The_Grudge_2"
+   ]
+  },
+  {
+   "title": "One Missed Call",
+   "altTitles": [
+    "Chakushin Ari"
+   ],
+   "year": 2003,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "J-horror",
+   "director": "Takashi Miike",
+   "writers": "Minako Daira",
+   "basedOn": "Novel Chakushin Ari by Yasushi Akimoto",
+   "distributor": "Toho",
+   "setting": "",
+   "cast": [
+    [
+     "Ko Shibasaki",
+     "Yumi Nakamura"
+    ]
+   ],
+   "villain": "Cell phone voice messages foretelling death",
+   "boxOffice": "$16.2M on $1.7M budget",
+   "notes": [
+    "Premiered at Tokyo International Film Festival Nov 3, 2003; released in Japan January 17, 2004"
+   ],
+   "sources": [
+    "wp:One_Missed_Call_(2003_film)"
+   ]
+  },
+  {
+   "title": "Three... Extremes",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "Asian horror anthology",
+   "director": "Fruit Chan, Park Chan-wook and Takashi Miike",
+   "writers": "Lilian Lee, Park Chan-wook, Bun Saikou and Haruko Fukushima",
+   "basedOn": "",
+   "distributor": "Lions Gate Films",
+   "setting": "",
+   "cast": [
+    [
+     "Bai Ling",
+     "Mei (Dumplings)"
+    ],
+    [
+     "Lee Byung-hun",
+     "Director (Cut)"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$1.5M",
+   "notes": [
+    "Segments: Dumplings (Fruit Chan, Hong Kong), Cut (Park Chan-wook, South Korea), Box (Takashi Miike, Japan)",
+    "Follow-up to Three (2002)"
+   ],
+   "sources": [
+    "wp:Three..._Extremes"
+   ]
+  },
+  {
+   "title": "Dumplings",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "Hong Kong horror",
+   "director": "Fruit Chan",
+   "writers": "Lilian Lee",
+   "basedOn": "",
+   "distributor": "",
+   "setting": "",
+   "cast": [
+    [
+     "Miriam Yeung",
+     "Mrs Li"
+    ],
+    [
+     "Bai Ling",
+     "Aunt Mei"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "",
+   "notes": [
+    "Expanded from a segment of Three... Extremes",
+    "Category III rating in Hong Kong",
+    "Premiered Berlinale Panorama, August 4, 2004 (per article)"
+   ],
+   "sources": [
+    "wp:Dumplings_(film)"
+   ]
+  },
+  {
+   "title": "Shutter",
+   "altTitles": [
+    "Chattoe: Kot Tit Winyan"
+   ],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "Thai ghost horror",
+   "director": "Banjong Pisanthanakun and Parkpoom Wongpoom",
+   "writers": "Banjong Pisanthanakun, Sopon Sukdapisit and Parkpoom Wongpoom",
+   "basedOn": "",
+   "distributor": "GMM Tai Hub",
+   "setting": "",
+   "cast": [
+    [
+     "Ananda Everingham",
+     "Tun"
+    ],
+    [
+     "Natthaweeranuch Thongmee",
+     "Jane"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "฿109.98M",
+   "notes": [
+    "Thai title Chattoe: Kot Tit Winyan",
+    "Released September 9, 2004"
+   ],
+   "sources": [
+    "wp:Shutter_(2004_film)"
+   ]
+  },
+  {
+   "title": "Dead Birds",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "horror Western",
+   "director": "Alex Turner",
+   "writers": "Simon Barrett",
+   "basedOn": "",
+   "distributor": "Sony Pictures Home Entertainment",
+   "setting": "an abandoned plantation",
+   "cast": [
+    [
+     "Henry Thomas",
+     ""
+    ],
+    [
+     "Nicki Aycox",
+     ""
+    ]
+   ],
+   "villain": "Supernatural forces",
+   "boxOffice": "",
+   "notes": [
+    "Deserters turned bank robbers hide in an abandoned plantation",
+    "Premiered Toronto Sept 13, 2004; US release March 15, 2005"
+   ],
+   "sources": [
+    "wp:Dead_Birds_(2004_film)"
+   ]
+  },
+  {
+   "title": "Ginger Snaps 2: Unleashed",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "Canadian werewolf horror",
+   "director": "Brett Sullivan",
+   "writers": "Megan Martin",
+   "basedOn": "",
+   "distributor": "Lionsgate Films",
+   "setting": "",
+   "cast": [
+    [
+     "Emily Perkins",
+     "Brigitte Fitzgerald"
+    ],
+    [
+     "Katharine Isabelle",
+     "Ginger Fitzgerald"
+    ]
+   ],
+   "villain": "Werewolf",
+   "boxOffice": "$80,372 (US) on $3.5M budget",
+   "notes": [
+    "Sequel to Ginger Snaps (2000)",
+    "Prequel Ginger Snaps Back: The Beginning followed"
+   ],
+   "sources": [
+    "wp:Ginger_Snaps_2:_Unleashed"
+   ]
+  },
+  {
+   "title": "Creep",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "British slasher",
+   "director": "Christopher Smith",
+   "writers": "Christopher Smith",
+   "basedOn": "",
+   "distributor": "Pathé",
+   "setting": "London Underground",
+   "cast": [
+    [
+     "Franka Potente",
+     "Kate"
+    ],
+    [
+     "Sean Harris",
+     "Craig, the Creep"
+    ]
+   ],
+   "villain": "A hideously deformed killer living in the sewers",
+   "boxOffice": "£1.7M",
+   "notes": [
+    "First shown at Frankfurt Fantasy Film Festival August 10, 2004"
+   ],
+   "sources": [
+    "wp:Creep_(2004_film)"
+   ]
+  },
+  {
+   "title": "The Skeleton Key",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "Southern Gothic supernatural horror",
+   "director": "Iain Softley",
+   "writers": "Ehren Kruger",
+   "basedOn": "",
+   "distributor": "Universal Pictures",
+   "setting": "a plantation home, Terrebonne Parish",
+   "cast": [
+    [
+     "Kate Hudson",
+     "Caroline Ellis"
+    ],
+    [
+     "Gena Rowlands",
+     "Violet Devereaux"
+    ]
+   ],
+   "villain": "Hoodoo rites",
+   "boxOffice": "$94M worldwide on $43M budget",
+   "notes": [
+    "Hospice nurse in New Orleans area",
+    "Released August 12, 2005 in US"
+   ],
+   "sources": [
+    "wp:The_Skeleton_Key"
+   ]
+  },
+  {
+   "title": "White Noise",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "supernatural horror",
+   "director": "Geoffrey Sax",
+   "writers": "Niall Johnson",
+   "basedOn": "",
+   "distributor": "Universal Pictures",
+   "setting": "",
+   "cast": [
+    [
+     "Michael Keaton",
+     "Jonathan Rivers"
+    ],
+    [
+     "Deborah Kara Unger",
+     "Sarah Tate"
+    ]
+   ],
+   "villain": "Spirits via electronic voice phenomena",
+   "boxOffice": "$91.2M worldwide on $10M budget",
+   "notes": [
+    "About electronic voice phenomena (EVP)",
+    "Released January 7, 2005"
+   ],
+   "sources": [
+    "wp:White_Noise_(2005_film)"
+   ]
+  },
+  {
+   "title": "Hide and Seek",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "psychological thriller",
+   "director": "John Polson",
+   "writers": "Ari Schlossberg",
+   "basedOn": "",
+   "distributor": "20th Century Fox",
+   "setting": "",
+   "cast": [
+    [
+     "Robert De Niro",
+     "David Callaway"
+    ],
+    [
+     "Dakota Fanning",
+     "Emily Callaway"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$127.4M worldwide on $25M budget",
+   "notes": [
+    "Albert Hughes was initially signed to direct but left",
+    "Released January 28, 2005"
+   ],
+   "sources": [
+    "wp:Hide_and_Seek_(2005_film)"
+   ]
+  },
+  {
+   "title": "Cursed",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "werewolf horror comedy",
+   "director": "Wes Craven",
+   "writers": "Kevin Williamson",
+   "basedOn": "",
+   "distributor": "Miramax Films",
+   "setting": "Los Angeles",
+   "cast": [
+    [
+     "Christina Ricci",
+     "Ellie Myers"
+    ],
+    [
+     "Joshua Jackson",
+     "Jake Taylor"
+    ]
+   ],
+   "villain": "A werewolf loose in Los Angeles",
+   "boxOffice": "$29.6M on $37-38M budget",
+   "notes": [
+    "Craven and Williamson also collaborated on Scream",
+    "Originally planned for 2003",
+    "Released February 25, 2005"
+   ],
+   "sources": [
+    "wp:Cursed_(2005_film)"
+   ]
+  },
+  {
+   "title": "Alone in the Dark",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "video game horror",
+   "director": "Uwe Boll",
+   "writers": "Elan Mastai, Michael Roesch and Peter Scheerer",
+   "basedOn": "Alone in the Dark: The New Nightmare (2001) video game",
+   "distributor": "Lions Gate Films",
+   "setting": "",
+   "cast": [
+    [
+     "Christian Slater",
+     "Edward Carnby"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$12.7M on $20M budget",
+   "notes": [
+    "Poorly received on release"
+   ],
+   "sources": [
+    "wp:Alone_in_the_Dark_(2005_film)"
+   ]
+  },
+  {
+   "title": "Doom",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "sci-fi horror",
+   "director": "Andrzej Bartkowiak",
+   "writers": "",
+   "basedOn": "Doom video game series by id Software",
+   "distributor": "Universal Pictures",
+   "setting": "a research facility on Mars",
+   "cast": [
+    [
+     "Karl Urban",
+     "John 'Reaper' Grimm"
+    ],
+    [
+     "Dwayne 'The Rock' Johnson",
+     "Sgt. Asher 'Sarge' Mahonin"
+    ]
+   ],
+   "villain": "Demon-like creatures",
+   "boxOffice": "$58.7M on $60-70M budget",
+   "notes": [
+    "Story by David Callaham",
+    "Released October 21, 2005 in US"
+   ],
+   "sources": [
+    "wp:Doom_(film)"
+   ]
+  },
+  {
+   "title": "Blade: Trinity",
+   "altTitles": [],
+   "year": 2004,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "vampire action horror",
+   "director": "David S. Goyer",
+   "writers": "David S. Goyer",
+   "basedOn": "Marvel Comics character Blade",
+   "distributor": "New Line Cinema",
+   "setting": "",
+   "cast": [
+    [
+     "Wesley Snipes",
+     "Blade"
+    ],
+    [
+     "Jessica Biel",
+     "Abigail Whistler"
+    ]
+   ],
+   "villain": "Danica Talos and Dracula",
+   "boxOffice": "$132M worldwide on $65M budget",
+   "notes": [
+    "Third Blade film",
+    "Released December 8, 2004"
+   ],
+   "sources": [
+    "wp:Blade:_Trinity"
+   ]
+  },
+  {
+   "title": "The Cave",
+   "altTitles": [],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "monster horror",
+   "director": "Bruce Hunt",
+   "writers": "Michael Steinberg and Tegan West",
+   "basedOn": "",
+   "distributor": "Screen Gems",
+   "setting": "",
+   "cast": [
+    [
+     "Cole Hauser",
+     "Jack McAllister"
+    ],
+    [
+     "Eddie Cibrian",
+     "Tyler McAllister"
+    ]
+   ],
+   "villain": "Cave-dwelling creatures",
+   "boxOffice": "$33.3M on $25M budget",
+   "notes": [
+    "Cave-divers and scientists become trapped"
+   ],
+   "sources": [
+    "wp:The_Cave_(2005_film)"
+   ]
+  },
+  {
+   "title": "Noroi: The Curse",
+   "altTitles": [
+    "Noroi"
+   ],
+   "year": 2005,
+   "yearNote": "",
+   "tier": 3,
+   "genreNote": "Japanese found-footage horror",
+   "director": "Kōji Shiraishi",
+   "writers": "Kōji Shiraishi and Naoyuki Yokota",
+   "basedOn": "",
+   "distributor": "Xanadeux",
+   "setting": "",
+   "cast": [
+    [
+     "Jin Muraki",
+     "paranormal researcher"
+    ]
+   ],
+   "villain": "",
+   "boxOffice": "$2M budget",
+   "notes": [
+    "Presented as a finished documentary using pseudo-documentary/found-footage techniques",
+    "Released August 20, 2005"
+   ],
+   "sources": [
+    "wp:Noroi:_The_Curse"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "wp:A_Tale_of_Two_Sisters",
+   "url": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Sisters",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Alien_vs._Predator_(film)",
+   "url": "https://en.wikipedia.org/wiki/Alien_vs._Predator_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Alone_in_the_Dark_(2005_film)",
+   "url": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2005_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Blade:_Trinity",
+   "url": "https://en.wikipedia.org/wiki/Blade:_Trinity",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Boogeyman_(film)",
+   "url": "https://en.wikipedia.org/wiki/Boogeyman_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Constantine_(film)",
+   "url": "https://en.wikipedia.org/wiki/Constantine_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Corpse_Bride",
+   "url": "https://en.wikipedia.org/wiki/Corpse_Bride",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Creep_(2004_film)",
+   "url": "https://en.wikipedia.org/wiki/Creep_(2004_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Cursed_(2005_film)",
+   "url": "https://en.wikipedia.org/wiki/Cursed_(2005_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Dark_Water_(2005_film)",
+   "url": "https://en.wikipedia.org/wiki/Dark_Water_(2005_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Darkness_Falls_(2003_film)",
+   "url": "https://en.wikipedia.org/wiki/Darkness_Falls_(2003_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Dawn_of_the_Dead_(2004_film)",
+   "url": "https://en.wikipedia.org/wiki/Dawn_of_the_Dead_(2004_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Dead_Birds_(2004_film)",
+   "url": "https://en.wikipedia.org/wiki/Dead_Birds_(2004_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Dead_End_(2003_film)",
+   "url": "https://en.wikipedia.org/wiki/Dead_End_(2003_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Doom_(film)",
+   "url": "https://en.wikipedia.org/wiki/Doom_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Dreamcatcher_(2003_film)",
+   "url": "https://en.wikipedia.org/wiki/Dreamcatcher_(2003_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Dumplings_(film)",
+   "url": "https://en.wikipedia.org/wiki/Dumplings_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Exorcist:_The_Beginning",
+   "url": "https://en.wikipedia.org/wiki/Exorcist:_The_Beginning",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Final_Destination_2",
+   "url": "https://en.wikipedia.org/wiki/Final_Destination_2",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Freddy_vs._Jason",
+   "url": "https://en.wikipedia.org/wiki/Freddy_vs._Jason",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Ginger_Snaps_2:_Unleashed",
+   "url": "https://en.wikipedia.org/wiki/Ginger_Snaps_2:_Unleashed",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Gothika",
+   "url": "https://en.wikipedia.org/wiki/Gothika",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Hide_and_Seek_(2005_film)",
+   "url": "https://en.wikipedia.org/wiki/Hide_and_Seek_(2005_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:High_Tension",
+   "url": "https://en.wikipedia.org/wiki/High_Tension",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Hostel_(2005_film)",
+   "url": "https://en.wikipedia.org/wiki/Hostel_(2005_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:House_of_1000_Corpses",
+   "url": "https://en.wikipedia.org/wiki/House_of_1000_Corpses",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:House_of_Wax_(2005_film)",
+   "url": "https://en.wikipedia.org/wiki/House_of_Wax_(2005_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Identity_(2003_film)",
+   "url": "https://en.wikipedia.org/wiki/Identity_(2003_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Jeepers_Creepers_2",
+   "url": "https://en.wikipedia.org/wiki/Jeepers_Creepers_2",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Ju-on:_The_Grudge_2",
+   "url": "https://en.wikipedia.org/wiki/Ju-on:_The_Grudge_2",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Land_of_the_Dead",
+   "url": "https://en.wikipedia.org/wiki/Land_of_the_Dead",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Noroi:_The_Curse",
+   "url": "https://en.wikipedia.org/wiki/Noroi:_The_Curse",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:One_Missed_Call_(2003_film)",
+   "url": "https://en.wikipedia.org/wiki/One_Missed_Call_(2003_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Open_Water_(film)",
+   "url": "https://en.wikipedia.org/wiki/Open_Water_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Resident_Evil:_Apocalypse",
+   "url": "https://en.wikipedia.org/wiki/Resident_Evil:_Apocalypse",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Saw_(film)",
+   "url": "https://en.wikipedia.org/wiki/Saw_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Saw_II",
+   "url": "https://en.wikipedia.org/wiki/Saw_II",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Seed_of_Chucky",
+   "url": "https://en.wikipedia.org/wiki/Seed_of_Chucky",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Shaun_of_the_Dead",
+   "url": "https://en.wikipedia.org/wiki/Shaun_of_the_Dead",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Shutter_(2004_film)",
+   "url": "https://en.wikipedia.org/wiki/Shutter_(2004_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Cave_(2005_film)",
+   "url": "https://en.wikipedia.org/wiki/The_Cave_(2005_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Descent",
+   "url": "https://en.wikipedia.org/wiki/The_Descent",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Devil's_Rejects",
+   "url": "https://en.wikipedia.org/wiki/The_Devil's_Rejects",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Exorcism_of_Emily_Rose",
+   "url": "https://en.wikipedia.org/wiki/The_Exorcism_of_Emily_Rose",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Grudge",
+   "url": "https://en.wikipedia.org/wiki/The_Grudge",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Ring_Two",
+   "url": "https://en.wikipedia.org/wiki/The_Ring_Two",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Skeleton_Key",
+   "url": "https://en.wikipedia.org/wiki/The_Skeleton_Key",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Texas_Chainsaw_Massacre_(2003_film)",
+   "url": "https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_(2003_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:The_Village_(2004_film)",
+   "url": "https://en.wikipedia.org/wiki/The_Village_(2004_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Three..._Extremes",
+   "url": "https://en.wikipedia.org/wiki/Three..._Extremes",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Undead_(film)",
+   "url": "https://en.wikipedia.org/wiki/Undead_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Underworld_(2003_film)",
+   "url": "https://en.wikipedia.org/wiki/Underworld_(2003_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Van_Helsing_(film)",
+   "url": "https://en.wikipedia.org/wiki/Van_Helsing_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Wallace_&_Gromit:_The_Curse_of_the_Were-Rabbit",
+   "url": "https://en.wikipedia.org/wiki/Wallace_&_Gromit:_The_Curse_of_the_Were-Rabbit",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:White_Noise_(2005_film)",
+   "url": "https://en.wikipedia.org/wiki/White_Noise_(2005_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Willard_(2003_film)",
+   "url": "https://en.wikipedia.org/wiki/Willard_(2003_film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Wolf_Creek_(film)",
+   "url": "https://en.wikipedia.org/wiki/Wolf_Creek_(film)",
+   "verifiedOn": "2026-10-10"
+  },
+  {
+   "id": "wp:Wrong_Turn_(2003_film)",
+   "url": "https://en.wikipedia.org/wiki/Wrong_Turn_(2003_film)",
+   "verifiedOn": "2026-10-10"
+  }
+ ],
+ "unverified": [
+  "Facts taken from each film's English Wikipedia article (API/web_extract); cast/role pairs from cast section or infobox. Where a character name wasn't visible in retrieved text the character is '' (Wallace & Gromit, Constantine, Ju-On 2, Dead Birds, Dreamcatcher's Freeman, AVP's Bremner).",
+  "Hostel: article titled '(2005 film)' but states US theatrical release Jan 6, 2006 - included per article title; parent may move it to the 2006 slice.",
+  "Year edge cases: The Descent (UK Jul 2005, US Aug 2006), Wolf Creek (Sundance Jan 2005, Australia Nov 2005), Dead Birds (Toronto Sept 2004, US Mar 2005), One Missed Call (TIFF Nov 2003, Japan Jan 2004), Open Water (HIFF Oct 2003, wide Aug 2004).",
+  "Setting/villain fields paraphrased from article lead/cast snippets only; many settings left empty. Notes limited to facts seen in lead/infobox/cast text; no plot-section trivia mined, so notes are thinner than the 1990s pack.",
+  "Box office copied from infobox/lead; may be rounded or inconsistent across article sections (e.g., Land of the Dead infobox $47.1M vs lead ~$46M).",
+  "Genre-borderline inclusions: Constantine, Blade: Trinity, Hide and Seek, Corpse Bride, Wallace & Gromit, The Village, Identity, Alien vs. Predator, Doom.",
+  "Source ids: Saw cited as wp:Saw_(film) (page fetched via redirect); Wrong Turn as Wrong_Turn_(2003_film).",
+  "Considered but not included: Cabin Fever/28 Days Later/Ju-on: The Grudge (2002 firsts), Hellboy (2004), Red Eye (2005), Reincarnation (2005) - articles not retrieved; Taking Lives, Haunted Mansion (2003), Dominion (2005) retrieved but cut."
+ ]
+}
